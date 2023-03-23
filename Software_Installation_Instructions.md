@@ -39,6 +39,8 @@ https://cwiki.apache.org/confluence/display/tika/GeoTopicParser
     - refer to "How to Install Apache Maven MVN"
     - specify the file path to mvn: `../apache-maven-3.9.1/bin/mvn install assembly:assembly`
 - $ `export PATH=$PATH:$HOME/src/lucene-geo-gazetteer/src/main/bin`
+    - Note: make sure you sepcify the correct file path for the spot where 'src' is
+    > Todd's Path: export PATH=$PATH:$HOME/Desktop/USC\ Classes/DSCI550\ -\ Data\ Science\ at\ Scale/Assignment\ #2/GitHub/DSCI550-PixstoryMediaExtractionAndAnalysis/lucene-geo-gazetteer/src/main/bin
 
 #### How to Install Apache Maven MVN 
 `NOTE:` If you already pulled the repo and the apache-maven-3.9.1 directory is there, skip to step 3.
