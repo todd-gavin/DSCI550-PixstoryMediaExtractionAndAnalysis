@@ -38,7 +38,7 @@ https://cwiki.apache.org/confluence/display/tika/GeoTopicParser
 - $ `mvn install assembly:assembly` 
     - refer to "How to Install Apache Maven MVN"
     - specify the file path to mvn: `../apache-maven-3.9.1/bin/mvn install assembly:assembly`
-- $ `add $HOME/src/lucene-geo-gazetteer/src/main/bin` to you
+- $ `export PATH=$PATH:$HOME/src/lucene-geo-gazetteer/src/main/bin`
 
 #### How to Install Apache Maven MVN 
 `NOTE:` If you already pulled the repo and the apache-maven-3.9.1 directory is there, skip to step 3.
@@ -55,6 +55,15 @@ https://cwiki.apache.org/confluence/display/tika/GeoTopicParser
 #### How to Use Lucene GeoGazetter
 - The  result  of  this  should  be  the  Lucene  GeoGazetter  REST  server  running  as 
 specified here: https://github.com/chrismattmann/lucene-geo-gazetteer   
+
+Note: Run these commands inside the lucene-geo-gazetteer directory
+1. `curl -O http://download.geonames.org/export/dump/allCountries.zip`
+2. `unzip allCountries.zip`
+3. `java -cp target/lucene-geo-gazetteer-0.3-SNAPSHOT-jar-with-dependencies.jar edu.usc.ir.geo.gazetteer.GeoNameResolver -i geoIndex -b allCountries.txt`
+4. `java -cp target/lucene-geo-gazetteer-0.3-SNAPSHOT-jar-with-dependencies.jar edu.usc.ir.geo.gazetteer.GeoNameResolver -i geoIndex -s Pasadena Texas` (with e.g. Pasedena, Texas)
+5. Test Service Mode:
+    - Launch Server: $ `lucene-geo-gazetteer -server`
+    - Query: `$ curl "localhost:8765/api/search?s=Pasadena&s=Texas&c=2"`
 
 #### How to Connect to Lucene GeoGazetter
 - You can connect the GeoGazetteer to Tika-Python using the instructions here: 
