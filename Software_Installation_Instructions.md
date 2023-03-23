@@ -7,13 +7,19 @@ Run Command: `pip install langdetect`
 https://gowda.ai/posts/2021/04/mtdata-nlcodec-rtg-many-english/  The  result  will  be  a 
 REST service running on port 6000 
 
-> MTData - A tool to download machine translation datasets https://github.com/thammegowda/mtdata/
+> MTData
+A tool to download machine translation datasets https://github.com/thammegowda/mtdata/
+
 `pip install mtdata`
 
-> NLCodec - https://isi-nlp.github.io/nlcodec/
+> NLCodec
+https://isi-nlp.github.io/nlcodec/
+
 `pip install nlcodec`
 
-> RTG - https://isi-nlp.github.io/rtg/
+> RTG
+https://isi-nlp.github.io/rtg/
+
 `pip install rtg`
 
 ### 3. Download  and  install  Tika  Python  using  PIP  and  the  instructions  at 
