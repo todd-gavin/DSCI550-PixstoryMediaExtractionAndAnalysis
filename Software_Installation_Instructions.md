@@ -40,6 +40,7 @@ https://cwiki.apache.org/confluence/display/tika/GeoTopicParser
     - specify the file path to mvn: `../apache-maven-3.9.1/bin/mvn install assembly:assembly`
 - $ `export PATH=$PATH:$HOME/src/lucene-geo-gazetteer/src/main/bin`
     - Note: make sure you sepcify the correct file path for the spot where 'src' is
+    
     > Todd's Path: export PATH=$PATH:$HOME/Desktop/USC\ Classes/DSCI550\ -\ Data\ Science\ at\ Scale/Assignment\ #2/GitHub/DSCI550-PixstoryMediaExtractionAndAnalysis/lucene-geo-gazetteer/src/main/bin
 
 #### How to Install Apache Maven MVN 
@@ -52,7 +53,7 @@ https://cwiki.apache.org/confluence/display/tika/GeoTopicParser
 6. Check that MVN is installed using command: `mvn -v`
     - In the lucene-geo-gazetteer, check that mvn is installed with command: `../apache-maven-3.9.1/bin/mvn -v`
 
-> Todd's Path Command for Step 5: export PATH=/Users/toddgavin/Desktop/USC Classes/DSCI550 - Data Science at Scale/Assignment #2/GitHub/DSCI550-PixstoryMediaExtractionAndAnalysis/apache-maven-3.9.1/bin:$PATH
+    > Todd's Path Command for Step 5: export PATH=/Users/toddgavin/Desktop/USC Classes/DSCI550 - Data Science at Scale/Assignment #2/GitHub/DSCI550-PixstoryMediaExtractionAndAnalysis/apache-maven-3.9.1/bin:$PATH
 
 #### How to Use Lucene GeoGazetter
 - The  result  of  this  should  be  the  Lucene  GeoGazetter  REST  server  running  as 
@@ -67,7 +68,7 @@ Note: Run these commands inside the lucene-geo-gazetteer directory
     - Launch Server: $ `lucene-geo-gazetteer -server`
     - Query: `$ curl "localhost:8765/api/search?s=Pasadena&s=Texas&c=2"`
 
-#### How to Connect to Lucene GeoGazetter
+#### How to Connect to Lucene GeoGazetter in Python
 - You can connect the GeoGazetteer to Tika-Python using the instructions here: 
 https://github.com/chrismattmann/tika-python#changing-the-tika-classpath  
 
