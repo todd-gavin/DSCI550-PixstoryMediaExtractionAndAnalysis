@@ -9,38 +9,35 @@ REST service running on port 6000
 
 > MTData
 A tool to download machine translation datasets https://github.com/thammegowda/mtdata/
-
-`pip install mtdata`
+- `pip install mtdata`
 
 > NLCodec
 https://isi-nlp.github.io/nlcodec/
-
-`pip install nlcodec`
+- `pip install nlcodec`
 
 > RTG
 https://isi-nlp.github.io/rtg/
-
-`pip install rtg`
+- `pip install rtg`
 
 ### 3. Download  and  install  Tika  Python  using  PIP  and  the  instructions  at 
 http://github.com/chrismattmann/tika-python 
-    - With the RTG running, running tika’s translate module will automatically work fine (since it will pick up the RTG server) 
-    - The Tika language module (it’s language detector) should also work fine 
+- With the RTG running, running tika’s translate module will automatically work fine (since it will pick up the RTG server) 
+- The Tika language module (it’s language detector) should also work fine 
 
 Run Command: `pip install tika`
 - To check what tika is installed, run command: `pip show tika`
 
 ### 4.  Install  GeoTopicParser  using  the  instructions  here 
 https://cwiki.apache.org/confluence/display/tika/GeoTopicParser  
-a. The  result  of  this  should  be  the  Lucene  GeoGazetter  REST  server  running  as 
+- The  result  of  this  should  be  the  Lucene  GeoGazetter  REST  server  running  as 
 specified here: https://github.com/chrismattmann/lucene-geo-gazetteer   
-b. You can connect the GeoGazetteer to Tika-Python using the instructions here: 
+- You can connect the GeoGazetteer to Tika-Python using the instructions here: 
 https://github.com/chrismattmann/tika-python#changing-the-tika-classpath  
 
 
 ### 5. Install Detoxify using PIP and the instructions here: 
 https://pypi.org/project/detoxify/  
-a. Note that if you are using Mac and Python, using pyenv, and you run into issues 
+- Note that if you are using Mac and Python, using pyenv, and you run into issues 
 installing  Detoxify  and  torch  with  PIP,  see  this  for  an  easy  workaround 
 https://github.com/pytorch/pytorch/issues/53601#issuecomment-967307449   
 
