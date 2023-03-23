@@ -27,13 +27,33 @@ http://github.com/chrismattmann/tika-python
 Run Command: `pip install tika`
 - To check what tika is installed, run command: `pip show tika`
 
-### 4.  Install  GeoTopicParser  using  the  instructions  here 
+### 4. Install GeoTopicParser using the instructions here 
+
+#### Installing the Lucene Gazetteer
 https://cwiki.apache.org/confluence/display/tika/GeoTopicParser  
+> First you will need to download the Lucene Geo Gazetteer project and to install it. You can do so by:
+- $ `cd $HOME/src` - change directory to the Repo directory
+- $ `git clone https://github.com/chrismattmann/lucene-geo-gazetteer.git`
+- $ `cd lucene-geo-gazetteer`
+- $ `mvn install assembly:assembly` 
+    - refer to "How to Install Apache Maven MVN"
+    - specify the file path to mvn: `../apache-maven-3.9.1/bin/mvn install assembly:assembly`
+- $ `add $HOME/src/lucene-geo-gazetteer/src/main/bin to you`
+
+#### How to Install Apache Maven MVN
+1. Download this file: https://dlcdn.apache.org/maven/maven-3/3.9.1/binaries/apache-maven-3.9.1-bin.tar.gz
+2. Place file in repo folder. 
+3. Run this command in you terminal at the folder where the tar file is located: `tar xzvf apache-maven-3.9.1-bin.tar.gz`
+4. Locate the file path of the apache-maven folder using command: `pwd`
+5. Using that file path, run this command in your BASE working directory: `export PATH=/Users/daniilabbruzzese/Documents/Senior\ Year/DSCI\ 550/assignment\ 2/DSCI550-PixstoryMediaExtractionAndAnalysis/apache-maven-3.9.1/bin:$PATH`
+6. Check that MVN is installed using command: `mvn -v`
+
+> Todd's Path Command for Step 5: export PATH=/Users/toddgavin/Desktop/USC Classes/DSCI550 - Data Science at Scale/Assignment #2/GitHub/DSCI550-PixstoryMediaExtractionAndAnalysis/apache-maven-3.9.1/bin:$PATH
+
 - The  result  of  this  should  be  the  Lucene  GeoGazetter  REST  server  running  as 
 specified here: https://github.com/chrismattmann/lucene-geo-gazetteer   
 - You can connect the GeoGazetteer to Tika-Python using the instructions here: 
 https://github.com/chrismattmann/tika-python#changing-the-tika-classpath  
-
 
 ### 5. Install Detoxify using PIP and the instructions here: 
 https://pypi.org/project/detoxify/  
