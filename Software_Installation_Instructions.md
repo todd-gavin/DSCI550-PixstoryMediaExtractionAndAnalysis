@@ -63,11 +63,11 @@ Note: Run these commands inside the lucene-geo-gazetteer directory
 1. `curl -O http://download.geonames.org/export/dump/allCountries.zip`
 2. `unzip allCountries.zip`
 3. `java -cp target/lucene-geo-gazetteer-0.3-SNAPSHOT-jar-with-dependencies.jar edu.usc.ir.geo.gazetteer.GeoNameResolver -i geoIndex -b allCountries.txt`
-4. `java -cp target/lucene-geo-gazetteer-0.3-SNAPSHOT-jar-with-dependencies.jar edu.usc.ir.geo.gazetteer.GeoNameResolver -i geoIndex -s Pasadena Texas` (with e.g. Pasedena, Texas)
+4. `java -cp target/lucene-geo-gazetteer-0.3-SNAPSHOT-jar-with-dependencies.jar edu.usc.ir.geo.gazetteer.GeoNameResolver -i geoIndex -s Pasadena Texas` (testing with e.g. Pasedena, Texas)
 
 > ### ERROR: Still working on testing service mode
 
-5. Test Service Mode:
+5. Test Service Mode (with e.g. Pasedena, Texas):
     - Launch Server: $ `lucene-geo-gazetteer -server`
     - Query: `$ curl "localhost:8765/api/search?s=Pasadena&s=Texas&c=2"`
 
@@ -88,11 +88,15 @@ https://github.com/pytorch/pytorch/issues/53601#issuecomment-967307449
 - To  access  the  images,  use  the  URL  from  the  post  and give  it  the  URL  prefix 
 “/optimized”,  such  as:  https://image.pixstory.com/optimized/Pixstory-image-
 164416629024955.jpeg  
-- Download all 95k images associated with the posts 
+
+1. Download all 95k images associated with the posts 
     - Write a simple python script to do this 
-- Install Tika Dockers package for Image Captioning and Object Recognition 
-    - git  clone  https://github.com/USCDataScience/tika-dockers.git and https://hub.docker.com/r/uscdatascience/im2txt-rest-tika  
+2. Install Tika Dockers package for Image Captioning and Object Recognition 
+    - Run Commands:
+        - `git clone https://github.com/USCDataScience/tika-dockers.git`
+        - Need to open "Docker Desktop" on Mac and ensure it is running before exectuign this command.
+            - `docker pull uscdatascience/im2txt-rest-tika`
     - Read  and  test  out: https://cwiki.apache.org/confluence/display/TIKA/TikaAndVisionDL4J   
     - Read and test out: https://github.com/apache/tika/pull/189  
--  Iterate through all the Pixstory posts and add the generated image caption and the 
+3. Iterate through all the Pixstory posts and add the generated image caption and the 
 detect object(s) column to your dataset
