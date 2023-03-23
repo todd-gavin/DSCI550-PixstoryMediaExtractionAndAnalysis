@@ -64,6 +64,9 @@ Note: Run these commands inside the lucene-geo-gazetteer directory
 2. `unzip allCountries.zip`
 3. `java -cp target/lucene-geo-gazetteer-0.3-SNAPSHOT-jar-with-dependencies.jar edu.usc.ir.geo.gazetteer.GeoNameResolver -i geoIndex -b allCountries.txt`
 4. `java -cp target/lucene-geo-gazetteer-0.3-SNAPSHOT-jar-with-dependencies.jar edu.usc.ir.geo.gazetteer.GeoNameResolver -i geoIndex -s Pasadena Texas` (with e.g. Pasedena, Texas)
+
+> ## ERROR: Still working on testing service mode
+
 5. Test Service Mode:
     - Launch Server: $ `lucene-geo-gazetteer -server`
     - Query: `$ curl "localhost:8765/api/search?s=Pasadena&s=Texas&c=2"`
