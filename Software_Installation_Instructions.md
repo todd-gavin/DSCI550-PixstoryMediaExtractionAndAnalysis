@@ -65,7 +65,6 @@ Run Command: `pip install detoxify`
 installing  Detoxify  and  torch  with  PIP,  see  this  for  an  easy  workaround 
 https://github.com/pytorch/pytorch/issues/53601#issuecomment-967307449   
 
-
 ### 6. Install Tika Image Dockers and generate captions for your Pixstory images posts 
 - To  access  the  images,  use  the  URL  from  the  post  and give  it  the  URL  prefix 
 “/optimized”,  such  as:  https://image.pixstory.com/optimized/Pixstory-image-
