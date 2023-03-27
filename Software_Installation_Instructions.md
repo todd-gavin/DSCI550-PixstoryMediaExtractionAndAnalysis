@@ -111,8 +111,31 @@ java -classpath tika-build/tika-app-${TIKA_VERSION}.jar:tika-build/tika-parser-n
 2. Now, I will run it on the polar.geot file: `./geotopic-parser polar.geot`
 
 #### Start up the geotopic-REST serve
-- and then similarly create a simple script to do that too, called geotopic-server which I will paste below (don't forget to chmod +x geotopic-server before running it.) 
-\- Note once you run it, it will take control of the terminal unless you put it in the background, so you'll need a new terminal to test it out):
+- And then similarly create a simple script to do that too, called geotopic-server which I will paste below (don't forget to chmod +x geotopic-server before running it.) 
+- Note once you run it, it will take control of the terminal unless you put it in the background, so you'll need a new terminal to test it out.
+
+1. Create file geotopic-server file:
+```sh
+export TIKA_VERSION=2.7.0
+
+java -classpath ${PWD}/location-ner-model:${PWD}/geotopic-mime:tika-build/tika-server-standard-${TIKA_VERSION}.jar:tika-build/tika-parser-nlp-package-${TIKA_VERSION}.jar \
+     org.apache.tika.server.core.TikaServerCli%     
+```
+2. Give executable permission to the file geotopic-server by running command: `chmod +x geotopic-server`
+3. Run command: `./geotopic-server`
+4. If its working, test out the GeoTopic REST server by opening new base terminal and running: `curl -T polar.geot -H "Content-Disposition: attachment; filename=polar.geot" http://localhost:9998/rmeta | python -mjson.tool`
+
+#### Running GeoTopic Server from Python
+If you want to call your new GeoTopic server from Python, using Tika-Python it's simple! You just drop into Python, and run Tika on a *.geot file. 
+```python
+from tika import parser
+parsed = parser.from_file('polar.geot', headers={ 'Content-Type' : 'application/geotopic'})
+print(parsed)
+```
+OUTPUT:
+```js
+{'metadata': {'Geographic_LONGITUDE': '-98.5', 'Geographic_NAME': 'United States', 'X-TIKA:Parsed-By-Full-Set': ['org.apache.tika.parser.DefaultParser', 'org.apache.tika.parser.geo.GeoParser'], 'resourceName': "b'polar.geot'", 'Optional_NAME1': 'People's Republic of China', 'Optional_LATITUDE1': '35.0', 'Optional_LONGITUDE1': '105.0', 'X-TIKA:Parsed-By': ['org.apache.tika.parser.DefaultParser', 'org.apache.tika.parser.geo.GeoParser'], 'X-TIKA:parse_time_millis': '61', 'X-TIKA:embedded_depth': '0', 'Geographic_LATITUDE': '39.76', 'Content-Length': '881', 'Content-Type-Override': 'application/geotopic', 'Content-Type': 'application/geotopic'}, 'content': None, 'status': 200}
+```
 
 ## 5. Install Detoxify using PIP and the instructions here: 
 https://pypi.org/project/detoxify/  

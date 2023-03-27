@@ -1,0 +1,4 @@
+export TIKA_VERSION=2.7.0
+
+java -classpath ${PWD}/location-ner-model:${PWD}/geotopic-mime:tika-build/tika-server-standard-${TIKA_VERSION}.jar:tika-build/tika-parser-nlp-package-${TIKA_VERSION}.jar \
+     org.apache.tika.server.core.TikaServerCli%   
