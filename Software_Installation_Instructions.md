@@ -40,6 +40,8 @@ https://cwiki.apache.org/confluence/display/tika/GeoTopicParser
     - specify the file path to mvn: `../apache-maven-3.9.1/bin/mvn install assembly:assembly`
 - $ `export PATH=$PATH:$HOME/src/lucene-geo-gazetteer/src/main/bin`
     - Note: make sure you sepcify the correct file path for the spot where 'src' is
+
+    > export PATH=$PATH:"$HOME/Documents/Senior Year/DSCI 550/assignment 2/DSCI550-PixstoryMediaExtractionAndAnalysis/lucene-geo-gazetteer/src/main/bin"
     
     > Todd's Path: export PATH=$PATH:$HOME/Desktop/USC\ Classes/DSCI550\ -\ Data\ Science\ at\ Scale/Assignment\ #2/GitHub/DSCI550-PixstoryMediaExtractionAndAnalysis/lucene-geo-gazetteer/src/main/bin
 
