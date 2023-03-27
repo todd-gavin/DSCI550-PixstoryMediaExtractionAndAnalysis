@@ -80,6 +80,7 @@ Note: Run these commands inside the lucene-geo-gazetteer directory
 5. Test Service Mode (with e.g. Pasedena, Texas):
     - Launch Server: $ `lucene-geo-gazetteer -server`
         - Once you see something like this: `INFO: Starting ProtocolHandler ["http-nio-8765"]`
+            - It indicates that the server is working and running.
         - Now open up a new terminal window
     - Query: $ `curl "localhost:8765/api/search?s=Pasadena&s=Texas&c=2"`
         - `curl "http://localhost:8765/api/search?s=Pasadena&s=Texas" | python -mjson.tool`
@@ -89,7 +90,22 @@ Note: Run these commands inside the lucene-geo-gazetteer directory
 https://github.com/chrismattmann/tika-python#changing-the-tika-classpath  
 
 #### Once Lucene GeoGazetter Server is Installed and Working, Now download and set up the NER model, and then link it to Tika
-
+1. Create new directory in repo: `mkdir location-ner-model`
+2. `cd location-ner-model`
+3. Run curl command inside location-ner-model directory: `curl -O https://opennlp.sourceforge.net/models-1.5/en-ner-location.bin`
+4. `mkdir -p org/apache/tika/parser/geo/`
+5. `mv en-ner-location.bin org/apache/tika/parser/geo/`
+6. `ls org`
+7. `pwd`
+8. `ls -alR`
+    - Should see something like this: 
+```js
+total 0
+drwxr-xr-x@  3 toddgavin  staff   96 Mar 26 19:06 .
+drwxr-xr-x@ 19 toddgavin  staff  608 Mar 26 19:04 ..
+drwxr-xr-x@  3 toddgavin  staff   96 Mar 26 19:06 or
+```
+#### Now we have to create the new application/geotopic MIME type, and map it to Tika.
 
 
 ## 5. Install Detoxify using PIP and the instructions here: 
