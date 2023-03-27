@@ -62,7 +62,7 @@ Note: Run these commands inside the lucene-geo-gazetteer directory
 - You can connect the GeoGazetteer to Tika-Python using the instructions here: 
 https://github.com/chrismattmann/tika-python#changing-the-tika-classpath  
 
-#### Once Lucene GeoGazetter Server is Installed and Working, Now download and set up the NER model, and then link it to Tika
+#### Once Lucene GeoGazetter Server is Installed and Working, Now download and set up the NER model, and then link it to Tika [SKIP_IF_location-ner-model_dir_CREATED]
 1. Create new directory in repo: `mkdir location-ner-model`
 2. `cd location-ner-model`
 3. Run curl command inside location-ner-model directory: `curl -O https://opennlp.sourceforge.net/models-1.5/en-ner-location.bin`
@@ -78,7 +78,7 @@ drwxr-xr-x@  3 toddgavin  staff   96 Mar 26 19:06 .
 drwxr-xr-x@ 19 toddgavin  staff  608 Mar 26 19:04 ..
 drwxr-xr-x@  3 toddgavin  staff   96 Mar 26 19:06 or
 ```
-#### Now we have to create the new application/geotopic MIME type, and map it to Tika.
+#### Now we have to create the new application/geotopic MIME type, and map it to Tika. [SKIP_IF_geotopic-mime_dir_CREATED]
 1. `mkdir geotopic-mime`
 2. `cd geotopic-mime`
 3. `mkdir -p org/apache/tika/mime`
@@ -86,11 +86,11 @@ drwxr-xr-x@  3 toddgavin  staff   96 Mar 26 19:06 or
 5. `mv custom-mimetypes.xml org/apache/tika/mime`
 6. `ls org/apache/tika/mime/`
 
-#### Now you need to grab an example of a file that you want to run the GeoTopicParser on...
+#### Now you need to grab an example of a file that you want to run the GeoTopicParser on... [SKIP_IF_polar.geot_CREATED]
 1. `curl -LO https://raw.githubusercontent.com/chrismattmann/geotopicparser-utils/master/geotopics/polar.geot`
 2. `cat polar.geot`
 
-#### Final step is that you need a copy of Tika App, Tika Server, and also the Tika NLP-ML module (which has the GeoTopicParser in it). You can build all of these by building Tika, but there's an easier way. Just grab the JAR files.
+#### Final step is that you need a copy of Tika App, Tika Server, and also the Tika NLP-ML module (which has the GeoTopicParser in it). You can build all of these by building Tika, but there's an easier way. Just grab the JAR files. [SKIP_IF_tika-build_dir_CREATED]
 1. `mkdir tika-build`
 2. `cd tika-build`
 3. Tika Parser NLP Package: `curl -LO https://repo1.maven.org/maven2/org/apache/tika/tika-parser-nlp-package/2.7.0/tika-parser-nlp-package-2.7.0.jar`
@@ -99,7 +99,8 @@ drwxr-xr-x@  3 toddgavin  staff   96 Mar 26 19:06 or
 
 #### > Now, we can run the command to test out the GeoTopicParser, first from the TikaApp / Command line interface (CLI). Then we'll run a Tika REST server, and try it there too.
 
-#### Created a simple script, which I will paste below called geotopic-parser that wraps the Java command and classpaths and allows you to run it on a single file.
+#### Created a simple script, which I will paste below called geotopic-parser that wraps the Java command and classpaths and allows you to run it on a single file. [SKIP_IF_geotopic-parser_CREATED]
+1. Create file geotopic-parser file:
 ```sh
 TIKA_VERSION=2.7.0
 export f=$1
@@ -107,10 +108,10 @@ export f=$1
 java -classpath tika-build/tika-app-${TIKA_VERSION}.jar:tika-build/tika-parser-nlp-package-${TIKA_VERSION}.jar:${PWD}/location-ner-model:${PWD}/geotopic-mime \
 		org.apache.tika.cli.TikaCLI -m $f
 ```
-1. Give executable permission to the file geotopic-parser by running command: `chmod +x geotopic-parser`
-2. Now, I will run it on the polar.geot file: `./geotopic-parser polar.geot`
+2. Give executable permission to the file geotopic-parser by running command: `chmod +x geotopic-parser`
+3. Now, I will run it on the polar.geot file: `./geotopic-parser polar.geot`
 
-#### Start up the geotopic-REST serve
+#### Start up the geotopic-REST server [SKIP_IF_geotopic-server_CREATED]
 - And then similarly create a simple script to do that too, called geotopic-server which I will paste below (don't forget to chmod +x geotopic-server before running it.) 
 - Note once you run it, it will take control of the terminal unless you put it in the background, so you'll need a new terminal to test it out.
 
