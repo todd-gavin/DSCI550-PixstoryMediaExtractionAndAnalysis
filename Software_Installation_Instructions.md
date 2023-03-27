@@ -28,6 +28,7 @@ Run Command: `pip install tika`
 - To check what tika is installed, run command: `pip show tika`
 
 ## 4. Install GeoTopicParser using the instructions here 
+- Refer to Slack thread: https://uscdatascience.slack.com/archives/C04JM790KHS/p1679846853060489
 
 #### Installing the Lucene Gazetteer Server
 https://cwiki.apache.org/confluence/display/tika/GeoTopicParser  
@@ -106,6 +107,16 @@ drwxr-xr-x@ 19 toddgavin  staff  608 Mar 26 19:04 ..
 drwxr-xr-x@  3 toddgavin  staff   96 Mar 26 19:06 or
 ```
 #### Now we have to create the new application/geotopic MIME type, and map it to Tika.
+1. `mkdir geotopic-mime`
+2. `cd geotopic-mime`
+3. `mkdir -p org/apache/tika/mime`
+4. `curl -O https://raw.githubusercontent.com/chrismattmann/geotopicparser-utils/master/mime/org/apache/tika/mime/custom-mimetypes.xml`
+5. `mv custom-mimetypes.xml org/apache/tika/mime`
+6. `ls org/apache/tika/mime/`
+
+#### Now you need to grab an example of a file that you want to run the GeoTopicParser on...
+1. `curl -LO https://raw.githubusercontent.com/chrismattmann/geotopicparser-utils/master/geotopics/polar.geot`
+2. `cat polar.geot`
 
 
 ## 5. Install Detoxify using PIP and the instructions here: 
