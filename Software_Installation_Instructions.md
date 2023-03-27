@@ -118,6 +118,29 @@ drwxr-xr-x@  3 toddgavin  staff   96 Mar 26 19:06 or
 1. `curl -LO https://raw.githubusercontent.com/chrismattmann/geotopicparser-utils/master/geotopics/polar.geot`
 2. `cat polar.geot`
 
+#### Final step is that you need a copy of Tika App, Tika Server, and also the Tika NLP-ML module (which has the GeoTopicParser in it). You can build all of these by building Tika, but there's an easier way. Just grab the JAR files.
+1. `mkdir tika-build`
+2. `cd tika-build`
+3. Tika Parser NLP Package: `curl -LO https://repo1.maven.org/maven2/org/apache/tika/tika-parser-nlp-package/2.7.0/tika-parser-nlp-package-2.7.0.jar`
+4. Tika App: `curl -LO https://repo1.maven.org/maven2/org/apache/tika/tika-app/2.7.0/tika-app-2.7.0.jar`
+5. Tika Server: `curl -LO https://repo1.maven.org/maven2/org/apache/tika/tika-server-standard/2.7.0/tika-server-standard-2.7.0.jar`
+
+#### > Now, we can run the command to test out the GeoTopicParser, first from the TikaApp / Command line interface (CLI). Then we'll run a Tika REST server, and try it there too.
+
+#### Created a simple script, which I will paste below called geotopic-parser that wraps the Java command and classpaths and allows you to run it on a single file.
+```sh
+TIKA_VERSION=2.7.0
+export f=$1
+
+java -classpath tika-build/tika-app-${TIKA_VERSION}.jar:tika-build/tika-parser-nlp-package-${TIKA_VERSION}.jar:${PWD}/location-ner-model:${PWD}/geotopic-mime \
+		org.apache.tika.cli.TikaCLI -m $f
+```
+1. Give executable permission to the file geotopic-parser by running command: `chmod +x geotopic-parser`
+2. Now, I will run it on the polar.geot file: `./geotopic-parser polar.geot`
+
+#### Start up the geotopic-REST serve
+- and then similarly create a simple script to do that too, called geotopic-server which I will paste below (don't forget to chmod +x geotopic-server before running it.) 
+\- Note once you run it, it will take control of the terminal unless you put it in the background, so you'll need a new terminal to test it out):
 
 ## 5. Install Detoxify using PIP and the instructions here: 
 https://pypi.org/project/detoxify/  
