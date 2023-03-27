@@ -28,6 +28,7 @@ Run Command: `pip install tika`
 - To check what tika is installed, run command: `pip show tika`
 
 ## 4. Install GeoTopicParser using the instructions here 
+- Refer to DSCI550 Slack thread: https://uscdatascience.slack.com/archives/C04JM790KHS/p1679846853060489
 
 #### Installing the Lucene Gazetteer
 https://cwiki.apache.org/confluence/display/tika/GeoTopicParser  
