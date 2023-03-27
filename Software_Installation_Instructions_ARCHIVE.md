@@ -29,7 +29,7 @@ Run Command: `pip install tika`
 
 ## 4. Install GeoTopicParser using the instructions here 
 
-#### Installing the Lucene Gazetteer Server
+#### Installing the Lucene Gazetteer
 https://cwiki.apache.org/confluence/display/tika/GeoTopicParser  
 > First you will need to download the Lucene Geo Gazetteer project and to install it. You can do so by:
 1. $ `cd $HOME/src` - change directory to the Repo directory
@@ -38,37 +38,27 @@ https://cwiki.apache.org/confluence/display/tika/GeoTopicParser
 4. $ `mvn install assembly:assembly` 
     - refer to "How to Install Apache Maven MVN"
 5. Check `mvn` version with command: `mvn --version`
-6. To check that the lucene-geo-gazetteer server is working, run command: `lucene-geo-gazetteer --help`
-    - You should see an output like this one below signifying that it is working:
-        -  If it is not working, common error you may encounter that you should fix is making sure there are NO SPACE CHARACTERS in the names of the directories that comprise your file path to the lucene-geo-gazetteer directory.
-```js
-    usage: lucene-geo-gazetteer
-        -b,--build <gazetteer file>                   The Path to the Geonames
-                                                    allCountries.txt
-        -c,--count <number of results>                Number of best results to
-                                                    be returned for one
-                                                    location
-        -h,--help                                     Print this message.
-        -i,--index <directoryPath>                    The path to the Lucene
-                                                    index directory to either
-                                                    create or read
-        -json,--json                                  Formats output in well
-                                                    defined json structure
-        -r,--enable-reverse <true / false >           Add on indexing option for
-                                                    reverse geocoding. Defaults
-                                                    to false
-        -s,--search <set of location names>           Location names to search
-                                                    the Gazetteer for
-        -server,--server                              Launches Geo Gazetteer
-                                                    Service
-        -sr,--search-reverse <latitude , longitude>   Search locations near this
-                                                    coordinate
-```
+6. $ `export PATH=$PATH:$HOME/src/lucene-geo-gazetteer/src/main/bin`
+    - Note: make sure you sepcify the correct file path for the spot where 'src' is
+    
+    > Todd's Path: export PATH=$PATH:$HOME/Desktop/USC\ Classes/DSCI550\ -\ Data\ Science\ at\ Scale/Assignment\ #2/GitHub/DSCI550-PixstoryMediaExtractionAndAnalysis/lucene-geo-gazetteer/src/main/bin
 
 #### How to Install Apache Maven MVN 
 - Run Command in 'base': `brew install maven`
 
-#### How to Use Lucene GeoGazetter Server
+##### ELSE: You can install Maven manually:
+`NOTE:` If you already pulled the repo and the apache-maven-3.9.1 directory is there, skip to step 3.
+1. Download this file: https://dlcdn.apache.org/maven/maven-3/3.9.1/binaries/apache-maven-3.9.1-bin.tar.gz
+2. Place file in repo folder. 
+3. Run this command in you terminal at the folder where the tar file is located: `tar xzvf apache-maven-3.9.1-bin.tar.gz`
+4. Locate the file path of the apache-maven folder using command: `pwd`
+5. Using that file path, run this command in your BASE working directory: `export PATH=/Users/daniilabbruzzese/Documents/Senior\ Year/DSCI\ 550/assignment\ 2/DSCI550-PixstoryMediaExtractionAndAnalysis/apache-maven-3.9.1/bin:$PATH`
+6. Check that MVN is installed using command: `mvn -v`
+    - In the lucene-geo-gazetteer, check that mvn is installed with command: `../apache-maven-3.9.1/bin/mvn -v`
+
+    > Todd's Path Command for Step 5: export PATH=/Users/toddgavin/Desktop/USC Classes/DSCI550 - Data Science at Scale/Assignment #2/GitHub/DSCI550-PixstoryMediaExtractionAndAnalysis/apache-maven-3.9.1/bin:$PATH
+
+#### How to Use Lucene GeoGazetter
 - The  result  of  this  should  be  the  Lucene  GeoGazetter  REST  server  running  as 
 specified here: https://github.com/chrismattmann/lucene-geo-gazetteer   
 
@@ -77,20 +67,16 @@ Note: Run these commands inside the lucene-geo-gazetteer directory
 2. `unzip allCountries.zip`
 3. `java -cp target/lucene-geo-gazetteer-0.3-SNAPSHOT-jar-with-dependencies.jar edu.usc.ir.geo.gazetteer.GeoNameResolver -i geoIndex -b allCountries.txt`
 4. `java -cp target/lucene-geo-gazetteer-0.3-SNAPSHOT-jar-with-dependencies.jar edu.usc.ir.geo.gazetteer.GeoNameResolver -i geoIndex -s Pasadena Texas` (testing with e.g. Pasedena, Texas)
+
+> ### ERROR: Still working on testing service mode
+
 5. Test Service Mode (with e.g. Pasedena, Texas):
     - Launch Server: $ `lucene-geo-gazetteer -server`
-        - Once you see something like this: `INFO: Starting ProtocolHandler ["http-nio-8765"]`
-        - Now open up a new terminal window
-    - Query: $ `curl "localhost:8765/api/search?s=Pasadena&s=Texas&c=2"`
-        - `curl "http://localhost:8765/api/search?s=Pasadena&s=Texas" | python -mjson.tool`
+    - Query: `$ curl "localhost:8765/api/search?s=Pasadena&s=Texas&c=2"`
 
-#### How to Connect to Lucene GeoGazetter Server in Python
+#### How to Connect to Lucene GeoGazetter in Python
 - You can connect the GeoGazetteer to Tika-Python using the instructions here: 
 https://github.com/chrismattmann/tika-python#changing-the-tika-classpath  
-
-#### Once Lucene GeoGazetter Server is Installed and Working, Now download and set up the NER model, and then link it to Tika
-
-
 
 ## 5. Install Detoxify using PIP and the instructions here: 
 https://pypi.org/project/detoxify/  
@@ -113,7 +99,7 @@ https://github.com/pytorch/pytorch/issues/53601#issuecomment-967307449
         - `git clone https://github.com/USCDataScience/tika-dockers.git`
         - Need to open "Docker Desktop" on Mac and ensure it is running before exectuign this command.
             - `docker pull uscdatascience/im2txt-rest-tika`
-    - Read and test out: https://cwiki.apache.org/confluence/display/TIKA/TikaAndVisionDL4J   
+    - Read  and  test  out: https://cwiki.apache.org/confluence/display/TIKA/TikaAndVisionDL4J   
     - Read and test out: https://github.com/apache/tika/pull/189  
 3. Iterate through all the Pixstory posts and add the generated image caption and the 
 detect object(s) column to your dataset
