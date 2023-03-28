@@ -156,6 +156,9 @@ OUTPUT:
 
 #### Run GeoTopic Parser End-to-End
 1. Kill all java processes and kill tika server is already running (refer to Errors section fo ReadMe)
+    - `killall java`
+    - List current processes: `jps`
+        - Kill all tika processes with: `kill <process number>`
 2. Navigate to directory /3_Tika_GeoTopic_Parser and run command to start lucene server: `lucene-geo-gazetteer -server`
 3. In new terminal window, navigate to directory /3_Tika_GeoTopic_Parser and run command to start geotopic server: `./geotopic-server`
 4. In new terminal window again, navigate to directory /3_Tika_GeoTopic_Parser and run command to test servers: `curl -T polar.geot -H "Content-Type: application/geotopic; filename=polar.geot" http://localhost:9998/rmeta | python -mjson.tool`
