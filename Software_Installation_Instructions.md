@@ -28,58 +28,23 @@ Run Command: `pip install tika`
 - To check what tika is installed, run command: `pip show tika`
 
 ## 4. Install GeoTopicParser using the instructions here 
-- Refer to Slack thread: https://uscdatascience.slack.com/archives/C04JM790KHS/p1679846853060489
+- Refer to DSCI550 Slack thread: https://uscdatascience.slack.com/archives/C04JM790KHS/p1679846853060489
 
-#### Installing the Lucene Gazetteer Server
+#### Installing the Lucene Gazetteer
 https://cwiki.apache.org/confluence/display/tika/GeoTopicParser  
 > First you will need to download the Lucene Geo Gazetteer project and to install it. You can do so by:
-1. $ `cd $HOME/src` - change directory to the Repo directory
-2. $ `git clone https://github.com/chrismattmann/lucene-geo-gazetteer.git`
-3. $ `cd lucene-geo-gazetteer`
-4. $ `mvn install assembly:assembly` 
+- $ `cd $HOME/src` - change directory to the Repo directory
+- $ `git clone https://github.com/chrismattmann/lucene-geo-gazetteer.git`
+- $ `cd lucene-geo-gazetteer`
+- $ `mvn install assembly:assembly` 
     - refer to "How to Install Apache Maven MVN"
-<<<<<<< HEAD
-    - specify the file path to mvn: `../apache-maven-3.9.1/bin/mvn install assembly:assembly`
-- $ `export PATH=$PATH:$HOME/src/lucene-geo-gazetteer/src/main/bin`
-    - Note: make sure you sepcify the correct file path for the spot where 'src' is
-
-    > export PATH=$PATH:"$HOME/Documents/Senior Year/DSCI 550/assignment 2/DSCI550-PixstoryMediaExtractionAndAnalysis/lucene-geo-gazetteer/src/main/bin"
-    
-    > Todd's Path: export PATH=$PATH:$HOME/Desktop/USC\ Classes/DSCI550\ -\ Data\ Science\ at\ Scale/Assignment\ #2/GitHub/DSCI550-PixstoryMediaExtractionAndAnalysis/lucene-geo-gazetteer/src/main/bin
-=======
-5. Check `mvn` version with command: `mvn --version`
-6. To check that the lucene-geo-gazetteer server is working, run command: `lucene-geo-gazetteer --help`
-    - You should see an output like this one below signifying that it is working:
-        -  If it is not working, common error you may encounter that you should fix is making sure there are NO SPACE CHARACTERS in the names of the directories that comprise your file path to the lucene-geo-gazetteer directory.
-```js
-    usage: lucene-geo-gazetteer
-        -b,--build <gazetteer file>                   The Path to the Geonames
-                                                    allCountries.txt
-        -c,--count <number of results>                Number of best results to
-                                                    be returned for one
-                                                    location
-        -h,--help                                     Print this message.
-        -i,--index <directoryPath>                    The path to the Lucene
-                                                    index directory to either
-                                                    create or read
-        -json,--json                                  Formats output in well
-                                                    defined json structure
-        -r,--enable-reverse <true / false >           Add on indexing option for
-                                                    reverse geocoding. Defaults
-                                                    to false
-        -s,--search <set of location names>           Location names to search
-                                                    the Gazetteer for
-        -server,--server                              Launches Geo Gazetteer
-                                                    Service
-        -sr,--search-reverse <latitude , longitude>   Search locations near this
-                                                    coordinate
-```
->>>>>>> 86de63925b8858cd3ffb8d79a6227518dc299d9c
+- Change directory to `/src/main/bin/` inside of dir lucene-geo-gazetteer.
+- $ `export PATH=$PWD:$PATH`
 
 #### How to Install Apache Maven MVN 
-- Run Command in 'base': `brew install maven`
+- Install Maven: `brew install maven`
 
-#### How to Use Lucene GeoGazetter Server
+#### How to Use Lucene GeoGazetter
 - The  result  of  this  should  be  the  Lucene  GeoGazetter  REST  server  running  as 
 specified here: https://github.com/chrismattmann/lucene-geo-gazetteer   
 
@@ -88,19 +53,17 @@ Note: Run these commands inside the lucene-geo-gazetteer directory
 2. `unzip allCountries.zip`
 3. `java -cp target/lucene-geo-gazetteer-0.3-SNAPSHOT-jar-with-dependencies.jar edu.usc.ir.geo.gazetteer.GeoNameResolver -i geoIndex -b allCountries.txt`
 4. `java -cp target/lucene-geo-gazetteer-0.3-SNAPSHOT-jar-with-dependencies.jar edu.usc.ir.geo.gazetteer.GeoNameResolver -i geoIndex -s Pasadena Texas` (testing with e.g. Pasedena, Texas)
-5. Test Service Mode (with e.g. Pasedena, Texas):
+5. Test with: `lucene-geo-gazetteer -s Pasadena Texas -json | python -mjson.tool`
+6. Test Service Mode (with e.g. Pasedena, Texas) in base terminal:
     - Launch Server: $ `lucene-geo-gazetteer -server`
-        - Once you see something like this: `INFO: Starting ProtocolHandler ["http-nio-8765"]`
-            - It indicates that the server is working and running.
-        - Now open up a new terminal window
-    - Query: $ `curl "localhost:8765/api/search?s=Pasadena&s=Texas&c=2"`
-        - `curl "http://localhost:8765/api/search?s=Pasadena&s=Texas" | python -mjson.tool`
+    - Query: `$ curl "localhost:8765/api/search?s=Pasadena&s=Texas&c=2"`
+    - `curl "http://localhost:8765/api/search?s=Pasadena&s=Texas" | python -mjson.tool`
 
-#### How to Connect to Lucene GeoGazetter Server in Python
+#### How to Connect to Lucene GeoGazetter in Python
 - You can connect the GeoGazetteer to Tika-Python using the instructions here: 
 https://github.com/chrismattmann/tika-python#changing-the-tika-classpath  
 
-#### Once Lucene GeoGazetter Server is Installed and Working, Now download and set up the NER model, and then link it to Tika
+#### Once Lucene GeoGazetter Server is Installed and Working, Now download and set up the NER model, and then link it to Tika [SKIP_IF_location-ner-model_dir_CREATED]
 1. Create new directory in repo: `mkdir location-ner-model`
 2. `cd location-ner-model`
 3. Run curl command inside location-ner-model directory: `curl -O https://opennlp.sourceforge.net/models-1.5/en-ner-location.bin`
@@ -116,7 +79,8 @@ drwxr-xr-x@  3 toddgavin  staff   96 Mar 26 19:06 .
 drwxr-xr-x@ 19 toddgavin  staff  608 Mar 26 19:04 ..
 drwxr-xr-x@  3 toddgavin  staff   96 Mar 26 19:06 or
 ```
-#### Now we have to create the new application/geotopic MIME type, and map it to Tika.
+
+#### Now we have to create the new application/geotopic MIME type, and map it to Tika. [SKIP_IF_geotopic-mime_dir_CREATED]
 1. `mkdir geotopic-mime`
 2. `cd geotopic-mime`
 3. `mkdir -p org/apache/tika/mime`
@@ -124,10 +88,57 @@ drwxr-xr-x@  3 toddgavin  staff   96 Mar 26 19:06 or
 5. `mv custom-mimetypes.xml org/apache/tika/mime`
 6. `ls org/apache/tika/mime/`
 
-#### Now you need to grab an example of a file that you want to run the GeoTopicParser on...
+#### Now you need to grab an example of a file that you want to run the GeoTopicParser on... [SKIP_IF_polar.geot_CREATED]
 1. `curl -LO https://raw.githubusercontent.com/chrismattmann/geotopicparser-utils/master/geotopics/polar.geot`
 2. `cat polar.geot`
 
+#### Final step is that you need a copy of Tika App, Tika Server, and also the Tika NLP-ML module (which has the GeoTopicParser in it). You can build all of these by building Tika, but there's an easier way. Just grab the JAR files. [SKIP_IF_tika-build_dir_CREATED]
+1. `mkdir tika-build`
+2. `cd tika-build`
+3. Tika Parser NLP Package: `curl -LO https://repo1.maven.org/maven2/org/apache/tika/tika-parser-nlp-package/2.7.0/tika-parser-nlp-package-2.7.0.jar`
+4. Tika App: `curl -LO https://repo1.maven.org/maven2/org/apache/tika/tika-app/2.7.0/tika-app-2.7.0.jar`
+5. Tika Server: `curl -LO https://repo1.maven.org/maven2/org/apache/tika/tika-server-standard/2.7.0/tika-server-standard-2.7.0.jar`
+
+#### > Now, we can run the command to test out the GeoTopicParser, first from the TikaApp / Command line interface (CLI). Then we'll run a Tika REST server, and try it there too.
+
+#### Created a simple script, which I will paste below called geotopic-parser that wraps the Java command and classpaths and allows you to run it on a single file. [SKIP_IF_geotopic-parser_CREATED]
+1. Create file geotopic-parser file:
+```sh
+TIKA_VERSION=2.7.0
+export f=$1
+
+java -classpath tika-build/tika-app-${TIKA_VERSION}.jar:tika-build/tika-parser-nlp-package-${TIKA_VERSION}.jar:${PWD}/location-ner-model:${PWD}/geotopic-mime \
+		org.apache.tika.cli.TikaCLI -m $f
+```
+2. Give executable permission to the file geotopic-parser by running command: `chmod +x geotopic-parser`
+3. Now, I will run it on the polar.geot file: `./geotopic-parser polar.geot`
+
+#### Start up the geotopic-REST server [SKIP_IF_geotopic-server_CREATED]
+- And then similarly create a simple script to do that too, called geotopic-server which I will paste below (don't forget to chmod +x geotopic-server before running it.) 
+- Note once you run it, it will take control of the terminal unless you put it in the background, so you'll need a new terminal to test it out.
+
+1. Create file geotopic-server file:
+```sh
+export TIKA_VERSION=2.7.0
+
+java -classpath ${PWD}/location-ner-model:${PWD}/geotopic-mime:tika-build/tika-server-standard-${TIKA_VERSION}.jar:tika-build/tika-parser-nlp-package-${TIKA_VERSION}.jar \
+     org.apache.tika.server.core.TikaServerCli%     
+```
+2. Give executable permission to the file geotopic-server by running command: `chmod +x geotopic-server`
+3. Run command: `./geotopic-server`
+4. If its working, test out the GeoTopic REST server by opening new base terminal and running: `curl -T polar.geot -H "Content-Disposition: attachment; filename=polar.geot" http://localhost:9998/rmeta | python -mjson.tool`
+
+#### Running GeoTopic Server from Python
+If you want to call your new GeoTopic server from Python, using Tika-Python it's simple! You just drop into Python, and run Tika on a *.geot file. 
+```python
+from tika import parser
+parsed = parser.from_file('polar.geot', headers={ 'Content-Type' : 'application/geotopic'})
+print(parsed)
+```
+OUTPUT:
+```js
+{'metadata': {'Geographic_LONGITUDE': '-98.5', 'Geographic_NAME': 'United States', 'X-TIKA:Parsed-By-Full-Set': ['org.apache.tika.parser.DefaultParser', 'org.apache.tika.parser.geo.GeoParser'], 'resourceName': "b'polar.geot'", 'Optional_NAME1': 'People's Republic of China', 'Optional_LATITUDE1': '35.0', 'Optional_LONGITUDE1': '105.0', 'X-TIKA:Parsed-By': ['org.apache.tika.parser.DefaultParser', 'org.apache.tika.parser.geo.GeoParser'], 'X-TIKA:parse_time_millis': '61', 'X-TIKA:embedded_depth': '0', 'Geographic_LATITUDE': '39.76', 'Content-Length': '881', 'Content-Type-Override': 'application/geotopic', 'Content-Type': 'application/geotopic'}, 'content': None, 'status': 200}
+```
 
 ## 5. Install Detoxify using PIP and the instructions here: 
 https://pypi.org/project/detoxify/  
@@ -140,8 +151,7 @@ https://github.com/pytorch/pytorch/issues/53601#issuecomment-967307449
 
 ## 6. Install Tika Image Dockers and generate captions for your Pixstory images posts 
 - To  access  the  images,  use  the  URL  from  the  post  and give  it  the  URL  prefix 
-“/optimized”,  such  as:  https://image.pixstory.com/optimized/Pixstory-image-
-164416629024955.jpeg  
+“/optimized”,  such  as:  https://image.pixstory.com/optimized/Pixstory-image-164416629024955.jpeg  
 
 1. Download all 95k images associated with the posts 
     - Write a simple python script to do this 
@@ -150,7 +160,7 @@ https://github.com/pytorch/pytorch/issues/53601#issuecomment-967307449
         - `git clone https://github.com/USCDataScience/tika-dockers.git`
         - Need to open "Docker Desktop" on Mac and ensure it is running before exectuign this command.
             - `docker pull uscdatascience/im2txt-rest-tika`
-    - Read and test out: https://cwiki.apache.org/confluence/display/TIKA/TikaAndVisionDL4J   
+    - Read  and  test  out: https://cwiki.apache.org/confluence/display/TIKA/TikaAndVisionDL4J   
     - Read and test out: https://github.com/apache/tika/pull/189  
 3. Iterate through all the Pixstory posts and add the generated image caption and the 
 detect object(s) column to your dataset
