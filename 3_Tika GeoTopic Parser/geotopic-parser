@@ -1,0 +1,5 @@
+TIKA_VERSION=2.7.0
+export f=$1
+
+java -classpath tika-build/tika-app-${TIKA_VERSION}.jar:tika-build/tika-parser-nlp-package-${TIKA_VERSION}.jar:${PWD}/location-ner-model:${PWD}/geotopic-mime \
+		org.apache.tika.cli.TikaCLI -m $f
