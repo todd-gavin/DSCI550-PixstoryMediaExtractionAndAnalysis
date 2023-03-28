@@ -1,0 +1,6 @@
+Name Monumandal
+Father name Late Atabul
+Calss 6
+Age 12
+Sex male
+Sihani old

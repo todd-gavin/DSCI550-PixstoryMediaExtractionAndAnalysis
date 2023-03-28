@@ -1,0 +1,12 @@
+Abstract
+Background and aims
+Oral semaglutide is the first glucagon-like petide-1 receptor agonist (GLP-1RA) approved for oral use in the treatment of type 2 diabetes mellitus (T2DM). We aim to conduct a comprehensive review of literature to find out the efficacy and safety of oral semaglutide in T2DM, to lay out a clinical consideration for its use in India.
+
+Methods
+We searched the electronic database of PubMed and Google Scholar from inception until January 31, 2022, using several MeSH keywords and retrieved all available granular details of phase 1, 2 and 3 randomized controlled trials (RCTs) of oral semaglutide. Subsequently, we reviewed the results critically to lay down the clinical recommendation of its use.
+
+Results
+Ten phase 3 randomized, placebo- and or active-controlled studies of oral semaglutide (PIONEER programs) are currently published. Seven global trials of oral semaglutide (PIONEER 1–5, 7 and 8) that exclusively studied the efficacy (lowering of HbA1c and body weight, achieving target of HbA1c <7% and other composites of HbA1c and weight) outcomes, found 14 mg oral semaglutide to be superior to placebo or active comparators (empagliflozin, sitagliptin and liraglutide). Efficacy was similar in Asians, although no separate data exists for Indians due to the low number of participants. Expectedly, gastrointestinal intolerance were the most commonly observed side effects with oral semaglutide and the main reason for drug discontinuation.
+
+Conclusion
+Oral semaglutide 14 mg is an effective agent in the treatment of T2DM. Real-world studies of semaglutide are clearly needed in India in absence of meaningful data from RCTs in Indians.

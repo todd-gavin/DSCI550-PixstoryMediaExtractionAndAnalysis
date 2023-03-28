@@ -1,0 +1,5 @@
+Name. Jabbed
+Age.11
+Father. Rishad Ali
+gender.male
+NGO.chintan

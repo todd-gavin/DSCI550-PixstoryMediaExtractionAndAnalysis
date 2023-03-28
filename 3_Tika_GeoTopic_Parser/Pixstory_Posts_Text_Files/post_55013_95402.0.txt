@@ -1,0 +1,6 @@
+Name-Nasreen
+Father's name-Sharifuddin
+Age-11
+Sex-Female
+ClassVI
+Chintan

@@ -1,0 +1,15 @@
+Facebook’s parent company Meta is in trouble. Its stock went 26% down and $230 billion of its market value was wiped off: https://finance.yahoo.com/news/why-facebook-parent-metas-stock-is-getting-crushed-141137947.html The market blames Apple’s ‘app tracking transparency’ feature for the fall. That could be the main, though not the sole, factor. 
+
+Making ‘privacy’ a mantra, Apple last year it introduced in its mobile operating system a feature that would allow iPhone users the choice of letting or not letting various apps monitor their online activities: https://www.nytimes.com/2022/02/03/technology/apple-privacy-changes-meta.html Facebook, one of the popular apps on phones, was bound to be hit. It makes money by tracking the user’s activities and pushing advertisements accordingly. Now FB and others apps have to ask users to let them have a peak into their online behavior. When most users refuse to do so, FB and others are left without the user data. 
+
+Meta has said that Apple’s changes would cost it $10 billion in revenue over the next year. It has admitted that online advertisers would go to other platforms. Google has become their obvious choice. In the Oct-Dec 2021 quarter, when Meta was under stress, Google reported record sales in advertisements.  
+
+The Apple change is a direct hit on FB’s business, but it is facing challenges on so many other fronts too: https://www.nytimes.com/2022/02/03/technology/facebook-meta-challenges.html
+
+*The social-media platform has witnessed a fall in the number of daily users for the first time in its 18-year history, according to the quarterly revenue announcement this week. During Oct-Dec 2021, it lost half a million users. Its user base growth could have saturated in developing markets too, just as it has in the US: https://www.pixstory.com/story/is-facebook-phenomenon-peaking-out1643900945/79116
+ 
+*Meta’s rivals are having a good time. Though the other apps of the Meta family (Instagram, WhatsApp) are doing well, so are TikTok (which is giving tough time to Instagram) and YouTube.
+
+*Metaverse is Mark Zuckerberg’s new hobby horse. His obsession with that futuristic technology led him to change the name of the firm itself. Last year, $10 billion+ was spent on it, and that was just the beginning. Yet, there’s no surety yet if this makes business sense: https://www.businessinsider.com/facebooks-metaverse-business-completely-misses-wall-street-expectations-reality-labs-2022-2?IR=T
+
+*Then there are those federal investigations FB is facing…: https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization

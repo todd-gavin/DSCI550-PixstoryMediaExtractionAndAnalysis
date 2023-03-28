@@ -1,0 +1,11 @@
+Association between hepcidin and type 2 diabetes markers in indigenous Argentinean children living at high altitude
+Abstract
+Background
+Hepcidin is a protein that regulates the metabolism of iron. In addition, a high iron load can cause insulin resistance and subsequent diabetes.
+Objective
+To investigate the association between hepcidin levels and glucose, insulin, lipids, HOMA-IR, and inflammatory markers, C reactive protein (CRP), ferritin, Lp (a), and leucocytes, in indigenous school children living at 4000 m above sea level. Data were collected cross-sectionally from the four schools in San Antonio de los Cobres (SAC). BMI, glucose, insulin, lipids, CRP, hemoglobin, leucocytes, iron, ferritin, transferrin, and hepcidin levels were obtained.
+Results
+Three hundred and seventy-six children (170 males) aged 9.6 ± 2.3 y were included. Fifty-five(15.2 %) children were underweight, 28 (7.4 %) overweight and 10 (2.7 %) obese. Univariate analysis showed a significant inverse correlation between hepcidin and glucose (r = -0.14) and HOMA-IR (r = -0.30). Furthermore, hepcidin was found to be directly and significantly correlated with Lp(a) (r = 0.18), leucocytes (r = 0.24,) CRP (r = 0.32), and ferritin (r = 0.32). Multiple linear regression analysis indicated that hepcidin was significantly and inversely associated with glucose and BMI and directly with Lp(a), CRP, leucocytes, and ferritin; adjusted for age and gender (R2 0.26).
+Conclusion
+In this study, which included indigenous children living at high altitudes (4000 m), hepcidin was significantly and inversely associated with glucose and BMI and directly associated with inflammatory markers such as CRP, Lp(a), leucocytes, and ferritin, suggesting that hepcidin could be a reliable marker of future type 2 diabetes.
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0009898122012797

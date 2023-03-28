@@ -1,0 +1,12 @@
+A novel type of magnetic resonance imaging (MRI) that causes malignant tissue to shine in medical pictures might help doctors diagnose and track cancer growth more precisely.
+
+The invention, created by University of Waterloo researchers, produces photos in which malignant tissue seems to light up in comparison to healthy tissue, making it easier to spot.
+
+"Our research shows that this new approach has the potential to enhance cancer screening, prognosis, and treatment planning," said Alexander Wong, a professor of systems design engineering at Waterloo and a Canada Research Chair in Artificial Intelligence and Medical Imaging.
+
+Water molecules travel differently in malignant tissue than they do in healthy tissue due to irregular cell packing. By recording, synthesizing, and combining MRI data at varying gradient pulse strengths and timings, the novel synthetic correlated diffusion imaging method reveals these disparities.
+
+The researchers worked with medical professionals from the Lunenfeld-Tanenbaum Research Institute, three Toronto hospitals, and the Ontario Institute for Cancer Research to apply the technique to a cohort of 200 prostate cancer patients in the biggest study of its type.
+
+Synthetic correlated diffusion imaging outperformed normal MRI approaches in identifying substantial malignant tissue, making it a potentially useful tool for clinicians and radiologists.
+Source : Science Daily

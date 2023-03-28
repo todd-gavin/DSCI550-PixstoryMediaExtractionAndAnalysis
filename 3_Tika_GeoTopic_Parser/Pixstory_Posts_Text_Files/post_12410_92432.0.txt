@@ -1,0 +1,14 @@
+There is reason for cautious hope even though global mental health fell greatly in 2020. Innovators have risen to the occasion as a result of COVID-19's impact on our communal and individual welfare.
+
+1) Treatment-resistant depression: new pharmacological treatments
+Globally, around 264 million people of all ages experience depression. Treatment-resistant depression is defined as not responding to two or more medications. Antidepressants that function by a different mechanism have been developed recently.
+Based on these findings, the FDA and the EMA approved esketamine, a chemical related to the club drug ketamine, for treatment-resistant depression. With agency permission, new therapies in this class may be developed.
+
+2) The COVID-19 telehealth and community mental health
+During the epidemic, new digital treatment solutions like teletherapy and apps exploded. In rural areas, online programmes reach people who might otherwise be stigmatised for seeking help. They can successfully expand health and social service capacity. Public and private sectors in numerous nations have launched online mental health support and programmes such Togetherall, ReachOut and UCLA STAND, typically co-designed and guided by community peers.
+
+3) Preventing self-harm with social media data
+Language and visual trends in posts can signal mental health issues. Each of the available  gadgets generates a significant amount of data. According to a growing body of research, language and imagery in posts can disclose and predict individual and population-level mental health issues. A new generation of data science tools allows researchers, tech businesses, government agencies, and non-profits to explore massive databases for symptoms of mental health problems including depression, anxiety, and suicidal tendency.
+
+4) Psychedelics for psychiatric therapy
+Psilocybin and MDMA are very popular. Studies recently renewed hope that psychedelics could be strong antipsychotics. A new generation of medicines for mental health issues like MDD and PTSD is now available. A third of MDD patients have “treatment refractory” depression, which means it doesn't respond to any drugs or counselling. It's crucial to find innovative ways to treat mental illnesses. For some illnesses, psychedelics could be transformative if effective and safe.

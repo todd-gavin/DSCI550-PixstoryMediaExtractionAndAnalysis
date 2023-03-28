@@ -1,0 +1,21 @@
+Maritde Jong Sanne A.E.Peter 
+
+Abstract 
+
+Aims 
+
+Diabetes has been associated with a greater excess risk of cardiovascular disease (CVD) in women than men. We investigated whether there are also sex differences in the association of diabetes duration and the risk of CVD. 
+
+Methods 
+
+Data were used from 18,961 (40% women) individuals with type 2 diabetes, without a history of CVD, in the UK Biobank. Sex-specific incidence rates were calculated by diabetes duration. Cox proportional hazards analyses estimated multiple-adjusted sex-specific hazard ratios (HR) and women-to-men ratio of HRs (RHR). 
+
+Results 
+
+Over a median follow-up of 11 years, 1,506 (29% women) CVD events were documented. Compared with men, women had lower multiple-adjusted incidence rates of CVD per 10,000 person-years for all categories of diabetes duration. Duration of diabetes was associated with an increased risk of CVD in both sexes. A 5-year increase in diabetes duration was associated with an approximately similar excess risk of about 20% for each of the three endpoints, in both sexes. 
+
+Conclusions/Interpretation 
+
+The increased risk of CVD associated with longer duration of diabetes is similar in women and men, and thus cannot explain the higher excess risk from diabetes in women in this study population. 
+
+Sources  - https://www.sciencedirect.com/science/article/pii/S0168822722007136

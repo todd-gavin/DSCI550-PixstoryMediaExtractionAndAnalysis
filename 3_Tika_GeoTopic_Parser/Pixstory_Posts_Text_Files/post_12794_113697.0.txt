@@ -1,0 +1,2 @@
+Remote Code Execution vulnerability in Zoho ManageEngine ADAudit Plus
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0288

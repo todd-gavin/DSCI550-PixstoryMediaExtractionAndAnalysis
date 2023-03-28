@@ -1,0 +1,6 @@
+Name-Tayyab
+Fathers Name-Bablu
+Age-13
+Sex-Male
+Class-VIII
+Chintan

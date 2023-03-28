@@ -1,0 +1,11 @@
+Humans are unrivalled in the area of cognition. After all, no other species has sent probes to other planets, produced lifesaving vaccines or created poetry. How information is processed in the human brain to make this possible is a question that has drawn endless fascination, yet no definitive answers.
+
+Our understanding of brain function has changed over the years. But current theoretical models describe the brain as a “distributed information-processing system”. This means that it has distinct components, which are tightly networked through the brain’s wiring. To interact with each other, regions exchange information though a system of input and output signals.
+
+However, this is only a small part of a more complex picture. In a study published in Nature Neuroscience, using evidence from different species and multiple neuroscientific disciplines, we show that there isn’t just one type of information processing in the brain. How information is processed also differs between humans and other primates, which may explain why our species’ cognitive abilities are so superior.
+
+We borrowed concepts from what’s known as the mathematical framework of information theory – the study of measuring, storing and communicating digital information which is crucial to technology such as the internet and artificial intelligence – to track how the brain processes information. We found that different brain regions in fact use different strategies to interact with each other.
+
+Some brain regions exchange information with others in a very stereotypical way, using input and output. This ensures that signals get across in a reproducible and dependable manner. This is the case for areas that are specialised for sensory and motor functions (such as processing sound, visual and movement information).
+
+Read more - https://theconversation.com/what-is-it-about-the-human-brain-that-makes-us-smarter-than-other-animals-new-research-gives-intriguing-answer-183848

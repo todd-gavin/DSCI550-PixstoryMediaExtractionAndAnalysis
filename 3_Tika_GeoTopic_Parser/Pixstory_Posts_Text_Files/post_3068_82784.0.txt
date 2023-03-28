@@ -1,0 +1,19 @@
+The US space agency NASA has expressed concerns about SpaceX’s plan to send about 30,000 small satellites for its Starlink project, along with some other companies.
+
+Over the past few years, SpaceX has placed over a thousand small satellites — Starlink internet megaconstellation — into lower orbits of Earth to beam high-speed internet service from space. The company has authorisation for about 12,000 satellites, but recently it has sent an application to the Federal Communications Commission (FCC), an independent agency of US government that regulates interstate and international communications, for a second-generation constellation of 30,000 satellites.  
+
+Soon after this NASA wrote in a letter to FCC that such a large number of satellites in near orbit could affect NASA’s science and human flight mission, including an increased risk of collision in orbit and risk of launch of the agency’s satellite. More satellites could also interfere with planetary defense surveys of NASA that scans the skies for potentially threatening satellites. According to NASA, there are already 6,100 near-earth objects in orbit; Starlink could increase this number five-fold.
+
+Apart from NASA, some astronomers have also expressed concerns that a large number of satellites could interfere with their astronomical studies.  
+
+SpaceX’s rivals, Amazon, Oneweb and Viasat have also urged FCC to impose conditions before it approves Starlink’s second generation satellites. Amazon has plans to place over 7000 low-orbit satellites for its Project Kuiper, Starlink’s close competitor.
+
+All these companies are in the process of placing thousands of satellites in space to grab a pie of the market of broadband internet service. Although extremely costly ventures, these satellite constellations could provide smooth broadband service to even most remote corners of Earth, where fiber optic cables or cell towers fail to reach.
+
+ READ MORE:
+
+https://www.wsj.com/articles/spacexs-plans-to-send-thousands-more-satellites-into-orbit-worry-nasa-11644921000
+
+https://www.theguardian.com/science/2022/feb/10/nasa-fears-spacex-plan-for-30000-satellites-could-hamper-space-missions
+
+https://satellitetoday.com/broadband/2022/02/10/nasa-amazon-satellite-operators-take-issue-with-spacex-starlink-gen-2-in-fcc-filings/

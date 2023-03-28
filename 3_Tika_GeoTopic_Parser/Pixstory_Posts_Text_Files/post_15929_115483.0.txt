@@ -1,0 +1,22 @@
+Esben Bolvig Mark Christina Brock
+
+Abstract
+
+Aims
+
+This study aimed to investigate cortical source activity and identify source generators in people with type 1 diabetes during rest and tonic cold pain.
+
+Methods
+
+Forty-eight participants with type 1 diabetes and neuropathy, and 21 healthy controls were investigated with electroencephalography (EEG) during 5-minutes resting and 2-minutes tonic cold pain (immersing the hand into water at 2 °C). EEG power was assessed in eight frequency bands, and EEG source generators were analyzed using standardized low-resolution electromagnetic tomography (sLORETA).
+
+Results
+
+Compared to resting EEG, cold pain EEG power differed in all bands in the diabetes group (all p < 0.001) and six bands in the controls (all p < 0.05). Source generator activity in the diabetes group was increased in delta, beta2, beta3, and gamma bands and decreased in alpha1 (all p < 0.006) with changes mainly seen in the frontal and limbic lobe. Compared to controls, people with diabetes had decreased source generator activity during cold pain in the beta2 and beta3 bands (all p < 0.05), mainly in the frontal lobe.
+
+Conclusions
+
+Participants with type 1 diabetes had altered EEG power and source generator activity predominantly in the frontal and limbic lobe during tonic cold pain. The results may indicate modulated central transmission and neuronal impairment.
+
+
+Sources - https://www.sciencedirect.com/science/article/pii/S1056872722001726

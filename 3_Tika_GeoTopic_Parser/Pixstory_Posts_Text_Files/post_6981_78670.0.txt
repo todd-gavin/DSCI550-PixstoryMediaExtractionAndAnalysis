@@ -1,0 +1,15 @@
+The Probe Investigation Continues....
+
+It is very clear that the authorities at the centre took little to no effort in adequately training or equipping the local district authorities in the protocols that must be followed before any such data related to citizens can be put on the net. Only an investigation will prove the exact origins or the root cause of the data breaches.
+
+The privacy policy of the S3Waas, states that “NIC S3waas website does not automatically capture any specific personal information from you (like name, phone number or e-mail address), that allows us to identify you individually”.
+
+Whether S3waas automatically captures the personal data of the people or not is not a matter of concern; what is indeed worriesome is the fact that this mother platform has massive data from various parts of the country and today this sensitive information related to the citizens is scattered on the internet. Just a simple search can enable one to access critical data.
+
+This is not the first time a breach has been reported related to the public healthcare system. In June last year, there was speculation about a private entity selling a database of Covid-19 vaccination in India for a price. The messages related to this breach went viral on social media, and soon news reports emerged regarding CoWIN being hacked. CoWin, which is the government’s web portal for Covid-19 vaccination registration, was quick to respond. So was the health ministry.
+
+The Ministry of Health and Family Welfare soon released a statement denying CoWin data breach. The government outrightly ruled out the possibility of such a hack, however, it asked the Computer Emergency Response Team of MeitY to conduct an enquiry and submit a report on the matter. The government since has maintained that its portals and data security system are not vulnerable to any breaches or attacks.
+
+But during the course of our investigation, we found a bunch of compromised documents that read: “Data related to Covid vaccination beneficiaries from the CoWin portal”. 
+
+To be continued....

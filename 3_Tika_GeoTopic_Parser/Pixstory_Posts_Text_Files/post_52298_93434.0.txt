@@ -1,0 +1,12 @@
+This past October, millions of people in California lost power as a result of planned blackouts intended to reduce the risk of wildfires. However, these utility-initiated "de-energization events" accounted for only a small portion of the state's power outages over the last two years.
+
+In fact, California experienced over 50,000 significant blackouts. Many of these customers, who have a single utility metre serving their home or business, are likely to have experienced multiple outages. There's no way of knowing which ones did. However, the total number of customers affected by the blackouts was 51 million.
+
+Cities are vulnerable in the same way that rural communities are.
+Blackouts are frequently regarded as a rural issue. Not any longer. The combined population of California's five largest cities—Los Angeles, San Diego, San Jose, San Francisco, and Fresno—is more than 7.7 million people. That equates to roughly 20% of the state's population. During the time period covered by our data set, those cities experienced 10,417 outages, affecting the equivalent of 11.4 million utility customers, accounting for more than 20% of total blackout events and more than 20% of customers impacted. There were 5,787 blackouts in Los Angeles alone, affecting the equivalent of 6.4 million utility customers.
+
+On a per capita basis, San Bernardino had the most blackouts among California's 25 largest cities, with 1,208 blackout events affecting the equivalent of 1.4 million utility customers. Using customers impacted divided by population as a rough estimate of how many times a typical resident experienced a blackout, the average San Bernardino resident experienced more than six outages.
+
+Still, in comparison to some small towns, this is nothing. By the same metric, each Mill Valley resident experienced 13 blackouts, while Sonoma residents experienced 17.
+
+https://www.bloomenergy.com/bloom-energy-outage-map/

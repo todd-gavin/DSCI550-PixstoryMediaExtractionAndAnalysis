@@ -1,0 +1,5 @@
+Name gulista
+Father name Javed
+Age 11
+Gender female
+NGO Chintan

@@ -1,0 +1,7 @@
+DeadBolt Ransomware targeting QNAP NAS Devices
+
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBADV01&CACODE=CICA-2022-3051 
+
+Remote code execution vulnerability in Apple products
+
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBADV01&CACODE=CICA-2022-3050

@@ -1,0 +1,6 @@
+Name-salim
+Father-jalil
+Age-10
+Class-3
+Sex-Male
+Sihani old

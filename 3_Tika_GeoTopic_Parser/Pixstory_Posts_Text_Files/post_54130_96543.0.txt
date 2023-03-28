@@ -1,0 +1,14 @@
+Modern drug discovery is an expensive and complicated process. Hundreds of scientists and at least a decade are often required to produce a single medicine. One of the most critical steps in this process is the first one – identifying new chemical compounds that could be developed into new medicines.
+
+Researchers rely heavily on bioassays to identify potential drug candidates. These tests measure a compound’s ability to act on a biological target of interest. Candidates that show up as a “hit” by interacting with a target of interest (such as fitting into a binding site on the target) move on to further study and development. Advances in technology called high-throughput screening have allowed researchers to run thousands of compounds through bioassays in a short time, significantly streamlining the process.
+
+But some of these “hits” don’t actually interact with the target as intended. And for the unwary researcher, this can lead down a rabbit hole of lost time and money.
+
+I am a medicinal chemist who has been working in the drug discovery field for over 26 years, and one of the greatest challenges I have faced in my research is selecting good candidates from drug screening tests. One particular category of compounds, known as pan-assay interference compounds, or PAINS, is a common pitfall.
+
+What are PAINS?
+Bioassays involve placing a chemical compound together with the target of interest and measuring the strength of their interaction. Researchers assess interaction strength using a number of methods depending on how the bioassay is designed. A common assay design emits light when there is an interaction, where the intensity of the light depends upon the strength of interaction.
+
+PAINS refer to compounds that often come up as false positives during the screening process. Because of certain characteristics of these molecules, they can interact with a target in nonspecific or unexpected ways. Some can even react chemically with the target. So while PAINS may come up as a hit in a screen, it doesn’t necessarily mean they actually do what researchers hoped they’d do. Common worst offenders include compounds like quinones, catechols and rhodanines.
+
+Read more here: https://theconversation.com/discovering-new-drugs-is-a-long-and-expensive-process-chemical-compounds-that-dupe-screening-tools-make-it-even-harder-175972

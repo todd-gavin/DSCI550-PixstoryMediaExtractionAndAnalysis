@@ -1,0 +1,5 @@
+Name Laxmi 
+Age 11
+Gender Female
+Father's name Bali jamidaar 
+NGO Chintan

@@ -1,0 +1,6 @@
+Name -Saiba
+Father's name -Nazim
+Age-10
+Sex-Female
+Class-II
+Chintan

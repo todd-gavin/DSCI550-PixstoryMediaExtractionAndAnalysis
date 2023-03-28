@@ -1,0 +1,5 @@
+Cert-In has published Vulnerability Notes on its website (06-10-2022)
+Directory Traversal vulnerability in Twig library for Drupal 
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0375
+Multiple vulnerabilities in Android OS
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0374

@@ -1,0 +1,6 @@
+Name Muskan
+Class Vl
+Father's name Mikhtar Ali
+Age 11
+Gender Female
+Chintan

@@ -1,0 +1,5 @@
+Name sanny 
+Father  kalika.sha 
+Class 4
+Age 10
+Sex male

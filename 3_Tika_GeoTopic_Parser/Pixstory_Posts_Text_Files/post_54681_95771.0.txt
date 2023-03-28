@@ -1,0 +1,15 @@
+Severe weather, rain and flooding are at the forefront of the minds of many South Africans, especially those in KwaZulu-Natal. Early last week (11-12 April 2022), the province’s coast received heavy rain, with some areas recording over 300mm in 24 hours. This is about a third of the annual rainfall in KwaZulu-Natal.
+
+The rain was caused by a strong cut-off low weather system off the east coast of southern Africa. Cut-off lows frequently occur off this coast during the autumn months. These systems can cause localised flooding as well as large wave events.
+
+The port city of Durban (in the municipality of eThekwini) has experienced flooding events almost every year since 2016. Storms responsible for these floods typically dropped 100mm-150mm of rain in 24 hours, according to the eThekwini data portal.
+
+Between 11-12 April 2022, a storm system dropped even more rain than that. It caused devastating floods, landslides, and loss of life. It is natural to ask whether the recent floods in the area will occur more often within the context of climate change or whether they were simply freak events. It is not possible to state conclusively that this storm was a result of climate change. However, scientists believe these types of intense weather systems will occur more frequently in the future.
+
+Perhaps more pertinent is the question: did anyone see this coming? There isn’t a simple answer. It’s something that has been challenging scientists and engineers around the world for decades. For example scientists like myself have been trying to apply the principles of fluid mechanics to address these types of questions.
+
+This is important because if we can predict the occurrence of an event, we can arm disaster management teams with life-saving information.
+
+Predicting flooding
+Predicting flooding is not new and consists of two methods. The first relies on historical rainfall and flood records that come from weather stations and river gauges. South Africa has many of these stations throughout the country. It is vital that these stations are properly maintained.
+Read more: https://theconversation.com/early-warnings-for-floods-in-south-africa-engineering-for-future-climate-change-181556

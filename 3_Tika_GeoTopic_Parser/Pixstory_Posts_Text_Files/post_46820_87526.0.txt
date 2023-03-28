@@ -1,0 +1,45 @@
+Scientists need your help - with Games!
+
+Help fight Problems of Science with Joy
+
+Fight: Help passivly(+), Dementia*, Cancer(+), Genetic Disease*(+), Climate/Storm Prediction*, Dog & Cat Behaviour*, (Quantum[+]) Computer Errors﻿*
+* = Browser based
++ = Cross Smartphone App
+
+-Changelog
+
+Help Passivly
+Programs that calculate little formula for science while you are idle on your device
+https://www.vodafone.com/vodafone-foundation/focus-areas/dreamlab-app
+https://boinc.berkeley.edu/download.php
+
+
+Dementia / Cognitive Decline
+1. Aneurysm https://stallcatchers.com/virtualMicroscope
+2. Creativity (Improve Education) https://webgl.scienceathome.org/creablenderSDG/
+3. Problem Solving https://webgl.scienceathome.org/aliencode/
+4. Cognitive Research (e.g. Decline) https://play.google.com/store/apps/details?id=org.ScienceAtHome.SkillLabScienceDetective
+5. Brain Health https://www.neureka.ie/about
+6. Dementia (Research Projects Only) https://play.google.com/store/apps/details?id=com.aruk.shqresearch
+7. How Brains work https://eyewire.org/explore
+
+Cancer
+http://cancercrusadegame.com/
+
+Genetic Disease
+https://phylo.cs.mcgill.ca/
+
+Climate/Storm Prediction
+https://www.zooniverse.org/projects/nasaglobe/nasa-globe-cloud-gaze
+https://www.pbs.org/wgbh/nova/labs/lab/cloud/
+
+Dog & Cat Behaviour
+https://vetapps.vet.upenn.edu/cbarq/
+
+(Quantum) Computer Errors
+8. Linguistic Errors https://anawiki.essex.ac.uk/phrasedetectives/
+9. Quantum Errors https://citizensciencegames.com/games/decodoku/
+
+Changelog
+Do you wonder what changed since your last visit?
+Latest add: New entrys to cognitivity, three new categorys (Storm,Pet & Passive)

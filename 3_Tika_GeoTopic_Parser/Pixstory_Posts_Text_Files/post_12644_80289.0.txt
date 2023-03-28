@@ -1,0 +1,13 @@
+Autism disorder have been interrelated to hundreds of various genes, but how these different genetic mutations converge on a similar pathology in patients had remained as an unsolved mystery. 
+
+Now researchers from Harvard University and the Broad Institute of MIT and Harvard have found several autism risk genes that affect similar aspects of neural formation and the same types of neurons in the human brain that's still developing. 
+
+By testing the genetic mutations in miniature 3D models of the human brain called "brain organoids," the researchers identified similar overall defects for each risk gene, although each one acted through unique underlying molecular mechanisms. 
+
+The results, published in the journal Nature, give researchers a better understanding of autism spectrum disorder and are a first step toward finding treatments for the condition. 
+
+"Much effort in the field is dedicated to understanding whether commonalities exist among the many risk genes associated with autism. Finding such shared features may highlight common targets for broad therapeutic intervention, independent from the genetic origin of disease. Our data show that multiple disease mutations indeed converge on affecting the same cells and developmental processes, but through distinct mechanisms. These results encourage the future investigation of therapeutic approaches aimed at the modulation of shared dysfunctional brain properties," said senior author of the study Paola Arlotta, who is the Golub Family Professor of Stem Cell and Regenerative Biology at Harvard University and an institute member in the Stanley Center for Psychiatric Research at the Broad Institute. 
+
+The Arlotta lab focuses on organoid models of the human cerebral cortex, the part of the brain responsible for cognition, perception, and language. The models start off as stem cells, then grow into a 3D tissue that contains many of the cell types of the cortex, including neurons that are able to fire and connect into circuits. "In 2019, we published a method to allow the production of organoids with the unique ability to grow reproducibly. They consistently form the same types of cells, in the same order, as the developing human cerebral cortex," said Silvia Velasco, a senior postdoctoral fellow in the Arlotta lab and a co-lead author in the new study.
+
+Source https://www.sciencedaily.com/releases/2022/02/220202111727.htm

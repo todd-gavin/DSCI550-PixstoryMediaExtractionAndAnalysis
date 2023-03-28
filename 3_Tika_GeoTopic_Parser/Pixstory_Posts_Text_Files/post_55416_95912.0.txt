@@ -1,0 +1,6 @@
+Name-Aasadul
+Father-Ibrahim Deewan
+Age-6
+Class-1
+Sex-Male
+Sihani old

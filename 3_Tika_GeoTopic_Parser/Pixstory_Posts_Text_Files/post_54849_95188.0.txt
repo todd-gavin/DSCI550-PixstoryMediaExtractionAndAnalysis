@@ -1,0 +1,5 @@
+Name Umera
+Age 7
+Father  Muktar
+Gender  Female
+N G O  Chintan

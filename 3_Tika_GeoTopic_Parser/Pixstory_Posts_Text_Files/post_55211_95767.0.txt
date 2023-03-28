@@ -1,0 +1,5 @@
+Name. Aarushi
+Age. 6
+Father.   Mahendra
+Gender. Female
+N,G,O.  Chintan

@@ -1,0 +1,19 @@
+AT&T and Verizon halted their 5G expansion plans following the concerns expressed by ten US airlines, in a White House-brokered understanding. The 5G waves, it is feared, can interfere with the working of the planes. Meanwhile, the UK’s civil aviation authority had only last month stated there’s no reason to worry. Is the 5G ‘threat’ real and serious?
+
+The fifth generation (5G) makes greater use of radio signals, which are part of the spectrum known in the US as C-Band. It so happens that the C-Band frequencies are close to those deployed by the plane instruments, called ‘radio altimeters’, which measure the height of the aircraft from the ground. They also collect various data critical for safety and navigation systems. What the US airlines are worried about is the possibility that the similar frequency use of 5G may come in the way of the functioning of radio altimeters. That could happen not when the plane is in the sky but when it is landing. Hence the precaution in the vicinity of airports: https://www.washingtonpost.com/context/letter-to-biden-administration-officials-from-u-s-airlines-on-rollout-of-5g/39794110-e61d-4006-bafd-41e50f7ab484/?itid=lk_inline_manual_20
+
+The Radio Technical Commission for Aeronautics, a US non-profit that provides technical guidance to regulatory authorities and industry, had in October 2020 published a detailed report, noting: “Radar altimeters are the only sensor onboard a civil aircraft which provides a direct measurement of the clearance height of the aircraft over the terrain or other obstacles, and failures of these sensors can therefore lead to incidents with catastrophic results resulting in multiple fatalities”: https://www.rtca.org/wp-content/uploads/2020/10/SC-239-5G-Interference-Assessment-Report_274-20-PMC-2073_accepted_changes.pdf
+ 
+Then, the Federal Aviation Administration too warned of risks specifically for Boeing's 787 Dreamliner: https://www.faa.gov/newsroom/faa-statements-5g
+
+Meanwhile, Air India, Emirates, Japan Airlines and several more have canceled their flights to the US over the 5G concerns: https://www.indiatoday.in/technology/news/story/air-india-emirates-and-others-cancel-flights-to-us-over-5g-rollout-concerns-1901679-2022-01-19
+
+The UK’s Civil Aviation Authority said in a safety notice last month that “there have been no confirmed instances where 5G interference has resulted in aircraft system malfunction or unexpected behaviour”: https://publicapps.caa.co.uk/modalapplication.aspx?catid=1&pagetype=65&appid=11&mode=detail&id=11061
+ 
+It pointed out that “different national mobile telecommunication strategies may mean that some [countries] have a higher threat exposure than others.” The EU, for example, has its 5G working at lower frequencies and may not face the same risk.
+
+For more information:
+
+https://www.washingtonpost.com/transportation/2022/01/18/airlines-disruptions-5g-verizon-att/
+
+https://www.bbc.com/news/business-60042178

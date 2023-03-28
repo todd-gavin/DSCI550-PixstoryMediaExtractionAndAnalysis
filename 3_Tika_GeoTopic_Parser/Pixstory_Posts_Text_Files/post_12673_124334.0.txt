@@ -1,0 +1,20 @@
+Information Disclosure Vulnerability in Microsoft Exchange
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0322 
+
+Remote Code Execution Vulnerability in Microsoft Windows Support Diagnostic Tool (MSDT)
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0321  
+
+Remote Code Execution Vulnerabilities in Adobe Acrobat and Acrobat Reader
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0320
+
+Multiple vulnerabilities in VMware products
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0319
+
+Multiple Vulnerabilities in Android OS
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0318
+
+Multiple Vulnerabilities in Microsoft Edge (Chromium-based)
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0317
+    
+Multiple Vulnerabilities in Google Chrome
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0316

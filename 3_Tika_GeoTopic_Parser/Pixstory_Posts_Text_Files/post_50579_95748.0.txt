@@ -1,0 +1,8 @@
+Cancer is a family of diseases characterized by uncontrolled cell proliferation. The growth of normal animal cells is carefully regulated to meet the needs of the complete organism. In contrast, cancer cells grow in an unregulated manner, ultimately invading and interfering with the function of normal tissues and organs.
+
+ Cancer is the second most common cause of death (next to heart disease) in the United States. Approximately one out of every three Americans will develop cancer at some point in life and, in spite of major advances in treatment, nearly one out of every four Americans ultimately die of this disease. Understanding the causes of cancer and developing more effective methods of cancer treatment therefore represent major goals of medical research. 
+
+Cancer is now known to result from mutations in the genes that normally control cell proliferation. The major insights leading to identification of these genes came from studies of viruses that cause cancer in animals, the prototype of which was isolated by Peyton Rous in 1911. Rous found that sarcomas (cancers of connective tissues) in chickens could be transmitted by a virus, now known as Rous sarcoma virus, or RSV. Because RSV is a retrovirus with a genome of only 10,000 base pairs, it can be subjected to molecular analysis mud1 more readily than the complex genomes of chickens or other animal cells can. 
+
+Such studies eventually led to identification of a specific cancer causing
+gene (oncogene) carried by the virus, and to the discovery of related genes in normal cells of all vertebrate species, including humans. Some cancers in humans are now known to be caused by viruses; others result from mutations in normal cell genes similar to the oncogene first identified in RSV

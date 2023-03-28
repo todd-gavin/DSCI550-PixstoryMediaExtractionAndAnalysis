@@ -1,0 +1,5 @@
+NAME Pawan Kumar
+Age 14
+Gender Male
+Father's name Bali Jamidar
+NGO Chintan

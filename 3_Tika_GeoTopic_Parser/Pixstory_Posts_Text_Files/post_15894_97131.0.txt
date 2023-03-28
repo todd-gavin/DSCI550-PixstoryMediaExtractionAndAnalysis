@@ -1,0 +1,10 @@
+Sergio Di Molfetta AMD-SID-SIEDP Working group on Diabetes and Technology 
+
+Abstract 
+
+Wider access to continuous glucose monitoring systems, including flash glucose monitoring, has enabled people with diabetes to achieve lower HbA1c levels and reduce the amount of time they spend in hypoglycaemia or hyperglycaemia, and has improved their quality of life. An International Consensus Panel proposed different target glucose ranges and recommendations according to different ages and situations (adults, young people and children with type 1 or type 2 diabetes, as well as elderly people who are at higher risk of hypoglycaemia, and women with diabetes during pregnancy). 
+
+In this expert opinion, we interpret the international recommendations in the context of established clinical practice for diabetes care, and propose three different step-by-step algorithms to help the healthcare professionals use the most innovative glucose metrics, including time in glucose ranges, glucose management indicator, coefficient of variation, and ambulatory glucose profile. In detail, we focus on glucose metrics as measured by the FreeStyle Libre system and as visualized on the LibreView digital diabetes platform to support appropriate interpretation of flash glucose monitoring data. This is specifically structured for healthcare professionals and general practitioners who may have a low level of confidence with diabetes technology, with the aim of optimizing diabetes management, ensuring effective use of healthcare resources and to maximise outcomes for people with diabetes.
+
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0168822722006805

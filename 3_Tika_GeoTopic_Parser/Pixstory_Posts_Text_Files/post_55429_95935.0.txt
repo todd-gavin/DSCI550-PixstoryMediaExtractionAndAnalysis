@@ -1,0 +1,5 @@
+Name-khushi
+Age-10
+Sex-F
+Class-5
+Father name-sintoo

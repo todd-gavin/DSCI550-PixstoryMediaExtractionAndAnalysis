@@ -1,0 +1,7 @@
+Multiple vulnerabilities in Google Chrome
+
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0246 
+
+Multiple vulnerabilities in Nvidia GPU Display Driver
+
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0247

@@ -1,0 +1,13 @@
+Hospital admissions of children under 1 year old have risen steeply, coinciding with transmission of the omicron variant, show preliminary data presented to the government’s SAGE committee.1
+
+The data, from the Covid-19 Clinical Information Network (CO-CIN) study, show that the proportion of children under 1 who were admitted to hospital with covid-19 was 42.2% in the four week period studied (14 December 2021 to 12 January 2022), much higher than earlier in the pandemic.
+
+Under 1s made up 32.9% of children admitted during the first wave (January to August 2020), 30.4% in the second wave (September 2020 to April 2021), and 30.2% when delta was the most prevalent variant (May 2021 to 13 December 2021).
+
+The alpha and delta variants were also associated with increased cases in children, raising concerns that children would be more vulnerable to these variants and would become sicker. But this turned out not to be the case, said Calum Semple, professor of child health and outbreak medicine at the University of Liverpool, who presented the data at a Science Media Centre briefing on 13 January 2021.
+
+And the indications are that children admitted to hospital with omicron are even less sick, as they require less support than children admitted earlier in the pandemic and are discharged earlier. Oxygen use by children aged under 1 admitted in the past four weeks for whom data are available was 12%, compared with 22.5% in the first wave of the pandemic. Admission to intensive care was 9.9% (v 14%), use of mechanical ventilation was 2% (v 5.8%), use of non-invasive ventilation was 2% (v 7.2%), and mean length of stay was 1.7 days (v 6.6 days).
+
+Data from the US Centers for Disease Control and Prevention (CDC) show that in the week from 26 December 2021 to 1 January 2022 more than five in every 100 000 children under 5 who were admitted to hospital were infected with covid-19, nearly double the rate reported in early December before the omicron variant began to take hold. The CDC explained that many children were admitted with covid-19 rather than because of it.
+
+https://www.bmj.com/content/376/bmj.o110

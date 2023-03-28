@@ -1,0 +1,25 @@
+Peregrine is a programming language that is similar to Python, but the execution of this programming language is similar to that of C. Although the Python programming language was easy to use, the programming language is a bit slow. The slow speed created inconveniences for developers.
+
+Ethan, a developer, along with his friends, decided to develop a programming language that is simple and fast. Hence, Peregrine was introduced. This programming language has a similar syntax to Python, and the speed is similar to that of C. These developers created this programming language as a quick alternative to Python, and a simple alternative to C.
+
+Objectives of Peregrine programming language
+Some of the basic objectives of the Peregrine programming language are as follows:
+
+1. Fast-paced
+2. Easy to use
+3. Takes up less memory
+4. Faster compilation
+5. Highly compatible
+
+Enhancements in Peregrine programming language
+
+1. if/else/match
+Although this feature seems to be a typical feature that can be seen in most programming languages, it still takes some time to implement this feature in a programming language.
+. Type interface
+One of the company’s newest additions to this programming language is the type interface function. With the help of this feature, it has become possible for developers to write the Peregrine code straightforwardly. With this feature, it is possible to automatically determine the type of expression in a formal language. In this category, there are various languages included such as programming languages and mathematical type systems, and also natural languages in certain disciplines of linguistics and computer science.
+
+3. Ccode
+Another feature that is present in the Peregrine programming language is the Ccode. With the help of this feature, variables that are declared outside the Ccode can be easily used within the Ccode and vice versa.
+
+4. Inline assembly
+Peregrine programming language also incorporates inline assembly, a feature that enables the inclusion of low-level assembly codes within a programme, alongside a code that is built on a high-level language.

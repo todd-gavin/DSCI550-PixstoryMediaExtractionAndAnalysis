@@ -1,0 +1,4 @@
+CERT-In has published an Advisory on its website (07.07.2022)
+
+Multiple vulnerabilities in OpenSSL
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES02&VLCODE=CIAD-2022-0018

@@ -1,0 +1,6 @@
+Name-Riyaz
+Father's Name-Raju
+Age-8
+Sex-Male
+Class-III
+Chintan

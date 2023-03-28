@@ -1,0 +1,19 @@
+SpaceX, Elon Musk’s spaceflight company, lost dozens of satellites after they were hit by charged particles from a powerful eruption of sun, or a solar storm, a day after their launch. According to the company, up to 40 of 49 satellites fell from orbit and burnt up as a result of the solar blast.
+
+Over the past few years, SpaceX has placed over a thousand small satellites — called Starlink internet megaconstellation — into lower orbits of Earth to beam high-speed internet service from space. On February 3, the company deployed 49 more satellites, about 130 miles above the Earth’s surface, to further beef up the fleet of satellites. Over the next few days those doomed satellites are expected re-enter Earth, but are so designed that they won’t cause any damage or collision.
+
+Since the Sun is in a new solar cycle, a cycle that the Sun’s magnetic field goes through approximately every 11 years, space experts expect more such solar, or geomagnetic storms. The new cycle began in December 2019 and is expected to surge to a “solar maximum” in 2025. Worsening storms are more likely to damage valuable satellites and also disrupt electrical communication systems on Earth.   
+
+In the past four years, about 4,000 small satellites have been launched and several companies are planning to put thousands more to provide broadband internet service across the world.    
+
+Just before the SpaceX satellites were launched, a violent eruption from the Sun spewing charged high-energy particles. Those particles reached Earth around the time of the launch.
+
+It’s surprising that SpaceX scientists failed to take this hazard into account before the launch.
+
+READ MORE:
+
+https://www.bbc.com/news/world-60317806
+
+https://www.cnbc.com/2022/02/09/why-solar-geomagnetic-storms-destroy-satellites-like-spacex-starlink.html
+
+https://www.nytimes.com/2022/02/09/science/spacex-satellites-storm.html

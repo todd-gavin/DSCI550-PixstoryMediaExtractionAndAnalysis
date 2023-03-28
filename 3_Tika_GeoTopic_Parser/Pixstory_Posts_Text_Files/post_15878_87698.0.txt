@@ -1,0 +1,9 @@
+Prof Antonio Ceriello MD  Prof Tadej Battelino MD 
+
+Summary 
+
+HbA1c is the most used parameter to assess glycaemic control. However, evidence suggests that the concept of hyperglycaemia has profoundly changed and that different facets of hyperglycaemia must be considered. A modern approach to glycaemic control should focus not only on reaching and maintaining optimal HbA1c concentrations as early as possible, but to also do so by reducing postprandial hyperglycaemia, glycaemic variability, and to extend as much as possible the time in range in near-normoglycaemia. These goals should be achieved while avoiding hypoglycaemia, which, should it occur, should be reverted to normoglycaemia. Modern technology, such as intermittently scanned glucose monitoring and continuous glucose monitoring, together with new drug therapies (eg, ultra-fast insulins, SGLT2 inhibitors, and GLP-1 receptor agonists), could help to change the landscape of glycaemia management based on HbA1c in favour of a more holistic approach that considers all the different aspects of this commonly oversimplified pathophysiological feature of diabetes.
+
+
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S221385872100245X

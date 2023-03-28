@@ -1,0 +1,19 @@
+Abstract
+
+Aims
+
+To estimate the prevalence and temporal trends of type 1 and type 2 diabetes mellitus in children and adolescents (type 1 diabetes: 0–19 years, type 2 diabetes: 10–19 years) in North Rhine-Westphalia (NRW), Germany, from 2002 to 2020.
+
+Methods
+
+The NRW Diabetes Registry records new cases based on three data sources (median completeness of ascertainment 99% for type 1 diabetes, 94% for type 2 diabetes). We determined age- and/or sex-standardized prevalence estimates (95% confidence intervals) per 100,000 individuals. Differences in age and sex, as well as time trends, were examined by Poisson regression. Furthermore, joinpoint regression was used to evaluate changes in prevalence trends over time.
+
+Results
+
+At the end of 2020, the estimated type 1 diabetes prevalence was 247.1 (240.3; 253.9) with an annual increase of 2.9% (2.7%; 3.1%). The type 2 diabetes prevalence was 12.7 (10.6; 14.9) and increased by 6.4% (5.6%; 7.3%) per year. The prevalence trends were not uniform over the total period and flattened considerably in recent years.
+
+Conclusions
+
+The prevalence of type 1 and type 2 diabetes has increased significantly but at a lower rate in recent years. Continued surveillance of the prevalence is essential for the planning of health care resources and prevention measures.
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0168822722008099

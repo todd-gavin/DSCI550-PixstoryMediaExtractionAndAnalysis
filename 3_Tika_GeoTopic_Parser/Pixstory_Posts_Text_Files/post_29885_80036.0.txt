@@ -1,0 +1,10 @@
+Agile is, broadly defined, the ability to move and think quickly and easily, or the ability to move quickly and cooperatively. Creating high-quality, functional software in a short amount of time, also known as continuous delivery. This often requires the team to be able to accept and implement rapidly changing requirements.
+
+
+Agile is sometimes used as a synonym for Scrum, Kanban, or other types of frameworks because it refers to project management in software development. This is a misleading way to explain what it means to be agile.
+
+ Agile is a set of principles and values ​​formally set out in the Agile Manifest, founded in 2001.
+It is the act of gradually transforming the morphology or nature of an organization into something that can grow and prosper in a flexible, collaborative, self-organizing, rapidly changing environment.
+
+
+Today, most companies operate in what is known as the VUCA (Volatile, Uncertain, Complex, Ambiguous) market, where requirements change frequently. What customers thought was an exciting product feature yesterday can now easily be a satisfying feature. In addition, start-ups are rapidly innovating, making it difficult for traditional organizations to keep up with the pace. As a result, these companies are at risk of becoming obsolete and ultimately uncompetitive in the market.

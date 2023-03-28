@@ -1,0 +1,9 @@
+Many environments must be as devoid of microbes as possible, for example, operating rooms or pharmaceutical manufacturing facilities. Microbial contamination in these places can result in severe infection or fatality. 
+
+Spacecraft assembly sites, too, must be free of microbes, but the consequences of contamination could affect an entire planet. The National Air and Space Administration (NASA) is planning two missions to look for signs of past life or current habitable conditions elsewhere in the solar system. Mars 2020 and the Europa Clipper mission to Jupiter’s moon take the search for extraterrestrial life directly to those locations. 
+
+Two concerns face astrobiologists: first, avoiding false positive signals for life by detecting stowaway microbes; and second, avoiding contamination of extraterrestrial environments. Although complete spacecraft sterility is the ideal goal, it is currently unattainable, as sensitive instruments cannot withstand heat treatment. 
+
+Extremophiles and spores are the primary concern because they have the greatest probability for survival in space. The major contamination source, the engineers who assemble the spacecraft, work in special suits to confine their natural microbial shedding. These clean rooms operate with HEPA-filtered air and surfaces are regularly treated with ultraviolet light. 
+
+Surprisingly, the lack of dust and organic matter in NASA clean rooms has created an extreme environment that enriches the presence of certain microbes. Tersicoccus phoenicis has been isolated from only two places on Earth: spacecraft assembly clean rooms on two continents.

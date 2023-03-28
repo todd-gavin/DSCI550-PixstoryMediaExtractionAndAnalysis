@@ -1,0 +1,9 @@
+Terminata la stagione ho pensato di creare un grafico che posizonasse le squadre in base al numero di azioni di pressing sulla 3/4 avversaria e al numero di pass progressivi, entrambi rapportiati per 90 🕛, due valori che penso mostrino bene l'approccio delle squadre al match.
+I dati li ho tratti da fbref che, a sua volta, li prende da StatsBomb .
+Il Milan campione è 1^ per azioni di pressing sulla 3/4 avversari [41.7] al quale abbina 35.50 pass prog., dato quest'ultimo nel quale primeggia l'Atalanta con 42,10.
+Sorprende il Genoa retrocesso, 2^ per pressing ma tra gli ultimi con 26,9 pass.progr.
+Ottimo l'Empoli che si assesta nella posizione medio alta del grafico con 36 azioni di pressing e 33,4 pass progressivi.
+L'Inter ha prodotto un numero di azioni di pressing medio [35.90] ma è risultata 2^ per pass progressivi con 39.90.
+La #Juventus invece si trova nel gruppo di squadre con poco pressing sulla 3/4 e un valore medio di pass progr., rispettivamente con 31.1 [come il Cagliari, inferiore allo Spezia] e 33.6 pass progressivi, in linea con l'Empoli e la Fiorentina e inferiore a Hellas e Sassuolo 
+Personalmente penso che il mercato che sta pianificando la #Juve la indirizzi verso una squadra capace, una volta recuperata palla, di ribaltare velocemente la situazione.
+Nella prossima stagione mi aspetto una #Juve in posizioni alte rispetto al valore dei pass. progr.

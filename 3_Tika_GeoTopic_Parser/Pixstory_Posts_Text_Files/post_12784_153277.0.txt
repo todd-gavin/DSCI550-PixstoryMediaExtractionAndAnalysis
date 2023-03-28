@@ -1,0 +1,3 @@
+CERT-In has published Current activity on its website (07-10-2022)
+New "Maggie" Backdoor Targeting Microsoft SQL Servers
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBADV01&CACODE=CICA-2022-3108

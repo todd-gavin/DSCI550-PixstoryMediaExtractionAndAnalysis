@@ -1,0 +1,21 @@
+Dr. Amy E.Morrison Dr. Anna Lam 
+
+Abstract 
+
+Introduction 
+
+In the last one hundred years, since the discovery of insulin, methods of insulin delivery and glucose monitoring have advanced technologically. In particular, the introduction of insulin pumps, providing continuous subcutaneous insulin infusion (CSII), and continuous glucose monitors (CGM) have been revolutionary for people living with type 1 diabetes. In this review, we focus on automated insulin delivery (AID) systems and discuss the implications of both approved and off-label options for the user and healthcare providers. 
+
+Automated Insulin Delivery (AID) 
+
+By pairing insulin pumps with CGM, AID systems facilitate automated adjustment in insulin delivery based on CGM readings. A subset of these have been developed commercially and have regulatory approval. In contrast, unregulated Do It Yourself (DIY) AID systems, designed and set up by people living with type 1 diabetes and their families, have advanced rapidly and are gaining popularity worldwide. 
+
+Implications of DIY AID use 
+
+These patient-driven technologies have demonstrated impressive user self-reported improvements in glycemic control and quality of life, but have not been evaluated in any formal randomized controlled trials or by regulators. This presents challenging uncertainty for healthcare providers, as do the ethical and legal implications in supporting people with diabetes who wish to use these technologies. 
+
+Conclusions 
+
+The current knowledge, opinions and practices relating to the use of AID systems across Canada are unknown. Gathering this information will highlight current practice, areas of knowledge gaps and concern, and aid focused education. This understanding is crucial to ensure people with type 1 diabetes using these systems have access to optimal, consistent and safe patient-centred care. 
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S1499267122001393

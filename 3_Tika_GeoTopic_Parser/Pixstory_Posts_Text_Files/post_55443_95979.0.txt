@@ -1,0 +1,6 @@
+Name _ Mohd ahemad 
+Father_ Rehan
+Age _12
+Sex _Male 
+Class_ VIII
+Chintan

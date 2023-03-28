@@ -1,0 +1,4 @@
+Name -Narmita
+Age -12
+Class-VI
+Sex-Female

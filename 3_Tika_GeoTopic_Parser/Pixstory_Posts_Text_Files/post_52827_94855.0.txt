@@ -1,0 +1,5 @@
+Name Tanya
+ father name Sunil Kumar
+ Age   10
+gender female 
+NGo Chintan

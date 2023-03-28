@@ -1,0 +1,8 @@
+Multiple Vulnerabilities in Citrix Products
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0271 
+
+Multiple Vulnerabilities in Adobe Products
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0270 
+
+Remote Code Execution Vulnerability in Zimbra webmail
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0269

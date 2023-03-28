@@ -1,0 +1,17 @@
+HYDERABAD: With the third wave of Covid-19 on the decline, researchers now predict that a fourth wave may begin in India around June 22 and continue till October 24. The severity of a fourth wave, however, will depend on the emergence of new variants and the vaccination status of people, including the administration of a booster dose, they said.
+Researchers from 
+
+IIT Kanpur
+
+ have predicted that a fourth wave of Covid-19, if there is one, will last at least four months. The statistical prediction has been published on the preprint server 
+
+MedRxiv
+
+ on February 24.
+
+The curve will reach peak from August 15 to 31 and thereafter decline. This is the third time that researchers from IIT Kanpur have predicted a Covid-19 wave in the country. Their predictions, particularly about the third wave, have been near accurate, with a deviation of only a few days.
+The research was conducted by Sabara Parshad Rajeshbhai, Subhra Sankar Dhar and Shalabh of the department of mathematics and statistics, IIT Kanpur. Using a statistical model for their prediction.
+“Therefore, the fourth wave (presumed) starts from June 22, reaching its peak on August 23 and ending on Oc- tober 24,” theysaid. The team used a methodology called “Bootstrap” to com- pute the confidence interval of the time point of the peak of a fourth wave. This methodology can also be used to forecast a fourth and other waves in other countries as well, they said.
+Many countries have already seen the third wave and a few countries have started to face the fourth and higher waves of the pandemic. The third wave was predicted for India using the concept of a mixture of Gaussian distribution based on the data of Zimbabwe, and when the third wave in India is finishing it is now clear that the forecast was almost correct. Motivated by the study, we investigated the forecasting of a fourth wave in India,” the researchers said.
+
+Source : https://m.timesofindia.com/india/covid-iit-k-experts-predict-4th-wave-around-june-22/amp_articleshow/89858986.cms

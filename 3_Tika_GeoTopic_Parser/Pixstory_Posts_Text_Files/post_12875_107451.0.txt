@@ -1,0 +1,15 @@
+Multiple Vulnerabilities in Illumina Local Run Manager 
+
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0268  
+
+Multiple Vulnerabilities in Zoom Products 
+
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0267
+
+Multiple vulnerabilities in SAP Products 
+
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0266
+
+Multiple Vulnerabilities in Fortinet products	
+
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0265

@@ -1,0 +1,19 @@
+American chip-making giant Intel is a shadow of its former self. Despite the global semiconductor shortage, which has boosted rival chipmakers, Intel is making less money than a year ago with net income down 21% year over year to US$4.6 billion (£3.4 billion). Unfortunately, this is an ongoing trend.
+
+Intel was the world’s largest chipmaker until 2021, when it was dethroned by Samsung. Though Samsung’s main business is memory chips, which is a different segment of the market to Intel’s microprocessors, it is sign of Intel’s decline. We’ve been tracking global companies’ future-readiness at the International Institute for Management Development (IMD), and Intel now comes out 16th in the technology sector.
+
+There are two fundamental issues, according to Matt Bryson, an analyst at Wedbush Securities: “[Intel] fell behind AMD in chip design and Taiwan Semiconductor (TSMC) in manufacturing.” During the most recent earnings call with analysts, CEO Pat Gelsinger had to concede that the technology in Intel’s data-centre processors hadn’t been improved in five years. In his words, it was “an embarrassing thing to say”.
+
+How did this happen to a company that for many years was well ahead of its competition, and what are the chances of a turnaround?
+
+Intel’s in-house model
+
+Intel used to be the undisputed king of microprocessors. PCs were made by many companies, but these were effectively just brand names. The prowess of the machines depended on whether they had an “Intel inside”.
+
+Here is how you compete as a chipset manufacturer: you etch more transistors on a slice of silicon wafer. To achieve this, Intel outspent its rivals on R&D and attracted the best scientists. But most importantly, it kept full control of both product design and manufacturing.
+
+Intel’s engineers – from research to design to manufacturing – have always worked as a close in-house team. In contrast, fellow US rivals like Qualcomm, Nvidia and AMD, have either shed their manufacturing capacity or never had it in the first place.
+
+Read full story at The Conversation: https://theconversation.com/intel-cant-even-grow-profits-during-a-global-chip-shortage-where-did-it-all-go-wrong-175877
+
+Image Credits: http://creativecommons.org/licenses/by-sa/4.0/

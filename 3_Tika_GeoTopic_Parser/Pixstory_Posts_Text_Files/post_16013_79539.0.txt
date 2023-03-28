@@ -1,0 +1,17 @@
+Prof Helen R Murphy MD Carla Howgate MSc Jackie O'Keefe MSc Prof Jenny Myers MD Margery Morgan MD Matthew A Coleman MD MatthewJolly MD  Prof Jonathan Valabhji MD Prof Eleanor M Scott MD  Peter Knighton MPhys Bob Young MD Nick Lewis-Barned MD 
+
+Summary 
+
+Background 
+
+Diabetes in pregnancy is associated with preterm delivery, birthweight extremes, and increased rates of congenital anomaly, stillbirth, and neonatal death. We aimed to identify and compare modifiable risk factors associated with adverse pregnancy outcomes in women with type 1 diabetes and those with type 2 diabetes and to identify effective maternity clinics. 
+
+Methods 
+
+In this national population-based cohort study, we used data for pregnancies among women with type 1 or type 2 diabetes collected in the first 5 years of the National Pregnancy in Diabetes audit across 172 maternity clinics in England, Wales, and the Isle of Man, UK. Data for obstetric complications (eg, preterm delivery [<37 weeks' gestation], large for gestational age [LGA] birthweight [>90th percentile]) and adverse pregnancy outcomes (congenital anomaly, stillbirth, neonatal death) were obtained for pregnancies completed between Jan 1, 2014, and Dec 31, 2018. We assessed associations between modifiable (eg, HbA1c, BMI, pre-pregnancy care, maternity clinic) and non-modifiable risk factors (eg, age, ethnicity, deprivation, duration of type 1 diabetes) with pregnancy outcomes in women with type 1 diabetes compared with those with type 2 diabetes. We calculated associations between maternal factors and perinatal deaths using a regression model, including diabetes type and duration, maternal age, BMI, deprivation quintile, first trimester HbA1c, preconception folic acid, potentially harmful medications, and third trimester HbA1c. 
+
+Interpretation 
+
+Our data highlight persistent adverse pregnancy outcomes in women with type 1 or type 2 diabetes. Maternal glycaemia and BMI are the key modifiable risk factors. No maternity clinics were had appreciably better outcomes than any others, suggesting that health-care system changes are needed across all clinics. 
+
+Read more - https://www.sciencedirect.com/science/article/abs/pii/S221385872030406X

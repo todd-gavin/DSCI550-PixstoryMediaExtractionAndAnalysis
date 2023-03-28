@@ -1,0 +1,11 @@
+
+Abstract
+Aims
+Assessing the hemodynamic changes of diabetic retinopathy (DR) using harmonic analysis of both non-invasively measured radial pulse and photoplethysmography (PPG) signals to propose a DR risk indicator.
+Methods
+A total of 1879 patients with diabetes were followed on average of 3.5 years. The radial pulse and PPG signals were measured at the beginning of the trial. Kaplan-Meier curves of the DR risk indicator was analyzed. In addition, the correlation between the measurements of the radial pulse and PPG was evaluated.
+Results
+In comparison of the patients' clinical characteristics, years of diabetes, systolic blood pressure, HbA1C, ACR, urinary albumin and fourth harmonic (C4) were higher in the DR group, and eGFR and third harmonic (C3) were lower. Patients in the high-DR risk group had a 1.8-fold higher risk of developing retinopathy than those in the low-risk group (log-rank test, p < 0.001). The correlation coefficient between radial pulse and PPG measurements for C3 and C4 were 0.727 and 0.628, respectively.
+Conclusions
+The harmonic analysis of radial pulse and PPG signals may be used to reflect the effect of DR in hemodynamics and the derived harmonic components may predict the risk of DR of patients with type 2 diabetes.
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S1056872722002185

@@ -1,0 +1,6 @@
+Name-Surunisha
+Father's name-Abdullah
+Age-9
+Sex-female
+Class-V
+Chintan

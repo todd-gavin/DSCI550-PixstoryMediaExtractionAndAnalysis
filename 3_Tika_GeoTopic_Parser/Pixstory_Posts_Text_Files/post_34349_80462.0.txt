@@ -1,0 +1,5 @@
+Over the past three years, SpaceX has deployed thousands of satellites into low-Earth orbit as part of its business to beam high-speed internet service from space. But the company’s latest deployment of 49 new satellites after a Feb. 3 launch did not go as planned.
+
+As a consequence of a geomagnetic storm triggered by a recent outburst of the sun, up to 40 of 49 newly launched Starlink satellites have been knocked out of commission. They are in the process of re-entering Earth’s atmosphere, where they will be incinerated.
+
+The incident highlights the hazards faced by numerous companies planning to put tens of thousands of small satellites in orbit to provide internet service from space.

@@ -1,0 +1,10 @@
+Imagine you begin pedaling from the start of Stage 12 of this year’s Tour de France. Your very first task would be to bike approximately 20.6 miles (33.2 km) up to the peak of Col du Galibier in the French Alps while gaining around 4,281 feet (1,305 m) of elevation. But this is only the first of three big climbs in your day. Next you face the peak of Col de la Croix de Fer and then end the 102.6-mile (165.1-km) stage by taking on the famous Alpe d'Huez climb with its 21 serpentine turns.
+
+On the fittest day of my life, I might not even be able to finish Stage 12 – much less do it in anything remotely close to the five hours or so the winner will take to finish the ride. And Stage 12 is just one of 21 stages that must be completed in the 24 days of the tour.
+
+I am a sports physicist, and I’ve modeled the Tour de France for nearly two decades using terrain data – like what I described for Stage 12 – and the laws of physics. But I still cannot fathom the physical capabilities needed to complete the world’s most famous bike race. Only an elite few humans are capable of completing a Tour de France stage in a time that’s measured in hours instead of days. The reason they’re able to do what the rest of us can only dream of is that these athletes can produce enormous amounts of power. Power is the rate at which cyclists burn energy and the energy they burn comes from the food they eat. And over the course of the Tour de France, the winning cyclist will burn the equivalent of roughly 210 Big Macs.
+
+Cycling is a game of watts
+To make a bicycle move, a Tour de France rider transfers energy from his muscles, through the bicycle and to the wheels that push back on the group.
+
+Read more: https://theconversation.com/tour-de-france-how-many-calories-will-the-winner-burn-186097

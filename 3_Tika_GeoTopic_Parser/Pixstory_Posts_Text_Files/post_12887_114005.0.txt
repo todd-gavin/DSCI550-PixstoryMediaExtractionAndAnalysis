@@ -1,0 +1,7 @@
+CERT-In has published Vulnerability Notes on its website (06.07.2022) 
+
+Multiple vulnerabilities in Google Chrome
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0290
+
+Multiple vulnerabilities in GitLab
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0289

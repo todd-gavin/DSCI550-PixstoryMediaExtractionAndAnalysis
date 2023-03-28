@@ -1,0 +1,19 @@
+Abstract
+
+Objective
+
+This study aimed to compare cervical joint position sense (JPS) between individuals with type 2 diabetes (T2D) and healthy individuals and to assess the correlation between glycated hemoglobin (HbA1c) values and cervical JPS in individuals with T2D.
+
+Methods
+
+Ninety-seven individuals with T2D (mean age: 59.0 ± 6.8 years; men = 63 [67.02%], women = 34 [32.98%], and 117 healthy individuals without T2D (mean age: 57.3 ± 6.9 years; men = 70 [79.80%], women = 44 [20.20%]) were recruited into this study. Cervical JPS was evaluated using a cervical range of motion device in cervical flexion, extension, and rotation in left and right directions. Participants were required to relocate their heads actively to a predefined target position with eyes closed, and their reposition accuracy was measured in degrees as joint reposition error (JRE). The HbA1c test was performed on all participants with T2D to determine their average blood sugar level over the previous 2 to 3 months. Cervical JREs were compared and correlated with HbA1c values.
+
+Results
+
+The participants with T2D showed significantly larger cervical JREs in all directions compared with the healthy group (flexion: d = 1.23, P < .001; extension: d = 1.85, P < .001; left rotation: d = 1.70, P < .001; right rotation: d = 2.60, P < .001). Pearson correlation coefficient (r) showed significant moderate positive association between HbA1c and cervical JREs in flexion (r = 0.41, P = .001), extension (r = 0.48, P < .001), left rotation (r = 0.38, P < .001), and right rotation (r = 0.37, P < .001) in participants with T2D.
+
+Conclusion
+
+The magnitude of cervical JPS impairment was significant in individuals with T2D. In addition, HbA1c levels showed a significant negative correlation with cervical JPS.
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0161475422000859

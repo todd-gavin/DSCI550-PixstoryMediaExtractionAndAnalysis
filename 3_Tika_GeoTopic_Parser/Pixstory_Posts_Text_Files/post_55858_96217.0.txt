@@ -1,0 +1,6 @@
+Name Ayan
+Father Name abdul qiuum
+Age 11
+Sex Male
+Class 5
+Chintan

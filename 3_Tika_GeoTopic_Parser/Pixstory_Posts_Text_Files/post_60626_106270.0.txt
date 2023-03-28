@@ -1,0 +1,4 @@
+Wordle is a five letter new york times onwaord word game played online.
+Every day , a new word is revealed and players are given six chances to guess what is it.during the guessing the color of tiles changes to gelp players figure out the word.
+A grey letter indicates that it is not present in today's word , but a yellow tile states that letter is present kn today's wprd is on a wrong position . Then there's green tile which indicates thats its a correct word and in correct location .
+The daily puzzle game is fun and creates curiosity among players to guess words daily.it can be played for free on new york times .......

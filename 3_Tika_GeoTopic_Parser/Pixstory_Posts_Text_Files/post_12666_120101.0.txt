@@ -1,0 +1,10 @@
+Multiple Vulnerabilities in Apple macOS
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0313
+Multiple Vulnerabilities in Apple iOS and iPadOS
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0312
+Multiple Vulnerabilities in Mozilla Firefox
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0311
+Multiple Vulnerabilities in Google ChromeOS
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0310
+Multiple vulnerabilities in Samba
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0309

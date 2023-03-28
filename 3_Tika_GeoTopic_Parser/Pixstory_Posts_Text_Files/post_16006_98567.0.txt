@@ -1,0 +1,21 @@
+Arnaud D.Kaze MD, MPH Justin B.Echouffo-Tcheugui MD, PhD 
+
+ABSTRACT 
+
+Background 
+
+Epidemiological data on the associations of microvascular disease with atrial fibrillation are scarce. We evaluated the associations of diabetes-related microvascular disease in multiple vascular beds and its burden with incident atrial fibrillation among adults with type 2 diabetes. 
+
+Methods 
+
+: A total of 7,603 participants with type 2 diabetes and without atrial fibrillation were assessed for diabetic kidney disease, retinopathy or neuropathy at baseline in the Action to Control Cardiovascular Risk in Diabetes (ACCORD) study. Incident atrial fibrillation events were adjudicated using follow-up electrocardiograms. Modified Poisson regression was used to generate risk ratios (RRs) and 95% confidence intervals (CIs) for atrial fibrillation. 
+
+Results 
+
+: Of the 7,603 participants (mean age 62.5 years, 38.0 % women, 63.4% White), 63.3% (n=4,816) had microvascular disease – defined as the presence of ≥ 1 of: diabetic kidney disease, retinopathy, or neuropathy at baseline. Over a median of 7 years, there were 137 atrial fibrillation events (1.8%). Participants with microvascular disease had a 1.9-fold higher risk of incident atrial fibrillation compared to those without microvascular disease (RR 1.88, 95% CI 1.20-2.95). Compared to no microvascular disease, the RRs for atrial fibrillation were 1.62 (95% CI 1.01-2.61) and 2.47 (95% CI 1.46-4.16) for those with 1 and ≥ 2 microvascular territories affected, respectively. The RRs for atrial fibrillation by type of microvascular disease were 1.57 (95% CI 1.09-2.26), 0.95 (95% CI 0.53-1.70), and 1.67 (95% CI 1.15-2.44) for neuropathy, retinopathy, and diabetic kidney disease, respectively. 
+
+Conclusions 
+
+: In a large cohort of adults with type 2 diabetes, the presence of microvascular disease and its burden were independently associated with higher risk of incident atrial fibrillation. 
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S000293432200331X

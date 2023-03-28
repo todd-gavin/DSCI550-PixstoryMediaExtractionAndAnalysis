@@ -1,0 +1,5 @@
+Name Neha
+Age 9
+Sex female
+Father name Nijakat Ali
+NGo chintan

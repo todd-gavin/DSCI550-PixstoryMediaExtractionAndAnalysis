@@ -1,0 +1,11 @@
+Astronomers using the James Webb Space Telescope have spotted what they think may be the farthest galaxy ever seen — a distant red smudge 35 billion light-years away.
+
+The galaxy, named CEERS-93316, was pictured as it existed just 235 million years after the Big Bang, using Webb's Near Infrared Camera, which can peer back in time to the earliest flickerings of the very first stars.
+
+The new result, which is still preliminary and has yet to be confirmed by studying the spectra of the galaxy’s light, has already broken a previous provisional record set by the telescope just one week ago, when another team spotted GLASS-z13, a galaxy that existed 400 million years after the Big Bang.
+
+Light has a finite speed, so the farther it has traveled to reach us, the further back in time it originated. The wavelengths of light from the oldest and most distant galaxies also get stretched out by billions of years of travel across the expanding fabric of space-time in a process known as redshift, making Webb's sophisticated infrared cameras essential for peering into the universe's earliest moments.
+
+The researchers, who outlined their findings in a paper posted July 26 to the preprint database arXiv, found that the newly discovered galaxy has a record-breaking redshift of 16.7, which means its light has been stretched to be nearly 18 times redder than if the expanding universe wasn't moving the galaxy away from us. The findings have not yet been peer-reviewed.
+
+Webb's extreme sensitivity to infrared frequencies means that it must be isolated from disruptive heat signals on Earth, and the telescope now rests at a gravitationally stable location beyond the moon's orbit — known as a Lagrange point — after being launched there from French Guiana atop an Ariane 5 rocket on Christmas Day 2021.

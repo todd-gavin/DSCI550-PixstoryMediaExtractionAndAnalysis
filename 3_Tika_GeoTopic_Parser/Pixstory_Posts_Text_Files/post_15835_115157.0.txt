@@ -1,0 +1,21 @@
+Bharmal Vahid Shabbirhussain Surya Kumar Singh 
+
+Abstract 
+
+Background and aims 
+
+Non Alcoholic Fatty Liver Disease (NAFLD) is common in type 2 Diabetes Mellitus (DM) that might progress to advance liver fibrosis. Early recognition of liver fibrosis may have clinical implication. Non invasive assessment tool for severity of liver fibrosis in NAFLD is expensive fibroscan. An alternate method of diagnosis will be very useful innovation. We aimed to evaluate Carotid Intima Media Thickness (CIMT) and its association with severity of liver fibrosis in patients with type 2 DM and NAFLD. 
+
+Methods 
+
+Treatment naïve patients with type 2 DM were enrolled. Measurement of CIMT, hepatic ultrasound and fibroscan were done. Liver function tests included hepatic transaminases. The data obtained was subjected to statistical analysis using IBM SPSS version 20.0 software. 
+
+Result 
+
+Prevalence of NAFLD was 76% including 12% with moderate to advance liver fibrosis in patients with type 2 DM. CIMT was significantly higher in patients with NAFLD than with normal liver. CIMT positively correlated with severity of liver fibrosis measured by fibroscan. ROC curve analysis showed right CIMT value of 0.575 mm predicting liver fibrosis with sensitivity of 91.7% and specificity of 78.9%. 
+
+Conclusion 
+
+Three fourth of patients with type 2 DM had NAFLD but small proportion had moderate to advance liver fibrosis. CIMT increased more in patients with NAFLD than with normal liver in T2DM. CIMT value of 0.575 mm has a good sensitivity to predict liver fibrosis and therefore, it can be a reliable marker of severity of Non Alcoholic Steato Hepatitis (NASH) in diabetes with NAFLD.
+
+Sources- https://www.sciencedirect.com/science/article/abs/pii/S1871402122001746

@@ -1,0 +1,3 @@
+How Can I Crawl Data From Google Maps? 
+If you want to get bulk business information from Google Maps then it could be easily done with the help of the Google Maps Business Extractor. Basically, it is a Google Maps scraping tool that searches and exports business data from companies' profiles listed on Google Maps without any coding and extra special skills such as business name, business address, business email, business reviews, company type, established date, social media links, company category, working hours, phone numbers, and much more.
+#googlemapscrawler  

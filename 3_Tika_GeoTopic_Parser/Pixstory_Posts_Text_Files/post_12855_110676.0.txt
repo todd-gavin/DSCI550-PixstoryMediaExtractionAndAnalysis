@@ -1,0 +1,5 @@
+Multiple Vulnerabilities in JTEKT TOYOPUC Products
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0281
+
+Multiple Vulnerabilities in Cisco	
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0282

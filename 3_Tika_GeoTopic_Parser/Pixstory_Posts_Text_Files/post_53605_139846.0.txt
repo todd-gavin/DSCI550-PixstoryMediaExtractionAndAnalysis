@@ -1,0 +1,15 @@
+cartoon image of a robot with six arms holding a vacuum cleaner, duster, mirror, spray bottle, sponge and toilet plunger
+Who wouldn’t want a robot to handle all the household drudgery? Skathi/iStock via Getty Images
+ Email
+ Twitter1
+ Facebook
+ LinkedIn
+ Print
+With recent advances in artificial intelligence and robotics technology, there is growing interest in developing and marketing household robots capable of handling a variety of domestic chores.
+Tesla is building a humanoid robot, which, according to CEO Elon Musk, could be used for cooking meals and helping elderly people. Amazon recently acquired iRobot, a prominent robotic vacuum manufacturer, and has been investing heavily in the technology through the Amazon Robotics program to expand robotics technology to the consumer market. In May 2022, Dyson, a company renowned for its power vacuum cleaners, announced that it plans to build the U.K.’s largest robotics center devoted to developing household robots that carry out daily domestic tasks in residential spaces.
+Despite the growing interest, would-be customers may have to wait awhile for those robots to come on the market. While devices such as smart thermostats and security systems are widely used in homes today, the commercial use of household robots is still in its infancy.
+As a robotics researcher, I know firsthand how household robots are considerably more difficult to build than smart digital devices or industrial robots.
+Handling objects
+One major difference between digital and robotic devices is that household robots need to manipulate objects through physical contact to carry out their tasks. They have to carry the plates, move the chairs and pick up dirty laundry and place it in the washer. These operations require the robot to be able to handle fragile, soft and sometimes heavy objects with irregular shapes.
+The state-of-the-art AI and machine learning algorithms perform well in simulated environments. But contact with objects in the real world often trips them up. This happens because physical contact is often difficult to model and even harder to control.
+Read more: https://theconversation.com/why-household-robot-servants-are-a-lot-harder-to-build-than-robotic-vacuums-and-automated-warehouse-workers-184227

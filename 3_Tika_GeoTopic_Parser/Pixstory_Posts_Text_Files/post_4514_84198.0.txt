@@ -1,0 +1,17 @@
+U.S. intelligence analysts have determined that Moscow would consider a cyberattack against the U.S. as the Ukraine crisis grows.
+
+As a scholar of Russian cyber operations, I know the Kremlin has the capacity to damage critical U.S. infrastructure systems.
+
+Federal officials have been bracing for this. In January 2022 the U.S. Cybersecurity and Infrastructure Security Agency issued an alert that outlined the Russian cyberattack threat, with technical details of sophisticated Russian-led hacking from recent years. That included a complicated digital break-in that targeted the U.S. energy industry and gained access to the control rooms of U.S. electric utilities. According to Homeland Security officials, the hackers “could have thrown switches” and knocked out power to the public – but did not.
+
+In mid-February 2022, federal cybersecurity experts met with executives from big U.S. banks to discuss defenses against Russian hacking attempts.
+
+In Ukraine, the Russian offensive began Feb. 23, 2022, with cyberattacks aimed at overloading and shutting down bank and government websites. In addition there were reports of software capable of corrupting data having been secretly installed on hundreds of computers owned by large Ukrainian organizations in the financial, defense and information technology services industries.
+
+That malicious software spilled outside Ukraine – it was found on computers in Lithuania and Latvia – which is reminiscent of the NotPetya attack. In 2017, a piece of malware that initially seemed to be ransomware was unleashed on Ukraine and spread widely, causing more than $10 billion in collateral damage to major international companies.
+
+Read full story at The Conversation: 
+https://theconversation.com/how-much-damage-could-a-russian-cyberattack-do-in-the-us-177904
+
+Image courtesy:
+https://www.gettyimages.com/detail/photo/cyber-crime-eye-royalty-free-image/1296072836

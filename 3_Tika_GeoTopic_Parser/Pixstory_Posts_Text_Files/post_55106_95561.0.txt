@@ -1,0 +1,6 @@
+Name: Rohit
+Father: Lt. Aryan
+Age : 10
+Class : Iv
+Sex : male
+Sihani old

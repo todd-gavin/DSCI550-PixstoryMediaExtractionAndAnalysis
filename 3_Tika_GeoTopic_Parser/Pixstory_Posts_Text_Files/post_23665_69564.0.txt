@@ -1,0 +1,3 @@
+The number of possibilities of a Knight's tour is over 122 million.
+The word "Checkmate" in Chess comes from the Persian phrase "Shah Mat," which means"the King is dead."
+The longest chess game theoretically possible is 5,949 moves.

@@ -1,0 +1,5 @@
+Non fungible token
+Non-fungible essentially says that anything is unique and cannot be changed with another object. For instance, a bitcoin can be exchanged for another bitcoin to create the exact identical object.
+
+However, a unique trading card is non-fungible. You would have something entirely different if you exchanged it for a different card.
+The Ethereum blockchain has the majority of NFTs, however other blockchains have their own implementations of NFTs. Like bitcoin or dogecoin, Ethereum is a cryptocurrency, but its blockchain also keeps account of who is owning and exchanging NFTs. Actually, NFTs can be anything digital (such as drawings, music, your brain downloaded and turned into an AI)

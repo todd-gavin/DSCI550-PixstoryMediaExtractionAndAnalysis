@@ -1,0 +1,6 @@
+Name-Sana
+Fathers Name-Anis
+Age-12
+Sex-Female
+Class-VII
+Chintan

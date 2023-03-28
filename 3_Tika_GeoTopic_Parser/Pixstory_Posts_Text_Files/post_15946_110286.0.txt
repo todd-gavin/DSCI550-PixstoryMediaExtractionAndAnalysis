@@ -1,0 +1,22 @@
+Objectives
+Risk assessment models for cardiac surgery do not account for degrees of liver dysfunction. Ultrasound shear wave elastography measures liver stiffness (LSM), a quantitative measurement related to fibrosis, congestion, and inflammation. We hypothesized that preoperative liver stiffness would be associated with hospital length of stay after cardiac surgery.
+
+Design
+Prospective observational study
+
+Setting
+University Hospital – Single Center
+
+Participants
+105 adult patients undergoing non-emergent cardiac surgery.
+
+Interventions
+Preoperative liver stiffness measured by ultrasound elastography.
+
+Measurements and Main Results
+Associations were analyzed using linear mixed models with adjustments for preoperative variables, duration of cardiopulmonary bypass, and type of surgery. Median liver stiffness was 6.4 kilopascals (kPa) (range 4.1 – 18.6 kPa). The median length of hospital stay was 6 days (range of 3-18 days). Each unit increase in liver stiffness, treated as a continuous variable, was associated with an increase of 0.32 ± 0.10 days in hospital (p = 0.002). When treated as a categorical variable (<6 kPa, 6-9.4 kPa, and ≥ 9.5 kPa), LSM ≥ 9.5 kPa vs LSM < 6 kPa was strongly associated with an increase in hospital length of stay of 3.25 ± 0.87 days (p=0.0003).
+
+Conclusions
+A preoperative LSM ≥ 9.5 kPa was associated with a significantly longer postoperative hospital length of stay. This association appears independent of preoperative comorbidities commonly associated with coronary disease. Preoperative liver stiffness is a novel risk metric that is associated with postoperative hospital length
+
+Sources : https://www.sciencedirect.com/search?qs=diabetes%20and%20metabolic%20syndrome&sortBy=date

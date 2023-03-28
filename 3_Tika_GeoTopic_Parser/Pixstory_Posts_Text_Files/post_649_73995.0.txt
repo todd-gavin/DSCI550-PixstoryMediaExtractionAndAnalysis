@@ -1,0 +1,10 @@
+Six members can be registered using one mobile number on Co-WIN
+
+
+In continuation of updates on various utility features of Co-WIN for the beneficiaries, the following features are added in the self-registration portal of CoWIN.
+a) Registration on Co-WIN –Instead of the existing limit of 4 members, now 6 members can be registered using one mobile number on Co-WIN.
+b) Revoke Vaccination Status- A new utility feature has been introduced under raise an issue in Co-WIN account through which beneficiary can revoke its current vaccination status from fully vaccinated to partially vaccinated or unvaccinated status and also partially vaccinated to unvaccinated status. The vaccination status can be corrected by the beneficiaries, where in occasional isolated cases, the vaccination Certificates are generated due to inadvertent data entry errors by the vaccinator in updation of vaccination data of beneficiaries. The Changes may take 3-7 days after submitting the online request through raise an issue utility.Such beneficiaries can get their due vaccine dose, may be at nearest vaccination center, as per the existent standard guidelines once new vaccination status is successfully updated in the system.
+****
+
+MV/AL
+HFW/Co-WIN Update/21st January 2022/4

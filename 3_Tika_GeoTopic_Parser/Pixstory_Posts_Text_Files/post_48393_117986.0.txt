@@ -1,0 +1,14 @@
+‌US cybersecurity firm Proofpoint said that In the days before January 6, 2021, insurrection, Chinese hackers sent put several dangerous emails to prominent White House correspondents and other journalists at major US news outlets in an evident intelligence collection effort.
+
+As Chinese hackers scurried to confirm whether there would be a peaceful transfer of power in the US, they tried to break into the email accounts of high-profile US journalists as they were softer targets. 
+
+The newly uncovered hacking campaign shows just how important target journalists can be to intelligence services in search of clues about US policy. To try to entice them, the attackers wrote email subject lines about then-President Donald Trump's endeavors to overturn the 2020 election, pandemic relief legislation, and other enticing issues.
+
+It's unclear how successful the hacking campaign was -- Proofpoint said it obstructed the malicious emails that it found. But more journalists need to be aware of the issue because the number of capable hacking groups targeting journalists is "unprecedented," said Ryan Kalember, Proofpoint's executive vice president for cyber strategy. "And it's only likely to increase."
+
+Proofpoint attributed the Chinese hacking undertakings to a group that the UK government has linked with China's civilian intelligence agency, the Ministry of State Security.
+
+Cybersecurity vigilance is all the more necessary for journalists, experts say, as the US prepares for midterm elections this fall and foreign actors may try to use media outlets to sow discord or spread false info about voting -- as Russian operatives did in the 2016 presidential election.
+
+Journalists get crucial information regarding the government-even the most sensitive issues. They could also get false info. This could affect the security of the country in both ways.
+Source: CNN

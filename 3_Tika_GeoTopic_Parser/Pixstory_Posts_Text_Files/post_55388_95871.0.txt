@@ -1,0 +1,6 @@
+Name : palak
+Father : sanjay
+Age : 10
+Class : iv
+Sex : female
+Sihani a

@@ -1,0 +1,21 @@
+Anh Kim Dang Dung Phung
+
+Abstract 
+
+Background and aims 
+
+Metabolic risk factors are the leading causes of mortality and morbidity in recent decades, yet the burden of metabolic syndrome (MetS) has not been carefully assessed in Vietnam. This review thus aims to examine the prevalence of MetS and its related factors in Vietnam. 
+
+Methods 
+
+A systematic review was conducted using literature retrieved from PubMed/Medline, Web of Science, Embase, Scopus, and Google Scholar up until July 2021. We selected descriptive and analytical studies which reported the prevalence of MetS and related factors among healthy people aged less than 65 years old rather than morbid people in Vietnam. A meta-analysis with a random-effects model was applied to estimate the pooled prevalence from the included studies. 
+
+Results 
+
+Eighteen studies with 35421 participants were included in the final analysis. The pooled MetS prevalence among the adult population in Vietnam was 16.1% (95% Confidence Interval (CI): 14.1%–18.1%). Higher prevalence was seen among females (17.3%, 95% CI: 13.8%–20.8%). Low level of High Density Lipoprotein-Cholesterol (HDL-C) was the most prevalent component (34.1%), followed by high triglycerides (33.3%). Being female, living in urban areas, having obesity, and having a higher body mass index or body fat percentage were associated with an increased likelihood of having MetS. 
+
+Conclusions 
+
+MetS was common in the Vietnamese population. Low HDL-C should be considered as an early detectable indicator for MetS screening programs at the population level. Appropriate interventions should be conducted for high-risk groups such as females, those living in urban areas, and obesity. 
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S1871402122000911

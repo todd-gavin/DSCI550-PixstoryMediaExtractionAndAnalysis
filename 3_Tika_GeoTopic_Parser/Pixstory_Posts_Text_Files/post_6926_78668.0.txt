@@ -1,0 +1,13 @@
+The Probe Investigation Continues...
+
+The image below is a compromised Covid vaccination schedule of a website of a rural government hospital in West Bengal. The data has details related to the beneficiary’s name, the beneficiary’s designation, their photo id number, mobile number, their office address, and the date of their vaccination.
+
+Not just Covid-19 data, when we looked further, we also found government electoral records readily available on the internet due to a breach in internet security in the servers maintained by the government. These electoral records from different parts of the country have complete details of the voter, including the name, father’s name, residential address, voter id, age, sex and photograph. The data breach is so severe that cyber miscreants can easily misuse it. The image below pertains to electoral records of a town in Kurukshetra in Haryana.
+
+What you are now seeing below is page 101 of a 511-page document that consists of voter records from Haryana’s Karnal district. Like in the case of Kurukshetra, this record also has complete details of the voter, including the voter’s photograph.
+
+What’s worse is that the details of dead Covid patients are also compromised. We came across many documents that had complete information about people who succumbed to Covid. In particular, a breached document from Lucknow had serial numbers, Covid portal serial numbers, case ids, name, age, gender, the listing of address under urban and rural categories, complete address of the deceased person, mobile number, sample collection date, lab result date, the reason for the closure of the case and the details of the medical facility where the person had received treatment.
+
+This kind of data leak of a dead Covid patient is not just an infringement of a victim or his family’s privacy, but this also showcases how even the basic privacy of the mourning family is compromised. The details are so deep and exhaustive that the names and addresses of these dead patients can be impersonated during elections, and fake id cards can be made in their names.
+
+To be continued...

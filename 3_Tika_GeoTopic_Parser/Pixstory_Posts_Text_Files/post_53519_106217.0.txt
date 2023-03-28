@@ -1,0 +1,14 @@
+READER QUESTION: I am 59 years old, and in reasonably good health. Is it possible that I will live long enough to put my brain into a computer? Richard Dixon.
+
+We often imagine that human consciousness is as simple as input and output of electrical signals within a network of processing units – therefore comparable to a computer. Reality, however, is much more complicated. For starters, we don’t actually know how much information the human brain can hold.
+
+Two years ago, a team at the Allen Institute for Brain Science in Seattle, US, mapped the 3D structure of all the neurons (brain cells) comprised in one cubic millimetre of the brain of a mouse – a milestone considered extraordinary.
+
+￼
+
+This article is part of Life’s Big Questions
+The Conversation’s series, co-published with BBC Future, seeks to answer our readers’ nagging questions about life, love, death and the universe. We work with professional researchers who have dedicated their lives to uncovering new perspectives on the questions that shape our lives.
+
+Within this minuscule cube of brain tissue, the size of a grain of sand, the researchers counted more than 100,000 neurons and more than a billion connections between them. They managed to record the corresponding information on computers, including the shape and configuration of each neuron and connection, which required two petabytes, or two million gigabytes of storage. And to do this, their automated microscopes had to collect 100 million images of 25,000 slices of the minuscule sample continuously over several months.
+
+Read more - https://theconversation.com/when-will-i-be-able-to-upload-my-brain-to-a-computer-184130

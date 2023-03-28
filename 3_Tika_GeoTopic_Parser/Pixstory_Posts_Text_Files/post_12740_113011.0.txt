@@ -1,0 +1,5 @@
+Server Side Request Forgery (SSRF) Vulnerability in Atlassian Jira	
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0285
+
+Multiple vulnerabilities in Drupal
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0284

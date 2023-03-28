@@ -1,0 +1,6 @@
+Name sujeet
+Father name Tunnaram
+Calss 7
+Age 13
+Sex male
+Sihani old

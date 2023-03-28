@@ -1,0 +1,4 @@
+Although Apple promotes itself as a privacy-conscious company, no internet-connected device is entirely secure. Moreover, despite its assurances, the corporation can take a lengthy time to patch disclosed vulnerabilities. According to the current study, rogue websites have access to some users' Google account information as well as recent Safari browser history. The vulnerability was reported to Apple in November, but it has yet to be fixed.
+
+
+In a recent blog post, FingerprintJS revealed this significant Safari flaw (via 9to5Mac). The IndexedDB implementation in Safari on Apple's operating systems allows websites to access database names from other domains. While this implementation doesn’t grant them access to the actual contents of the databases, the names themselves can reveal a lot about a user.

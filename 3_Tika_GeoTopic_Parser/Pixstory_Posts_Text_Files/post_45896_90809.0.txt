@@ -1,0 +1,9 @@
+Talk about embarrassing moments! I actually feel bad for the Former First Lady. She is an aspiring NFT artist, appears to have been beaten at her own game. 
+
+On January 11, the former First Lady issued her first NFT, the Head of State Collection, and auctioned it for $180,000. (1,800 Solana). It appears that she purchased it herself a month later. 
+
+The auction winner, according to public data on the Solana (SOL) blockchain, is the same address that minted the piece—albeit through a highly complicated procedure. Solana, like Ethereum and Bitcoin, is a public blockchain. This means that anyone with access to the internet can track where NFTs are sold.
+
+But wait, wait. I have always believed that you need to smart to cheat people which Mrs. Trump is!
+
+Artnet News reported that the buyer's digital address is 497Zu5gfWSv4VNsoQfjixWXQZmKZ2pDzkVSASDBqnFL2, according to Trump's website. This is where she got her creative juices flowing. That address was provided 1,800 SOL at the end of last month by an address that was funded by the same address that formed Melania's NFT. Following the auction, the original creator's address sent 180,000 SOL to this newly created and self-funded address, which converted it to USDC (a stablecoin linked to the U.S. dollar). Are you feeling dizzy yet?

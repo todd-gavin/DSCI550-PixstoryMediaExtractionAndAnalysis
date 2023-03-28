@@ -1,0 +1,14 @@
+A major stock index that tracks sustainable investments dropped electric vehicle-maker Tesla from its list in May 2022 – but it kept oil giant ExxonMobil. That move by the S&P 500 ESG Index has set off a roiling debate over the value of ESG ratings.
+
+ESG stands for environmental, social and governance, and ESG ratings are meant to gauge companies’ performance in those areas. About one-third of all investments under management use ESG criteria, yet many environmental problems continue to worsen. Tesla CEO Elon Musk called the ratings “a scam,” and the U.S. Securities and Exchange Commission is discussing whether to propose new ESG disclosure rules.
+
+The Conversation asked Tom Lyon, a business economics professor at the University of Michigan who studies sustainable investing, to explain what happened and how ESG ratings could be improved to better reflect investors’ expectations.
+
+How does a company like Tesla, which makes electric vehicles, get dropped from the S&P 500 ESG index while Exxon is still there?
+ESG ratings agencies typically rate companies against others within their industry, so oil and gas companies are rated separately from automotive companies or technology companies. Exxon stacks up fairly well relative to others in the oil and gas category on many measures. But if you compared Exxon to, say, Apple, Exxon would look terrible on its total greenhouse gas emissions.
+
+Tesla may rate well on many environmental factors, but social and governance factors have been dragging the company down. S&P listed allegations of racial discrimination, poor working conditions at a Tesla factory and the company’s response to a federal safety investigation as reasons for dropping the company.
+
+The way ESG criteria are measured also carries some biases. For example, the ratings consider a company’s direct greenhouse gas emissions but not its Scope 3 emissions – emissions from the use of its products. So Tesla doesn’t get as much credit as it might, and Exxon doesn’t get penalized as much as it might.
+
+Read more - https://theconversation.com/how-a-sustainability-index-can-keep-exxon-but-drop-tesla-and-3-ways-to-fix-esg-ratings-to-meet-investors-expectations-183705

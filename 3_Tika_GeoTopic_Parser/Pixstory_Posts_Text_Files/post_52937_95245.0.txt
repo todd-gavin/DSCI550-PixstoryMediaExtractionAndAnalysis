@@ -1,0 +1,6 @@
+Name Saniya
+Father Name Samsul Ali
+Age 12
+Class VIII
+Sex F
+Chintan

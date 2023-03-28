@@ -1,0 +1,8 @@
+Steps to follow to translate posts 
+1. Open Google lens
+2. Select the photo or capture the photo you want to translate
+3. Select the option 'translate' in the bottom of the page
+4. Select the language you want to translate the page in
+5. The translated page will appear on your screen
+
+Congratulations... Your post is translated.

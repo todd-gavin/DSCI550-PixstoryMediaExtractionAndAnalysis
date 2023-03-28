@@ -1,0 +1,23 @@
+Status Known For 117 out of 117 Constituencies 
+
+Aam Aadmi Party	: 92	
+Bahujan Samaj Party:	1	
+Bharatiya Janata Party: 2
+Independent	: 1
+Indian National Congress: 18	
+Shiromani Akali Dal: 3
+Total: 117
+
+Partywise Vote Share
+
+AAAP {42.01%}
+BJP {6.60%}
+BSP {1.77%}
+CPI {0.05%}
+CPI(M) {0.06%}
+CPI(ML)(L) {0.03%}
+INC {22.98%}
+JD(U) {0.00%}
+NOTA {0.71%}
+
+Source: EC

@@ -1,0 +1,11 @@
+Meta, la società madre di Facebook, ha annunciato mercoledì che una versione aggiornata del suo motore di traduzione delle lingue basato sull'apprendimento automatico può ora elaborare 200 lingue diverse.
+
+ Questa tecnologia di intelligenza artificiale (AI), soprannominata NLB-200, fa parte dell'iniziativa "No Language Left Behind" di Facebook.  Una versione precedente potrebbe tradurre tra 100 lingue.
+ 
+ Meta utilizzerà il sistema per elaborare più di 25 miliardi di traduzioni al giorno, aprendo il modello e altre risorse e assegnando sovvenzioni alle organizzazioni non profit con idee su come utilizzare questa tecnologia.
+
+ Mark Zuckerberg, CEO di Meta, ha dichiarato in un post su Facebook che questo modello non sarà utilizzato solo nei vari prodotti e servizi di Meta, ma sarà anche disponibile su piattaforma per essere utilizzato da chiunque.
+
+ "Abbiamo appena rilasciato un modello di intelligenza artificiale che abbiamo creato in grado di tradurre in 200 lingue diverse, molte delle quali non sono supportate dagli attuali sistemi di traduzione", ha affermato.
+
+ Meta ha anche collaborato con la Wikimedia Foundation, che utilizza questa tecnologia per tradurre articoli in 20 lingue per le quali ci sono poche o nessuna risorsa in linguaggio macchina.

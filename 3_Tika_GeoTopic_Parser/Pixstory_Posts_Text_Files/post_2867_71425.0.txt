@@ -1,0 +1,17 @@
+A number of government websites in Ukraine was hit by a massive cyberattack on Friday, after diplomatic talks between Russia, United States and NATO broke down. The talks were intended to diffuse tension over an apprehended Russian invasion of the country. One post from a hacker group even warned “Be afraid and expect the worst.”   
+
+Ukraine claimed Russia had orchestrated the attack saying that Moscow is “continuing to wage a hybrid war”. According to their government the purpose of the attack was to intimidate ordinary citizens and damage public sector work so that they lose trust in the authorities. Microsoft had warned it had observed destructive malwares in computers in Ukraine likely to make systems inactive. But Russia promptly denied any wrongdoing.
+
+NATO promised Ukraine to offer cybersecurity assistance to counter attacks on its systems.
+
+But as Microsoft has warned the attack could extend far beyond the government websites. In 2015 and 2016, suspected Russian malwares—such as, BlackEnergy, Industryoyer and KillDisk—were used to damage industrial processes and bring down power substations in Ukraine.  
+
+The power grid cyber-attack in Ukraine in December 2015 had resulted in power outages that affected over 200,000 citizens and included hospitals and other critical establishments for nearly 6 hours. That attack, the first publicly acknowledged successful cyberattack on a power grid, happened during a conflict with Russia and the hack was attributed to a Russian group called Sandstorm.
+
+Friday’s attack on Ukrainian government websites seems to be a harbinger of a similar, if not bigger, cyberattack on the country. And such an attack, a full-fledged cyber warfare, can be even more damaging than a conventional military invasion.   
+
+READ MORE: https://www.nytimes.com/2022/01/14/world/europe/hackers-ukraine-government-sites.html
+
+https://www.dw.com/en/ukraine-government-websites-hacked-in-global-attack/a-60421475
+
+https://www.theguardian.com/world/2022/jan/16/ukraine-says-evidence-points-to-russia-being-behind-cyber-attack

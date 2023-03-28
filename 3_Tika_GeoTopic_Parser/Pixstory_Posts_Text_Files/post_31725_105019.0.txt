@@ -1,0 +1,10 @@
+Una delle decisioni più importanti e citate nella storia della giurisprudenza degli Stati Uniti d'America.
+La questione, decisa con sentenza della Corte suprema degli Stati Uniti d'America nel 1803, fu il primo caso di giudizio di costituzionalità di una legge ed instaurò il sistema del judicial review esercitato dalle corti americane.
+Il presidente della Corte suprema all'epoca era John Marshall, ex segretario di Stato del presidente degli Stati Uniti John Adams (federalista). Quest'ultimo, prima di essere sostituito da Thomas Jefferson (repubblicano), rinnovò molte cariche istituzionali, tra cui quella di Giudice di Pace del Distretto di Columbia (Justice of the peace in the District of Columbia), che fu affidata a Marbury (si tratta delle cosiddette nomine di Mezzanotte).
+Nella confusione dell’ultimo minuto la nomina del nuovo giudice Marbury non viene trasmessa all’interessato dal segretario di stato uscente (Marshall).
+Il nuovo segretario di stato (Madison) rifiuta di farlo (era un repubblicano rispetto al federalista Marbury). Marbury ricorre alla Corte suprema perché questa ordini a Madison di trasmettere l’atto di nomina.
+La Corte è ancora interamente composta da federalisti, e c’è un problema:
+- Se la Corte avesse dato ragione al ricorrente, avrebbe rischiato di esporsi politicamente
+- Marshall, il nuovo presidente della Corte, era anche proprio colui che si era scordato di trasmettere la nomina
+Cosa fa la Corte? Riconosce la nomina di Marbury, efficacie e valida, ma dichiarò incostituzionale la legge che attribuiva alla Corte suprema la competenza sul caso.
+la Corte decise di disapplicare una legge federale (utilizzando la quale Marbury avrebbe senz'altro ricevuto una sentenza favorevole) poiché costituzionalmente illegittima. L'effetto vincolante della decisione derivò dalla posizione di vertice della giurisdizione, rivestita dalla Corte suprema, che con la sola forza del precedente si impone su tutte le altre Corti dell'Unione come giudice federale di terzo grado.

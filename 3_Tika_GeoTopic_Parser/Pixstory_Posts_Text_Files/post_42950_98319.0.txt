@@ -1,0 +1,17 @@
+"Twitter will always be free for casual users, but (there) may be a slight cost for commercial/government users," Elon Musk said in a tweet. "Some revenue is better than none!" he added in another tweet.
+
+Twitter Inc might charge a "slight" fee for commercial and government users, part of the billionaire entrepreneur's push to grow revenue which has lagged behind larger rivals like Meta Platforms Inc's Facebook.
+
+Last week, Reuters reported that Musk told banks he would develop new ways to monetize tweets and crack down on executive pay to slash costs at the social media platform company.
+
+Musk also told the banks he planned to develop features to grow business revenue, including new ways to make money out of tweets that contain important information or go viral, sources told Reuters.
+
+Meanwhile, Twitter also plans to give its users an Edit button, app researcher and reverse engineer Jane Manchun Wong said on Tuesday, revealing the first glimpse of the new tool, reported IANS.
+
+She tweeted a video with the steps needed to edit a tweet. A user has to press a button called "Edit Tweet" in the drop-down context menu, and then he or she can edit the post.
+
+"The current unreleased version of Edit Tweet reuploads media (images, videos, GIFs, etc) instead of reusing them. An inefficient use of the bandwidth and media processing power - plus it turns my video into an image (mishandling media type)," she said in a tweet.
+
+At the moment, it looks like a user will get 30 minutes after publishing a tweet to hit the Edit button.
+
+Initially, the edit button will be available to Twitter Blue users and will be extended to all at a later stage.

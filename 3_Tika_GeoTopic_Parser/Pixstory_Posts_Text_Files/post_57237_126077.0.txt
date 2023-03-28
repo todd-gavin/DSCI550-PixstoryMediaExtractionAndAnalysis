@@ -1,0 +1,24 @@
+Opting in to use online services is always accompanied by a certain level of risk. Today, it's nearly impossible to use an online service without sharing one's personal information or data.
+ So it's not surprising that 64% of people globally stated that they accept certain risks to their online privacy to make their lives more convenient, while 79% of people agreed that consumers had lost all control over how their personal information is collected and used by companies.
+
+Besides all this, what we can do to safeguard our privacy is less, but still, these steps can be taken to bring a little change. 
+
+Commit to sharing less online.
+
+Use strong, unique passwords and two-factor authentication.
+
+Tighten privacy settings for your online accounts.
+
+Purge unused mobile apps and browser extensions.
+
+Block search engines from tracking you.
+
+Browse online with a secure VPN.
+
+Don't ignore software updates.
+
+Disable ad and data tracking.
+
+Use encryption to keep data from prying eyes.
+
+Revoke unnecessary 3rd party app connections.

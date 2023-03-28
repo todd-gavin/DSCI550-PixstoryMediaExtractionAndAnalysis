@@ -1,0 +1,24 @@
+Continuano a diminuire i ricoverati nei reparti (-39). A fronte di 19.720 tamponi effettuati, sono 2.762 i nuovi positivi (14%).
+
+I dati di oggi:
+ 
+- i tamponi effettuati: 19.720, totale complessivo: 40.555.278
+- i nuovi casi positivi: 2.762
+- in terapia intensiva: 21 (+1)
+- i ricoverati non in terapia intensiva: 845 (-39)
+- i decessi, totale complessivo: 42.036 (+22)
+ 
+I nuovi casi per provincia:
+ 
+Milano: 690 di cui 255 a Milano città;
+Bergamo: 278;
+Brescia: 423;
+Como: 152;
+Cremona: 136;
+Lecco: 64;
+Lodi: 66;
+Mantova: 221;
+Monza e Brianza: 206;
+Pavia: 150;
+Sondrio: 63;
+Varese: 233

@@ -1,0 +1,5 @@
+Name satyam
+Age 6
+
+Sex m
+Class UKG

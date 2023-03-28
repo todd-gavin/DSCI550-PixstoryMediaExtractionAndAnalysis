@@ -1,0 +1,7 @@
+The autonomous flying wing technology's first flight was successfully completed by the Defence Research and Development Organization (DRDO) on Friday from the Aeronautical Test Range in Chitradurga, Karnataka.
+
+The Autonomous Flying Wing Technology Demonstrator successfully completed its first flight from the Aeronautical Test Range in Chitradurga, Karnataka, according to DRDO officials. This represents a significant advancement in the development of unmanned combat aircraft.
+
+The aircraft demonstrated a flawless flight while operating in fully autonomous mode, including takeoff, waypoint navigation, and a soft touchdown. This flight is an important step towards self-reliance in such strategic defence technologies and marks a significant milestone in terms of validating key technology for the development of future unmanned aircraft."
+
+Unmanned aerial vehicle (UAV) development and design are handled by Bengaluru's Aeronautical Development Establishment (ADE), a renowned research facility run by DRDO. A tiny turbofan engine powers it. The aircraft's entire flight control and avionics systems, as well as its airframe and undercarriage, were created domestically.

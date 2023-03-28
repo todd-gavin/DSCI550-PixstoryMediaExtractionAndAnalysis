@@ -1,0 +1,17 @@
+Twitter has agreed to pay $150 million as fine to US regulators over allegations that it misrepresented the “security and privacy” of user data between May 2013 and September 2019.
+
+Federal prosecutors alleged that Twitter collected phone numbers and email addresses from users for account security purposes and then passed on the information to its advertising tools to target ads, which it failed to disclose. 
+
+“While Twitter represented to users that it collected their telephone numbers and email addresses to secure their accounts, Twitter failed to disclose that it also used user contact information to aid advertisers in reaching their preferred audiences,” said the US department of Justice stating the court complaint. 
+
+“This practice affected more than 140 million Twitter users while boosting Twitter’s primary source of revenue,” said FTC Chair Lina Khan in a statement.
+
+The alleged activity violated a 2011 consent order between the FTC (Federal Trade Commission).
+
+Twitter earns 90% of its annual revenue ($5bn) from advertising. 
+
+Tesla chief Elon Musk had criticised Twitter’s ad-driven model and said that post-acquisition, he would look at different models of revenue generation for the platform. Although he later put the deal on hold seeking clarification from Twitter on the number of spam or fake accounts it has.
+
+On the development, Musk tweeted yesterday, “If Twitter was not truthful here, what else is not true? This is very concerning news.”
+
+Twitter’s chief privacy officer, Damien Kieran, said in a statement, “The company has cooperated with the FTC every step of the way. In reaching this settlement, we have paid a $150M penalty, and we have aligned with the agency on operational updates and program enhancements to ensure that people’s personal data remains secure and their privacy protected.”

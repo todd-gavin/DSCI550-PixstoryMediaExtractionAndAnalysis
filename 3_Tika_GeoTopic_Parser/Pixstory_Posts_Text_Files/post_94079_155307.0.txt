@@ -1,0 +1,2 @@
+How Can You Export LinkedIn Search Results To Excel?
+LinkedIn Company Extractor makes the process of extraction of data from LinkedIn easier and faster without having to write any codes. It will automatically scrape data from almost any LinkedIn company profile and lets you save the data in a structured format. You can also find advanced functions in the LinkedIn scraping tool like scheduled scraping, APIs, IP rotation, keyword base researching, etc.

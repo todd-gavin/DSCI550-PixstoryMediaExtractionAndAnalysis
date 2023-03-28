@@ -1,0 +1,3 @@
+Name ayush
+Class 3
+Sex m

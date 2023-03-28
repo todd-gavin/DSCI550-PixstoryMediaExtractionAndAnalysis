@@ -1,0 +1,6 @@
+Name = Makeh
+Father name = shiv chand
+Class = 7
+Age = 13
+Sxe = female
+Chintan

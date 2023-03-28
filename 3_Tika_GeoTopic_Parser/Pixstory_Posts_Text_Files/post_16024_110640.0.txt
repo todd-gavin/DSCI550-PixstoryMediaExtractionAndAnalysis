@@ -1,0 +1,18 @@
+Purpose
+
+Acute neurovascular imaging including MRA and/or CTA are routinely performed in the emergency departments (ED) for patients who present with suspected transient ischemic attacks (TIA). Given the current emphasis on mitigating the rising cost of health care nationally, and promoting high value practice, we sought to determine 1) the value of acute neurovascular imaging in patients presenting to the ED with TIA-like symptoms, and 2) whether these neurovascular studies led to a difference in management strategies.
+
+Method
+
+We retrospectively reviewed 398 ED patients who presented with transient neurological deficits and underwent neurovascular imaging from 2015-2018. We reviewed diffusion weighted imaging (DWI) and neurovascular results by patient demographics, baseline risk factors, final diagnosis, treatment/management dispositions and three-month follow-up.
+
+Results
+
+28.1% (112/398) of patients were diagnosed with true TIA, whereas 71.9% patients were deemed to have a non-vascular etiology. Total rates of positive MRA/CTA for severe intracranial (>50%) and cervical vessel (>70%) stenosis were 10.5% and 1.7%. Patients with positive DWI scans had significantly higher rates of severe vascular stenosis (24.4% versus 7.8% intracranially and 2.4% versus 0.9% in the neck) compared to those with negative DWI scans. All patients were treated with multi-pronged medical therapies with no immediate surgical intervention. A follow-up stroke was equally likely in TIA patients with or without severe vascular stenosis.
+
+Conclusions
+In patients presenting with TIA-like symptoms and DWI negative scans, the overall rate of positive neurovascular studies is very low. Triaging with DWI can reduce the frequency of unnecessary neurovascular imaging.
+
+Abbreviations
+
+TIAtransient ischemic attackEDEmergency DepartmentCVScervical vascular stenosisIVSintracranial vascular stenosisHTNhypertensionDMdiabetes mellitusAFatrial fibrillationDWIdiffusion weighted imagingCVAcerebrovascular accident (stroke)CEAcarotid endarterectomy

@@ -1,0 +1,22 @@
+Katsuya Shibuki Takao Aoyama 
+
+Abstract 
+
+Background and aims 
+
+Clinical trials indicate the efficacy of add-on therapy using incretin-related drugs to treat type 2 diabetes mellitus (DM) inadequately controlled by insulin. However, heterogeneity exists among these studies. Baseline body mass index (BMI) accounts for the heterogeneity of add-on therapy with dipeptidyl peptidase-4 (DPP-4) inhibitors and the associated higher BMI with a lower efficacy. The efficacy of add-on therapy with glucagon-like peptide-1 (GLP-1) receptor agonists remains unclear. 
+
+Methods 
+
+We performed a meta-analysis of randomized controlled trials of ≥12 weeks reporting the endpoint of adjusted mean change in hemoglobin A1c levels (AMΔHbA1c) or hypoglycemia incidence. Patients with type 2 DM treated with insulin alone or with metformin for at least 8 weeks before the study treatment were included. The intervention group received liraglutide co-administered with insulin or a fixed-dose combination. The control group received a placebo or insulin. Covariates included five baseline parameters (HbA1c, fasting plasma glucose, BMI, type 2 DM duration, and treatment duration). 
+
+Results 
+
+Seven studies (2067 patients) were selected. AMΔHbA1c was −1.00% (95% confidence interval [CI]: −1.21 to −0.78, I2 = 74.7%). The odds ratio for hypoglycemia incidence was 0.97 (95% CI: 0.50–1.87, I2 = 81.9%). Covariates did not account for the heterogeneity in AMΔHbA1c or hypoglycemia incidence. 
+
+Conclusions 
+
+Liraglutide add-on therapy reduced HbA1c levels without increasing hypoglycemia incidence, independent of BMI, in insulin non-responders with type 2 DM. GLP-1 receptor agonists may be more suitable than DPP-4 inhibitors for add-on therapy in patients with high BMI. Registration number. PROSPERO #CRD42021178888.
+
+
+Sources  - https://www.sciencedirect.com/science/article/abs/pii/S1871402122000881

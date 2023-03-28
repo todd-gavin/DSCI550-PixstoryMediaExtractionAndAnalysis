@@ -1,0 +1,21 @@
+The roles of Chronic Kidney Disease and Diabetes
+
+Abstract
+
+Background
+
+Advanced glycation end products are involved in age-related multisystem decline. They accumulate in body tissues with age, diabetes and chronic kidney disease (CKD), and can be measured non-invasively by the skin autofluorescence (SAF). We studied the relation between SAF and later mortality in old adults.
+
+Methods
+
+The SAF was measured using an AGE-Reader in 451 individuals from the general population aged over 75 years, and all-cause mortality was assessed during an average follow-up of 6.4 years. The association between SAF and mortality was analyzed using a multivariate Cox survival model, adjusted for age and gender. Analyses were further adjusted for diabetes and stratified on the presence of CKD due to its interaction with SAF for the risk of mortality.
+
+Results
+
+Participants were 82 years old on average (SD 4.1). Their mean SAF was 2.8 AU (SD 0.6). One hundred and forty-four individuals (31.9%) died during the follow-up. Adjusted for age and gender, SAF was associated with an increased risk of all-cause mortality (HR 1.44, 95%CI: 1.14-1.82 for a one-AU increase of SAF). The association was no longer significant after adjustment for diabetes. However, after stratification for the presence of CKD, higher SAF was associated with an increased risk of all-cause mortality in the participants with CKD at baseline (HR 1.68, 95%CI: 1.11-2.55), whereas there was no association among participants without CKD (HR 0.95, 95%CI: 0.63-1.44).
+
+Conclusion
+
+Skin autofluorescence is associated with increased all-cause mortality in older adults already suffering from CKD.
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0939475322003362

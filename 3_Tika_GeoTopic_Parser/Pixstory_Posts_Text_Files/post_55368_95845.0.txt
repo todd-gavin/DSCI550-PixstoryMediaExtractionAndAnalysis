@@ -1,0 +1,6 @@
+Name Prince
+Fathers Ranjeet
+Class_5
+Sex-male
+Age 9
+Sihani old

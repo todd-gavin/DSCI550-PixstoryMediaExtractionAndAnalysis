@@ -1,0 +1,13 @@
+Background
+
+Depressive symptoms and mood disorders are associated with a host of physical conditions. However, it is inconclusive whether depressive symptoms are also associated with cancer onset. The aim of this study was to investigate whether depressive symptoms are associated with cancer incidence in a large population-based sample of men and women.
+
+Methods
+
+This study examined data from waves two (HUNT 2, 1995–97) and three (HUNT 3, 2006–08) of the Trøndelag Health Study (HUNT). Depressive symptoms were ascertained using the Hospital Anxiety and Depression Scale (HADS-D ≥ 8), cancer onset was identified via linkage with the Cancer Registry of Norway, death records by the national Cause of Death Register (CDR), and information on lifestyle and demographic factors was self-reported. Cox-proportional hazard regression models were used to test associations. Unadjusted, age-adjusted and multivariable best models accounting for smoking, education, marital status and current employment are presented.
+
+Results
+
+Men and women (n = 61,985; 46.0 % men) were followed from baseline over a period of 778,802 person-years. During the 20-year study period, there were 6856 (11.1 %) individuals with incident cancers and 12,480 (20.1 %) deaths (n = 2498 attributed to cancer). For men with depressive symptoms, 505 (15.3 %) developed incident cancer during the follow-up period, whereas among those without depressive symptoms, 3164 (12.5 %) developed incident cancer. Following adjustment for age, depressive symptomology was not significantly associated with risk of overall cancer onset, nor among prostate, colon or melanoma subtypes. Depressive symptoms were associated with an increased risk of bronchus and lung cancer both before (HR 1.90, 95 % CI 1.43–2.50, p ≤0.001) and after adjustment for age (HR 1.38, 95 % CI 1.04–1.80, p = 0.025). However, further adjustment for additional possible confounders explained this association. For women with depressive symptoms, 384 (11.2 %) developed incident cancer during the follow-up period, whereas among those with no depressive symptomology, 2803 (9.3 %) developed incident cancer. After accounting for age, depressive symptomology was not associated with risk of overall cancer onset, nor among breast, colon, lung and bronchus, or melanoma subtypes.
+
+Source: https://www.sciencedirect.com/science/article/abs/pii/S0165032722008448

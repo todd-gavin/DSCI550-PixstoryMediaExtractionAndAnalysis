@@ -1,0 +1,5 @@
+Name Rohit 
+Father Mohan 
+Age 6
+Class 1
+Sex male

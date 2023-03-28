@@ -1,0 +1,15 @@
+On April 20, 2010, the offshore oil rig Deepwater Horizon exploded, burned, sank in the Gulf of Mexico and terrified the world. This horrific accident — recorded as the largest oil spill in history — killed 11 workers and released 210 million gallons of crude oil into the ocean.
+
+While about a half of the oil rose to the surface, the other half formed a suspended plume of many tiny oil droplets about 1,000 metres below the surface. Its extent and whereabouts couldn’t be determined from above.
+
+Autonomous underwater vehicles (AUVs) are untethered marine robots that can explore the underwater world. AUVs were first used in oil probing missions when the Woods Hole Oceanographic Institution and the Monterey Bay Aquarium Research Institute rapidly deployed them to assess the extent of the submerged plume from the Deepwater Horizon spill.
+
+Since then, AUVs have been developed to accommodate a variety of payloads that are similar to the sensing organs of humans, such as underwater cameras, sonars and chemical and sniffing sensors that operate like our eyes, ears and noses. In our research, we equip the AUV with a scanning sonar to find distant oil plumes and other sensors to take measurements — such as particle size and petrochemical type — when it comes into contact with the plume.
+
+We can help you make informed decisions with our independent journalism.
+
+Although AUVs were used to identify oil plumes in the Deepwater Horizon spill, they are not yet in regular use. They have also been operated with several assumptions about the way oil behaves in the ocean after a spill. This means that clean-up operations may miss large portions of the oil, which can have severe consequences on marine habitats, fish and birds.
+
+Read full story at The Conversation: https://theconversation.com/how-autonomous-underwater-robots-can-spot-oil-plumes-after-an-ocean-spill-175133 
+
+Image courtesy: (Shutterstock)

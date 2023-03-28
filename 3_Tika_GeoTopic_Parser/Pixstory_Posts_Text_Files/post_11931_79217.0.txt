@@ -1,0 +1,13 @@
+The study was led by researchers from the Wellcome-MRC Cambridge Stem Cell Institute (CSCI) and the Department of Pharmacology at the University of Cambridge.
+
+Breast tissue is dynamic, changing over time during puberty, pregnancy, breastfeeding, and aging. The paper, published today in the journal Nature Communications, focuses on the changes that take place during lactation by investigating cells found in human milk.
+
+This research, led by Dr Alecia-Jane Twigger of CSCI, found that the cells in milk, once thought to be dead or dying, are in fact very much alive. These living cells provide researchers with the chance to study not only the changes that occur in mammary tissues during lactation, but also insight into a potential early indicator of future breast cancer development.
+
+"I believe that by studying human milk cells, we will be able to answer some of the most fundamental questions around mammary gland function such as: how is milk produced? Why do some women struggle to make milk? and what strategies can be employed to improve breastfeeding outcomes for women?" said Dr Alecia-Jane Twigger at the Wellcome-MRC Cambridge Stem Cell Institute who led the study.
+
+The researchers collected voluntary breast milk samples from lactating women, as well as samples of non-lactating breast tissue donated from women who elected to have aesthetic breast reduction surgery. Using single-cell RNA sequencing analysis, the team conducted a novel comparison of the composition of the mammary cells taken using these two methods, identifying the distinctions between lactating and non-lactating human mammary glands.
+
+While accessing breast tissue for study relies on donors already undergoing surgery, breast milk samples are much simpler to acquire. Breast milk donors are engaged via midwives or women's networks (an undertaking made more challenging by the pandemic) and agree to share their samples over time. Typical daily production for lactating women is between 750-800ml, and the sample size for Twigger's research is on average a mere 50ml, an amount which can contain hundreds of thousands of cells for study.
+
+Read more- https://www.sciencedaily.com/releases/2022/01/220128085736.htm

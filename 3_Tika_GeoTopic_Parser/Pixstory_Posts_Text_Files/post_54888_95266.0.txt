@@ -1,0 +1,6 @@
+Name Farzana 
+Father name Badruddin 
+Age 11
+Class  VII
+Sex F
+CHINTAN

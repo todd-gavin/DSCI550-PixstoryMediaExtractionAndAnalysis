@@ -1,0 +1,7 @@
+Remote Code Execution Vulnerability in Atlassian Confluence Server and Data Center
+
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0257
+
+Threat Actors Exploiting Unpatched VMware Vulnerabilities
+
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBADV01&CACODE=CICA-2022-3052

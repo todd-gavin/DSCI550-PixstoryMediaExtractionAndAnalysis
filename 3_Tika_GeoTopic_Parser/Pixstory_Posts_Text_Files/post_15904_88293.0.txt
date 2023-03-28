@@ -1,0 +1,21 @@
+Hikmat Permana Nanny Natalia Mulyani Soetedjo 
+
+Abstract 
+
+Background and aims 
+
+In this meta-analysis, we aimed to evaluate the prognostic properties of thyroid disorder during admission on poor prognosis and factors that may influence the relationship in patients with COVID-19. 
+
+Methods 
+
+A systematic literature search of PubMed, EBSCO, and CENTRAL was conducted from inception to August 27, 2021. The main exposure was unspecified and specified thyroid disorders–hypothyroidism or hypothyroidism. The outcome of interest was the COVID-19 composite poor outcome that comprises of severity, mortality, ICU admission, and hospitalization. 
+
+Results 
+
+There were 24,734 patients from 20 studies. Meta-analysis showed that thyroid disorder was associated with composite poor outcome (OR 2.87 (95% CI 2.04–4.04), p < 0.001; I2 = 62.4%, p < 0.001). Meta regression showed that age (p = 0.047) and hypertension (p = 0.01), but not gender (p = 0.15), DM (p = 0.10), CAD/CVD (p = 0.38), obesity (p = 0.84), and COPD (p = 0.07) affected the association. Subgroup analysis showed that thyroid disorder increased risk of severe COVID-19 (OR 5.13 (95% CI 3.22–8.17), p < 0.05; I2 = 0%, p = 0.70) and mortality (OR 2.78 (95%CI 1.31–5.90), p < 0.05; I2 = 80%, p < 0.01). Pooled diagnostic analysis of thyroid disorder yielded a sensitivity of 0.22 (0.13–0.35), specificity of 0.92 (0.87–0.95), and AUC of 0.72. The probability of poor outcome was 38% in patients with thyroid disorder and 15% in patients without thyroid abnormality. 
+
+Conclusion 
+
+On-admission thyroid disorder was associated with poor prognosis in COVID-19 patients. 
+
+Sources - https://www.sciencedirect.com/science/article/pii/S1871402122000789

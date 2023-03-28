@@ -1,0 +1,6 @@
+Un vaccino di nuova generazione messo a
+punto da Sanofi e Gsk da utilizzare come booster ha dimostrato una buona efficacia contro le varianti del Covid, compresa Omicron. Sanofi ha reso noti oggi i risultati di due studi, VAT02 Cohort 2 e COVIBOOST VAT013, condotti sul suo nuovo
+candidato vaccino di richiamo adiuvato (adiuvante pandemico di GSK) di nuova generazione contenente l'antigene della variante Beta. Nello studio di Fase 3 VAT02 Coorte 2, il candidato vaccino ha indotto (al 15  giorno post-immunizzazione) un
+aumento significativo dei titoli anticorpali rispetto al valore basale contro molteplici varianti di interesse (aumento di 15 volte contro il virus parentale D614, aumento di 30 volte contro il ceppo Beta) in adulti precedentemente immunizzati con vaccini
+COVID-19 a tecnologia mRNA. In particolare, contro Omicron, i dati preliminari hanno mostrato un aumento di 40 volte contro la sotto variante Omicron BA.1. Il vaccino ha generato un numero
+doppio di anticorpi neutralizzanti contro Omicron BA.1 e BA.2 rispetto al booster basato su D614 (ceppo Wuhan, originale).

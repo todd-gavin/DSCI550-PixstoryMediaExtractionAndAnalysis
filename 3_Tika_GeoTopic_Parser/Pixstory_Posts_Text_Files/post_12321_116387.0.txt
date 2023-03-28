@@ -1,0 +1,7 @@
+The goal of blockchain is to allow digital information to be recorded and distributed, but not edited. Blockchain is a record-keeping technology designed to make it impossible to hack the system or forge the data stored on it, thereby making it secure and immutable
+
+A simple analogy for understanding blockchain technology is a Google Doc. When we create a document and share it with a group of people, the document is distributed instead of copied or transferred. This creates a decentralized distribution chain that gives everyone access to the document at the same time. 
+
+The trending cryptocurrency, is safe because of the blockchain. The cryptocurrency Bitcoin, launched in 2009, was the first popular application to successfully use blockchain. 
+
+Blockchain is an especially promising and revolutionary technology because it helps reduce risk, stamps out fraud and brings transparency in a scalable way for myriad uses. 

@@ -1,0 +1,4 @@
+A study published in the journal SCIENCE ADVANCES, scientists at Tufts University and Harvard University's Wyss Institute have brought us a step closer to goal of regenerative medicine.
+The adult frogs are naturally unable to regenerate their limbs, but researchers triggered the regeneration process using five-drug cocktail applied in silicon wearable bio reactor dome sealing the elixir over the stump for 24 hours.
+Many creatures have the capability to regenerate their organs like lizards can regrow their tails, but loss of structurally complex limb cannot regrow through natural process.
+The strategy used here is focused on triggering dormant, inherent anatomical patterning programs, not micromanaging complex growth, since adult animals still have the information needed to make their body structures.

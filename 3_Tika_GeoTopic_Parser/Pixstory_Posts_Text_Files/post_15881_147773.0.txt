@@ -1,0 +1,10 @@
+Abstract
+Objectives
+To determine the association between type-1 diabetes (T1D) and pulmonary function tests.
+Methods
+After conducting an exhaustive literature search, we performed a meta-analysis. We employed the inverse variance method with a random effects model to calculate the effect estimate as the mean difference (MD) and 95% confidence interval (CI). We calculated the heterogeneity with the I2 statistic and performed a meta-regression analysis by age, sex, body mass index (BMI), smoking and geographical region. We also conducted a sensitivity analysis according to the studies’ publication date, size of the T1D group and the study quality, excluding the study with the greatest weight in the effect.
+Results
+The meta-analysis included 39 studies, one longitudinal, 35 case-control and three cross-sectional ones, with 1274 patients with T1D and 1353 control participants. The pooled MD (95%CI) for the predicted percentage of FEV1, FVC, FEF25–75%, PEF and DLCO were −6.40 (95%CI -8.55, −4.25; p < 0.001), −6.39 (95%CI -8.46, −4.33; p < 0.001), −6.14 (95%CI -10.73, −1.56; p = 0.009), −9.32 (95%CI -14.15, −4.50; p = 0.0002) and −0.64 (95%CI -1.12, −0.16; p = 0.008), respectively. There was no difference in the ratio of FEV1/FVC (−0.33 95%CI -1.70, 1.03; p = 0.28). There was considerable heterogeneity. The meta-regression analysis showed that between studies heterogeneity was not explained by patient age, sex, BMI, smoking or geographical region. The findings were consistent in the sensitivity analysis.
+Conclusions
+T1D is associated with impaired pulmonary function, independently of age, sex, smoking, BMI, and geographical region. Longitudinal studies are needed to investigate outcomes for patients with T1D and impaired pulmonary function.
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0954611122002566

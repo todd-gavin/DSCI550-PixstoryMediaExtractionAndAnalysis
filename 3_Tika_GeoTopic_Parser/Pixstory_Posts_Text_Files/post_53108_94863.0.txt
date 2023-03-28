@@ -1,0 +1,5 @@
+Name  Akash
+Age  12
+Father name  Dusant
+Gender   Male
+NGO Chintan

@@ -1,0 +1,21 @@
+(from 00:00 hrs to 24:00 hrs of 19.04.2022)
+
+Positive Cases
+
+1009
+
+Tests Conducted
+
+17701
+
+Positivity Rate
+
+5.70%
+
+Recovered/Discharged/Migrated/Duplicates
+
+314
+
+Deaths
+
+01

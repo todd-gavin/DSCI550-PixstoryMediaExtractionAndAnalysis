@@ -1,0 +1,10 @@
+Abstract
+Introduction
+Excess weight is a public health problem associated with a greater burden of chronic diseases and increased use of health resources.
+Material and methods
+A subsample of Spanish adults aged 18–45 from the 2017 Spanish National Health Survey (N = 7081) was used. The odds ratios of service utilisation of the group with BMI ≥ 30 kg/m2 were compared to the normal-weight group, using a model adjusted for sex, age, education, socioeconomic level, perceived health status and the presence of comorbidities.
+Results
+In all, 12.4% of the sample had obesity. Of these, 24.8% visited their general physician, 37.1% attended emergency services and 6.1% were hospitalised during the last 12 months, which were significantly higher rates than in the normal-weight population (20.3%, 29.2%, 3.8%, respectively). However, 16.1% visited a physiotherapist and 3.1% used alternative therapies, compared to 20.8% and 6.4% in the healthy weight group. After adjusting for confounding factors, people with obesity were more likely to visit emergency services (OR: 1.225 [1.037–1.446]) and less likely to visit a physiotherapist (OR: 0.720 [0.583–0.889]) or use alternative therapies (OR: 0.481 [0.316–0.732]).
+Conclusions
+Spanish young adults suffering from obesity are more likely to use some health resources than those of normal weight, even after adjusting for socioeconomic variables and comorbidities, but they are less likely to attend physical therapy. The literature shows that these differences are less marked than in older ages, so this stage of life could be a window of opportunity for prevention to achieve better resource management.
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S2530016422001811

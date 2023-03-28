@@ -1,0 +1,15 @@
+Elon Musk, the world’s richest person, acquired Twitter in a US$44 billion deal on April 25, 2022, 11 days after announcing his bid for the company. Twitter announced that the public company will become privately held after the acquisition is complete.
+
+In a filing with the Securities and Exchange Commission for his initial bid for the company, Musk stated, “I invested in Twitter as I believe in its potential to be the platform for free speech around the globe, and I believe free speech is a societal imperative for a functioning democracy.”
+
+As a researcher of social media platforms, I find that Musk’s ownership of Twitter and his stated reasons for buying the company raise important issues. Those issues stem from the nature of the social media platform and what sets it apart from others.
+
+What makes Twitter unique
+
+Twitter occupies a unique niche. Its short chunks of text and threading foster real-time conversations among thousands of people, which makes it popular with celebrities, media personalities and politicians alike.
+
+Social media analysts talk about the half-life of content on a platform, meaning the time it takes for a piece of content to reach 50% of its total lifetime engagement, usually measured in number of views or popularity based metrics. The average half life of a tweet is about 20 minutes, compared to five hours for Facebook posts, 20 hours for Instagram posts, 24 hours for LinkedIn posts and 20 days for YouTube videos. The much shorter half life illustrates the central role Twitter has come to occupy in driving real-time conversations as events unfold.
+
+Twitter’s ability to shape real-time discourse, as well as the ease with which data, including geo-tagged data, can be gathered from Twitter has made it a gold mine for researchers to analyze a variety of societal phenomena, ranging from public health to politics. Twitter data has been used to predict asthma-related emergency department visits, measure public epidemic awareness, and model wildfire smoke dispersion.
+
+Read more - https://theconversation.com/elon-musks-plans-for-twitter-could-make-its-misinformation-problems-worse-181923

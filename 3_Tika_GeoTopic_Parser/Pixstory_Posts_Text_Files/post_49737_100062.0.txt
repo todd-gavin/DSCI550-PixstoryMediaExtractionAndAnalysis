@@ -1,0 +1,10 @@
+Snapchat is the most used but least explored app. It has these interesting filters that make it take photos and send them o others. One of the advantage that Snapchat is said to have is that the photos are not permanently displayed. It also gives an alert if the receiver takes a screenshot of the photo. But this app has loopholes. 
+
+
+According to slash gear, multiple sources from Snapchat illustrate the non-private nature of the app's back end. Both iPhone (iOS) and Android versions of the app notwithstanding, Snapchat user data (including Snaps) are vulnerable to a tool called SnapLion. The SnapLion software is supposedly only accessible by Snapchat employees – but as the rules of the internet state: If it's data that exists, it can be shared.
+
+Snapchat prides itself on its privacy but the question exists, why would someone want to make content if it was just going to disappear? There's a point at which this data (photos and videos, and more) exist on Snapchat's servers. According to the report this week, current and former Snapchat employees have proof of a group of users (primarily or entirely comprised of Snapchat employees) attaining access to private Snapchat user data – including photos and/or videos.
+
+The tool SnapLion was initially created to assist in the retrieval of data to supply law enforcement officers in cases of a court subpoena. But as all pessimistic realist internet denizens know, if a privacy-related software tool can be abused, it will be abused.
+
+Snap is safe in one way but cannot be completely safe until we have unbreakable encryption and are we going to? Ever?

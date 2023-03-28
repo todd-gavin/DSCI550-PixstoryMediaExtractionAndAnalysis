@@ -1,0 +1,3 @@
+Critical Windows System Zero-Day Vulnerability is known as "Follina" detected. An attacker who successfully exploits this flaw can execute arbitrary code with the caller application's privileges. In the context permitted by the user's permissions, the attacker can then install applications, read, alter, or remove data, and create new accounts. 
+
+Discover Security measures recommended by Microsoft and how we can help you further strength you cybersecurity: https://zc.vg/57GOs?m=0

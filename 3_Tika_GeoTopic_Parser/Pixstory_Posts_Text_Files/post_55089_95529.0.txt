@@ -1,0 +1,6 @@
+Name Anjali
+Father name Rakesh Kumar
+Age 12
+Class Vll
+Sex Female
+Chintan

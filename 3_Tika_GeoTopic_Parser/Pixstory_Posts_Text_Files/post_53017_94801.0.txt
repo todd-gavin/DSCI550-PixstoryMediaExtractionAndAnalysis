@@ -1,0 +1,5 @@
+Name Aditi
+ father name munesh Kumar 
+age 10 
+gender female
+ NGO Chintan

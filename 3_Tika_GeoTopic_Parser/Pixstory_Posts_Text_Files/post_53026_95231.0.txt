@@ -1,0 +1,6 @@
+Name Vansh
+Father's name Lt.Manoj kumar
+Age 11
+Class Vl
+Gender Male
+Chintan

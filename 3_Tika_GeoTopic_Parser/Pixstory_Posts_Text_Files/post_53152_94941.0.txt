@@ -1,0 +1,5 @@
+Name :- Pari
+Age :- 8          
+Father Name :-  Pawan
+Gender :- female         
+N.G.O :- chintan

@@ -1,0 +1,5 @@
+Name  muskan
+Age  14
+father  akter
+Gender  female 
+Ngo chintan

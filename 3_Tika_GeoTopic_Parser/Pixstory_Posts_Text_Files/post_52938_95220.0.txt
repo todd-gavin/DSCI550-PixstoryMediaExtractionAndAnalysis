@@ -1,0 +1,6 @@
+Name Manirul 
+Father name Samsul Ali
+Age 10
+Sex M
+Class VI
+Chintan

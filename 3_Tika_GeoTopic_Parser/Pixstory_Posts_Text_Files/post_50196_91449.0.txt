@@ -1,0 +1,7 @@
+The technique, known as gravitational lensing, is not new to science — but the method employed by the Hubble Space Telescope team to view it may provide a fresh view of our universe’s early days. The faraway star they spotted was only born about 900 million years after the Big Bang.
+
+WHAT’S NEW — Telescopes are constrained by the amount of light they can gather. Distant objects are therefore very difficult to see, as there is less light to collect from those objects. This light-gathering problem is true even of powerful Hubble.
+
+Gravitational lensing, however, allows astronomers to use a massive foreground object — in this case, stars within a star cluster — to bend and focus the light from something interesting in the background. Massive objects in space deform space-time around them, allowing them to act like a magnifying glass, amplifying light from the background object. The effect was first predicted by Albert Einstein’s theory of general relativity.
+
+“With the current Hubble data, we couldn't really say a whole lot, but we could tell from the brightness of the star and how highly magnified it was that it has to be a very large, very bright star,” lead author Brian Welch, a Ph.D. candidate in astronomy and astrophysics at Johns Hopkins University, tells Inverse.

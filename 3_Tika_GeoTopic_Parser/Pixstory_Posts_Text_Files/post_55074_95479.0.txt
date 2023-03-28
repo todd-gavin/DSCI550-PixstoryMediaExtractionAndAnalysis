@@ -1,0 +1,5 @@
+Name mariyam
+Age 13
+Father mihannur
+Gender female
+Ngo chintan

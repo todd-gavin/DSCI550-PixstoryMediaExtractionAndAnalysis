@@ -1,0 +1,17 @@
+Scout Report-Vini Junior-Taking the World by Storm
+Looking at his visualization, we can see that he ranks in the first quartile along with Messi and Neymar.
+3) Dribbles Made
+Vini excels in dribbling past the opponents. Taking them on one vs one situations and beating them at ease. He has attempted 7.53 dribbles per 90, which puts him into the 99 percentile. He completed 3.38 dribbles per 90, which puts him in the 94 percentile. 
+From the visualisation, we have compared him with forward-midfielders from the top 5 League. He falls inside the top quartile, behind Jeremy Doku and other few players.
+4) Pass Clusters
+A cluster is a way of telling as to where the player has made the majority of his passes. Looking at his pass clusters, in cluster 1 we can see that he has made a total of 1283 completed passes, concentrated on the left side of the pitch.
+In the second cluster, we can see that his passes are concentrated in the attacking third and inside the penalty box. He made a total of 953 passes. 
+In the third cluster are the rest of his passes. The rest of them was distributed all over the pitch, i.e down the middle and the right side. He made a total of 330 passes.
+Assists
+Vini had 10 assists to his name. He made 0.33 assists per 90, which puts him in the 95 percentile. He created 13 big chances for his team to score a goal.
+From the heatmap, we can see that his assists are mostly inside the penalty area. 
+Other metrics to be considered are:
+Carries
+Touches made
+Carries
+Vini excels in carrying the ball into the final third and inside the penalty box. From the visualization, we can see that he ranks head and shoulder above the rest of the players in carrying the ball, which puts him in the top quartile. He made 3.88 carries per 90, which puts him in the 97 percentile, and he made 3.38 carries to the penalty area, putting him in the 98 percentile.

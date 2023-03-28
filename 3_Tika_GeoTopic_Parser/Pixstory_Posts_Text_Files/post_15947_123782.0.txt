@@ -1,0 +1,17 @@
+Background
+
+Carotid plaque is one of the typical manifestations and precursors of diabetic cardiovascular complications. As a new adipokine, asprosin participates in the development of diabetes and cardiovascular diseases, and is considered to be closely related to insulin resistance and glucolipid metabolism. This study aimed to analyze the relationship between serum asprosin level and carotid plaque in patients with type 2 diabetes mellitus (T2DM).
+
+Methods
+
+A total of 180 patients with T2DM were selected. The basic parameters and biochemical indexes of the subjects were measured, and the serum asprosin concentration of the subjects was detected by ELISA. The carotid plaque was evaluated by color Doppler ultrasound.
+
+Results
+
+The level of serum asprosin in the T2DM with carotid plaque group was significantly higher than that in T2DM without carotid plaque group [2.53(1.73-3.21) vs. 1.72(1.23-2.34) ng/mL, P<0.05]. The incidence of carotid plaque in the low, middle and high quartiles was 31.7%, 48.3% and 70% respectively. Correlation analysis showed that serum asprosin was positively correlated with BMI, WHR, SBP, DBP, FIns, LDL-C, HOMA-IR, and HOMA-β (P<0.05). Linear regression analysis showed that WHR, DBP, FIns, and LDL-C were independent influencing factors of asprosin. Logistic regression analysis showed that serum asprosin was still significantly correlated with carotid plaque in T2DM patients after adjusting for multiple confounding factors. The area under receiver-operating curve (ROC) of asprosin predicting carotid plaque was 0.701 (0.625-0.777) in T2DM.
+
+Conclusion
+
+The level of serum asprosin in T2DM patients with carotid plaques is significantly higher, suggesting that asprosin may play a role in the occurrence and development of carotid plaques in T2DM. Detection of this index can provide new clinical evidence for the prevention and treatment of diabetic cardiovascular disease.
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0009912022001928

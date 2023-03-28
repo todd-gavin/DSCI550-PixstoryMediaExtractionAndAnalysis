@@ -1,0 +1,6 @@
+Name Aahil
+Father name Mujahid
+Age 6
+Class II
+Sex M
+Chintan

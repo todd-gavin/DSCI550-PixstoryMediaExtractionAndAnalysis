@@ -1,0 +1,12 @@
+An editorial in British Medical Journal by Victoria Male, lecturer in reproductive immunology, Imperial College London, London. 
+Vaccination against covid-19 provides protection against the potentially serious consequences of SARS-CoV2 infection, but as the vaccines were rolled out into younger age groups, clinicians were increasingly approached by patients worried that the vaccine had caused a change to their periods.
+
+More than 36 000 reports of menstrual changes or unexpected vaginal bleeding following covid-19 vaccination have so far been made to the yellow card surveillance scheme run by the UK Medicine and Healthcare Products Regulatory Agency (MHRA) - no data for unvaccinated . A similar signal appeared in the US vaccine adverse event reporting system (VAERS). 
+The authors took advantage of an existing dataset from a menstrual cycle tracking app: 3959 Americans logged at least six consecutive cycles; 2403 of them were vaccinated and the remainder acted as a control group. In adjusted models, the first dose of vaccine had no effect on timing of the subsequent period, while the second dose was associated with a delay of 0.45 days (98.75% confidence interval 0.06 to 0.84).
+
+Most affected were the 358 individuals who received both doses of the vaccine in the same cycle, experiencing a 2.32 day (98.75% CI 1.59 to 3.04) delay to their next period. Among this group, 10.6% experienced a change in cycle length of more than 8 days, which is considered clinically significant,4 compared with 4.3% in the unvaccinated cohort (P<0.001). In all groups, cycle lengths returned to normal by two cycles after vaccination.
+
+A study from the Norwegian Institute of Public Health showed The high level of variation in normal cycles is underlined by the finding that 37.8% of participants reported at least one change from normal even in pre-vaccination cycles. The study identified heavier than normal bleeding as the change most associated with vaccination (first dose: relative risk 1.9, 95% confidence interval 1.69 to 2.13; second dose:1.84, 1.66 to 2.03).
+The findings from both these studies are reassuring: changes to the menstrual cycle do occur following vaccination, but they are small compared with natural variation and quickly reverse.
+
+https://www.bmj.com/content/376/bmj.o142
