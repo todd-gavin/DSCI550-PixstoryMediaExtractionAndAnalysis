@@ -1,0 +1,5 @@
+Chandrayaan-2
+which has been hovering around the Moon since 2019, has mapped an abundance of sodium on the moon for the first time.
+The new findings from India's second unmanned lunar mission, provide an avenue to study surface-exosphere interaction on the Moon, which would aid the development of similar models for Mercury and other airless bodies in our Solar System and beyond.
+According to the Indian Space Research Organisation (ISRO), the X-ray spectrometer 'CLASS' on the Chandrayaan-2 orbiter mapped an abundance of sodium on the moon for the first time. "Chandrayaan-1 X-ray Fluorescence Spectrometer (C1XS) detected sodium from its characteristic line in X-rays which opened up the possibility of mapping the amount of sodium on the Moon," the national space agency said in a statement.
+Findings from Chandrayaan-2 suggest there are two kinds of sodium atoms on the Moon's surface, those that are loosely bound on the surface and those that are part of the minerals.

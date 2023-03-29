@@ -1,0 +1,6 @@
+Name - Farhan 
+Father name - Gulam Akbar
+Age - 7
+Gender - Male 
+Class - III
+Chintan

@@ -1,0 +1,22 @@
+Yujia Ren Menglong Li 
+
+Abstract 
+
+Objective 
+
+To explore the intervention effect of Pender’s model on physical and mental health of patients with diabetes mellitus. 
+
+Methodology 
+
+According to the principle of Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, a number of databases including CNKI, Wanfang Data, SinoMed, VIP, Web of Science, Cochrane, PubMed and ScienceDirect were searched to collect and select relevant reports for the implementation of a meta-analysis. 
+
+Results 
+
+10 randomized controlled trails in 6 foreign reports and 4 Chinese reports were included in this study. A total of 863 participants were involved, including 439 members in the experiment group and 424 in the control group. The results of the meta-analysis show that Pender’s model has a good intervention effect on the health knowledge, self-management behavior, psychological function and cardiopulmonary function of patients with diabetes mellitus, with the effect better than that on the control group (Z=3.371, 3.781, 2.902, P<0.050). The results of subgroup analysis show that the intervention effect on self-management behavior would not be affected by the measurement tool used (Z=3.295, p=0.001). 
+
+Conclusion 
+
+Pender’s model has a good intervention effect on the health knowledge, self-management behavior and psychological function of patients with diabetes mellitus.
+
+
+Sources- https://www.sciencedirect.com/science/article/abs/pii/S1499267122001241

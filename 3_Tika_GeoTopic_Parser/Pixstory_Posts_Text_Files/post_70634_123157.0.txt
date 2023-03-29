@@ -1,0 +1,15 @@
+The NHS 111 telephone service in the UK, which is used for medical emergencies, is experiencing slower response times as a result of a significant cyberattack, according to the Telegraph.
+
+Private equity firms' owned Advanced was the focus of the breach. According to the newspaper, it provides software for around 85% of the services offered by the hotline.
+
+An modified version of the report claims that the hackers belonged to an organised criminal group.
+
+Call handlers may schedule urgent appointments, send ambulances, and fill emergency medications using the company's Adastra technology.
+
+The National Health Service is prioritising cases that require an ambulance, according to a source quoted in the newspaper. The systems might not be operational until August 9.
+
+The health and care systems were promptly separated after a security risk was discovered on August 4, according to Simon Short, chief operating officer of Advanced.
+
+Care homes and a patient record management system are also included in the company's list of services.
+
+BC Partners and Vista Equity Partners jointly own Advanced.

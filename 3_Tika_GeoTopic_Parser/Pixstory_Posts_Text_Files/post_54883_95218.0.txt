@@ -1,0 +1,6 @@
+Name-Akhtara
+Father's Name-Akhtar
+Age-13
+Sex-Female
+Class-VIII
+Chintan

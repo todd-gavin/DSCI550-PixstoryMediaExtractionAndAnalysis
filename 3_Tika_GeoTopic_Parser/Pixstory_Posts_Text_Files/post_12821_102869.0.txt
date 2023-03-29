@@ -1,0 +1,7 @@
+Information Disclosure Vulnerability in Drupal
+
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0250
+
+Multiple Vulnerabilities in Citrix Products
+
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0251

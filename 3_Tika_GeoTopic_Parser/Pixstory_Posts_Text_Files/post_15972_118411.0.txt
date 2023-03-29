@@ -1,0 +1,23 @@
+José  Carlos Arévalo Lorido Prado Salamanca Bautista
+
+
+
+Abstract
+
+Aim
+
+This work aims to compare the characteristics of advanced heart failure (HF) in patients with and without type 2 diabetes mellitus (DM) and to determine the relevance of variables used to define advanced HF.
+
+Patients and methods
+
+This cross-sectional, multicenter study included patients hospitalized for HF. They were classified into four groups according to presence/absence of advanced HF, determined based on general and cardiac criteria, and presence/absence of DM. To analyze the importance of variables, we grew a random forest algorithm (RF) based on mortality at six months.
+
+Results
+
+A total of 3153 patients were included. The prevalence of advanced HF among patients with DM was 24% compared to 23% among those without DM (p=0.53). Patients with advanced HF and DM had more comorbidity related to cardiovascular and renal diseases; their prognosis was the poorest (log-rank <0.0001) though the adjusted hazard ratio by group in the Cox regression analysis was not significant. The variables that were significantly related to mortality were the number of comorbidities (p=0.005) and systolic blood pressure (p=0.024). The RF showed that general criteria were more important for defining advanced HF than cardiac criteria.
+
+Conclusions
+
+Patients with advanced HF and DM were characterized by DM in progression with macro and microvascular complications. The outcomes among advanced HF patients were poor; patients with advanced HF and DM had the poorest outcomes. General criteria were the most important to establish accurately a definition of advanced HF, being decisive the evidence of disease progression in patients with DM
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0953620522002631

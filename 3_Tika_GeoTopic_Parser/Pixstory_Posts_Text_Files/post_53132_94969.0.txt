@@ -1,0 +1,5 @@
+Name. Sayma
+Age. 12
+Father. Akleema
+Gender. Female
+N.g.o. Chintan

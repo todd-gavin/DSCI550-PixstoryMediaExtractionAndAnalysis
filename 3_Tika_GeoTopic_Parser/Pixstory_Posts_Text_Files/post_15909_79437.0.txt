@@ -1,0 +1,21 @@
+Edoardo Mannucci Andrea Giaccari Marco Gallo Giovanni Targher Basilio Pintaudi Riccardo Candido Matteo Monami 
+
+ABSTRACT 
+
+Aim 
+
+In 2019, the Italian Society of Diabetology and the Italian Association of Clinical Diabetologists nominated an expert panel to develop guidelines for drug treatment of type 2 diabetes. After identifying the effects of glucose-lowering agents on major adverse cardiovascular events (MACEs), all-cause mortality, and hospitalization for heart failure (HHF) as critical outcomes, the experts decided to perform a systematic review and meta-analysis on the effect of pioglitazone with this respect. 
+
+Methods 
+
+A MEDLINE database search was performed to identify RCTs, up to June 1st, 2021, with duration≥52 weeks, in which pioglitazone was compared with either placebo or active comparators. The principal endpoints were MACE and HHF (restricted for RCT reporting MACEs within their outcomes), all-cause mortality (irrespective of the inclusion of MACEs among the pre-specified outcomes). Mantel-Haenszel odds ratio (MH-OR) with 95% Confidence Interval (95% CI) was calculated for all the endpoints considered. 
+
+Results 
+
+Eight RCTs were included in the analysis for MACEs and HF (5,048 and 5,117 patients in the pioglitazone and control group, respectively), and 24 in that for all-cause mortality (10,682 and 9,674 patients). Pioglitazone neither significantly increased nor reduced the risk of MACE, all-cause mortality, and HHF in comparison with placebo/active comparators (MH-OR: 0.90, 95% CI 0.78-1.03, 0.91, 95% CI 0.77, 1.09, and 1.16, 95% CI 0.73, 1.83, respectively). Pioglitazone was associated with a significant reduction of MACE in patients with prior cardiovascular events (MH-OR 0.84, 95% CI 0.72-0.99). 
+
+Conclusions 
+
+This meta-analysis showed no significant effects of pioglitazone on incident MACE, all-cause mortality, and HHF. 
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0939475321005652

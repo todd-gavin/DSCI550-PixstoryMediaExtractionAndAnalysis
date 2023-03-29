@@ -1,0 +1,20 @@
+With new variants of the SARS-COV-2 virus triggering fresh waves of the highly infectious disease, scientists at the Kazi Nazrul University, Asansol and Indian Institute of Science Education and Research, Bhubaneshwar have designed a peptide vaccine which they claim could protect against any future variants of the coronavirus.
+
+Their research has been accepted for publication in the Journal of Molecular Liquids that is devoted to fundamental aspects of structure, interactions and dynamic processes in simple, molecular and complex liquids.
+
+In this study, we employed immunoinformatic approaches to design AbhiSCoVac - a multi-epitope multi-target chimeric peptide that would be able to generate protective immunity against all six virulent members of the family hCoV-229E, hCoV-HKU1, hCoV-OC43, SARS-CoV, MERS-CoV as well as SARS-CoV-2,” the researchers said.
+
+“The designed vaccine was found to be highly stable, antigenic and immunogenic,” the researchers Abhigyan Choudhury and Suprabhat Mukherjee from Kazi Nazrul University and Parth Sarthi Sen Gupta, Saroj Kumar Panda, and Malay Kumar Rana from IISER, Bhubaneshwar said.
+
+Choudhary said the team of researchers developed the vaccine using computational methods and the next stage would involve the production of the vaccine which would be followed by testing.
+
+“This vaccine is one of a kind. No other vaccine in the world has been designed to cope with all the Coronaviridae family viruses at a single time,” he told PTI.
+
+He said the researchers had first identified various conserved regions in the spike protein of the six different viruses that undergo very few mutations and thus change a little in the course of pandemic.
+
+Also, these regions of the protein identified are highly immunogenic which means they can produce high levels of immune memory in the body that is required to protect against the viruses, he said.
+
+“Unlike other vaccines, these identified were selected after they have shown high binding strengths with a protein called TLR4 – the same protein responsible for detecting SARS-COV-2 viruses in the body and initiating the immune responses,” Choudhary said.
+
+
+Source :Dr Reddy's submits proposal to DCGI to test Sputnik Light as Covid booster dose

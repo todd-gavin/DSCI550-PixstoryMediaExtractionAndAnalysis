@@ -1,0 +1,16 @@
+Russia's halting efforts to conduct electromagnetic warfare in Ukraine demonstrate how critical it is to respond quickly and immediately shut down such attacks, Pentagon experts said during the C4ISRNET Conference on Wednesday.
+
+Dave Tremper, director of electronic warfare for the Office of the Secretary of Defense, pointed to SpaceX’s ability last month to swiftly stymie a Russian effort to jam its Starlink satellite broadband service, which was keeping Ukraine connected to the Internet. SpaceX founder Elon Musk drove thousands of Starlink terminals to Ukraine after an official sent him a tweet asking for help keeping the besieged country online.
+
+“The next day [after reports about the Russian jamming effort hit the media], Starlink had slung a line of code and fixed it,” Tremper said. “And suddenly that [Russian jamming attack] was not effective anymore. From [the] EW technologist’s perspective, that is fantastic … and how they did that was eye-watering to me", he said.
+
+“We need to be able to have that agility,” Tremper said. “We need to be able to change our electromagnetic posture to be able to change, very dynamically, what we’re trying to do without losing capability along the way.”
+
+
+The U.S. needs to think a lot more innovatively when it comes to building new EW equipment, Clark said. It won’t be enough to just buy upgraded versions of legacy systems, he said.
+
+This includes incorporating artificial intelligence and machine learning into next-generation systems to be able to respond faster and said the Air Force’s in-development Compass Call, the EC-37B, is a prime example of how digital engineering is transforming how the service approaches new electromagnetic warfare capabilities.
+
+Russia’s invasion of Ukraine has taught the U.S. a great deal about the sophistication and reliability of Russian equipment, Pentagon said, and their troops’ ability to carry out missions in a synchronized way.
+
+Tremper said the Pentagon expected a “much stronger” EW showing from Russia — but cautioned that isn’t to say all of Russia’s efforts have failed.

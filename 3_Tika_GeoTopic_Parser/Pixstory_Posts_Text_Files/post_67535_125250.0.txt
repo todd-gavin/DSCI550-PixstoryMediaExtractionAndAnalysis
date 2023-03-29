@@ -1,0 +1,15 @@
+Thousands of Burger King customers received blank emails from the fast-food business along with a receipt. The bill, however, was empty.
+
+The Verge claims that on Tuesday at 12.15 am, clients' inbox began to fill with blank emails. People were left wondering whether Burger King was the victim of a cyberattack or if a mistake had been made by the business. Many of them criticised Burger King on Twitter by posting screenshots of the emails issued by the company's promotional marketing team.
+
+There was no evidence, according to The Verge, that Burger King had been compromised. The source added that many of the recipients of these emails never opened an account with Burger King.
+
+"I just got a completely blank burger king receipt in my email. it is 12:30 in the morning and i did not order burger king. i do not think i have EVER ordered burger king. this is so menacing," a Twitter user said posting a screenshot of the blank email.
+
+"Hey BurgerKing, we ever gonna acknowledge your weird blank order from last night?" said another.
+
+"Did anyone get a blank Burger King receipt in their email? I'm just confused, I never eat there," a third user tweeted.
+
+Burger King's public relations team claimed in a response to The Verge that the issue was "the result of an internal processing error".
+
+Another website How To Geek said that Burger King may have purchased collections of addresses for marketing purposes - a common business practice - and then sent the blank email to many people in the database.

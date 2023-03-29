@@ -1,0 +1,6 @@
+G.FriskH.Diderholm
+
+
+Considerable differences in antibody responses measured by capture-IgM RIA and neutralization tests (NT) were seen in children with newly diagnosed type I (insulin-dependent) diabetes mellitus (IDDM) when five different strains of Coxsackie B4 virus (CBV-4) were used. The IgM positivity of the 160 patients varied between 3.7 and 10.0% (P<0.05) and with the use of all strains, IgM was found in 13.2%. Matched controls showed a significantly lower frequency (P<0.05), but there were no apparent differences between the strains, although no IgM was found against two strains. In the NT different results were also obtained in the IDDM children with use of the five strains. However, these results differed considerably from those of the RIA, indicating that different epitopes on the virus were involved. Serum specimens from 75 patients with aseptic meningitis from whom enteroviruses had been isolated, also showed varying IgM frequencies, ranging from 13.3 to 18.7%, but the differences between the strains were different to those found in the IDDM patients. We speculate that only certain strains of a serotype of CBV may be used to distinguish IDDM pathogenesis from that of other diseases. 
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0163445397941438

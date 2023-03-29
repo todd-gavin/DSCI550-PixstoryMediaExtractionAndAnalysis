@@ -1,0 +1,6 @@
+Name-Iram 
+Father  Name-Ibrahim 
+Age -11
+Sex-Female 
+Class -II
+Chintan

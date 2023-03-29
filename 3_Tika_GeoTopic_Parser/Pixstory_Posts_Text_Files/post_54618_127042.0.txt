@@ -1,0 +1,14 @@
+As the new Premier League football season gets underway, a few things are certain. There will be goals, drama and excitement, and unfortunately, players will be subjected to vile abuse on social media.
+
+My colleagues at the Alan Turing Institute and I have published a report, commissioned by Ofcom, in which we found that seven out of ten Premier League footballers face abuse on Twitter. One in 14 receive abuse every day.
+
+These are stark statistics, with huge implications for player welfare. Other analysis has revealed a high rate of online abuse, particularly racist abuse, of footballers that has gone largely unchallenged by football governing organisations. Mental health is increasingly a concern in football, and there is plenty of evidence that online abuse can lead to a range of mental health problems, from depression to suicidal thoughts.
+
+Our report is one of the first to use artificial intelligence (AI) to systematically detect and track online abuse against footballers at scale. This is almost impossible to do manually because of the sheer size and complexity of social media.
+We focused our analysis on Twitter because it is widely used by footballers and fans, and it makes its data freely available to researchers. In total, we collected 2.3 million tweets that mentioned or directly replied to tweets from 618 Premier League footballers during the first half of the 2021-22 season.
+
+At the heart of our analysis is a new machine learning model developed by the Turing’s online safety team as part of our Online Harms Observatory. This model is able to automatically assess whether or not a tweet is abusive by analysing its language.
+
+To provide a benchmark for our AI model and a more in-depth breakdown of the tweet content, we also hand-labelled 3,000 tweets, categorising them as positive, neutral, critical or abusive. Critical tweets were those that criticised a player’s actions on or off the pitch, but not in such a way that could be deemed abusive.
+
+Read more: https://theconversation.com/nearly-70-of-premier-league-footballers-are-abused-on-twitter-we-used-an-ai-to-sift-through-millions-of-tweets-188317

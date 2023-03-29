@@ -1,0 +1,12 @@
+Washington : A former head of security at Twitter has filed whistleblower complaints with U.S. officials, alleging that the company misled regulators about its cybersecurity defences and its problems with fake accounts, according to reports by The Washington Post and CNN.
+Peiter Zatko, Twitter's security chief until he was fired early this year, filed the complaints last month with the U.S. Securities and Exchange Commission, the Federal Trade Commission and the Department of Justice.
+Among the most alarming complaints is Zatko's allegation that Twitter knowingly allowed the Indian government to place its agents on the company payroll where they had direct unsupervised access to the company's systems and user data.
+The allegations come amid the company’s legal challenge with the Ministry of Electronics and IT (MeitY) over its content blocking orders.
+“The company did not in fact disclose to users that it was believed by the executive team that the Indian government had succeeded in placing agents on the company payroll,” Peiter ‘Mudge’ Zatko, former head of safety at Twitter, said in his complaint filed with the US Securities and Exchange Commission (SEC).
+He alleged that the company “knowingly” permitted an “Indian government agent direct unsupervised access to the company’s systems and user data”.
+Zatko also accuses the company of deceptions involving its "handling of spam" or fake accounts, an allegation that is at the core of the attempted withdrawal of a 44 billion takeover bid for Twitter by billionaire Elon Musk.
+Shares of Twitter Inc. slid 4% Tuesday.
+Zatko didn't immediately respond to a request for comment Tuesday but told the Post he felt ethically bound to come forward.
+Zatko, better known as Mudge, is a highly respected cybersecurity expert who first gained prominence in the 1990s and later worked in senior positions at the Pentagon's Defense Advanced Research Agency and Google. He joined Twitter at the urging of then-CEO Jack Dorsey in late 2020, the same year the company suffered an embarrassing security breach involving hackers who broke into the Twitter accounts of world leaders, celebrities and tech moguls, including Musk, in an attempt to scam their followers out of Bitcoin.
+Read more
+https://www.newsdrum.in/international/twitter-indian-government-forced-twitter-to-put-agent-on-payroll-says-whistleblower-79895.html

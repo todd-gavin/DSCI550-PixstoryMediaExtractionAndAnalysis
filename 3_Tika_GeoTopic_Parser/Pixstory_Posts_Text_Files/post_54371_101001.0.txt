@@ -1,0 +1,11 @@
+Astronomers have revealed the first image of the black hole at the centre of our galaxy, the Milky Way. The image was produced by the Event Horizon Telescope (EHT) Collaboration, an international team made up of over 300 scientists on five continents – including Africa.
+
+Black holes were predicted by Albert Einstein’s General Theory of Relativity over a century ago. They are regions of space so dense that nothing, including light, can escape. Their boundary is known as the event horizon, which marks the point of no return. That’s just one of the reasons these objects are hidden from our eyes. The other is that they are exceedingly small, when placed in their cosmic context. If our Milky Way galaxy were the size of a soccer field, its black hole event horizon would be a million times smaller than a pin prick at centrefield.
+
+How, then, can one photograph them? Our team did so by capturing light from the hot swirling gas in the immediate vicinity of the black hole. This light, with a wavelength of 1 millimetre, is recorded by a global network of antennas that form a single, Earth-sized virtual telescope.
+
+The light looks rather like a ring, a characteristic signature that is the direct consequence of two key processes. First, the black hole is so dense that it bends the path of light near it. Second, it captures light that strays too close to the event horizon. The combined effect produces a so-called black hole shadow - a brightened ring surrounding a distinct deficit of light centred on the black hole. In the case of our Milky Way black hole, this ring has the apparent size of a doughnut on the moon, requiring an extraordinary engineering effort to bring it into focus.
+
+The unveiling of an image of our black hole, Sagittarius A*, is not just a massive moment for science. It could also be an important catalyst for diversifying African astrophysics research using existing strengths. 
+
+Read more - https://theconversation.com/african-scientists-and-technology-could-drive-future-black-hole-discoveries-183139

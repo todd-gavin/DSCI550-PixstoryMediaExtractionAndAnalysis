@@ -1,0 +1,10 @@
+Abstract
+Objective
+Teens and young adults with type 1 diabetes (T1D) often demonstrate difficulty with diabetes management, as they struggle to navigate the impact of T1D on their identities: their self-concepts, bodies, social networks, life experiences, and desired futures. Positively incorporating T1D into identity may benefit biomedical and psychosocial outcomes. We aimed to validate and assess psychometric properties of the Accepting Diabetes And Personal Treatment (ADAPT) survey, a new measure of incorporation of T1D into one’s identity.
+Methods
+This cross-sectional study included 165 teens and young adults (ages 13-25) with T1D (46% male, 87% White, 72% pump users, 67% CGM users, age 18.5±3.2 years, diabetes duration 10.2±5.0 years, HbA1c 8.5±1.3% (69±14 mmol/mol)). HbA1c was collected from medical records; participants completed the ADAPT survey and validated measures of fear of hypoglycemia, diabetes distress, and quality of life. Internal consistency, reliability, validity, and underlying factor structure were assessed.
+Results
+The 18-item ADAPT survey demonstrated excellent internal consistency (ɑ=0.90) as well as criterion and construct validity. Greater incorporation of diabetes was associated with male sex, pump use, CGM use, lower HbA1c, less fear of hypoglycemia, less diabetes distress, and higher quality of life (ps<0.01). Factor analysis identified three main contributors to incorporation: Stigma Management, Adjustment to Perceived Interference, and Benefit-finding.
+Conclusions
+The ADAPT survey is a valid and reliable measure of incorporation in teens and young adults with T1D that highlights the importance of identity in health outcomes. Diabetes device use and factors of incorporation (stigma, interference, and benefit-finding) offer targets for clinical intervention.
+Sources- https://www.sciencedirect.com/science/article/abs/pii/S1499267122002477

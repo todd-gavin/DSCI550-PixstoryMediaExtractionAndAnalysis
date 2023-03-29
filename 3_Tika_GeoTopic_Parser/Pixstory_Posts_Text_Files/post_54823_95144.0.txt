@@ -1,0 +1,5 @@
+Name  miswa
+Father name  md. Moien
+Age   6
+Sex    Female
+Ngo    chintan

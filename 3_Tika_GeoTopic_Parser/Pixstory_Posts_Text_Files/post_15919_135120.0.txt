@@ -1,0 +1,14 @@
+ABSTRACT
+Objectives
+1) To describe placental changes occurring in women with pre-existing diabetes. 2) To determine if elastography can detect placental changes in vivo?
+Data sources
+PubMed, Embase, Medline, and Cochrane were searched to identify English language studies published until July 2020.
+Study Eligibility
+for key question 1) Any study that described histopathological changes in placentas from women with known diabetes. Study Eligibility for key question 2) Any study that described structural placental changes detectable by elastography in high-risk pregnancies (e.g. complicated by pre-eclampsia and/or fetal growth restriction).
+Study appraisal and synthesis methods
+For key question 1, we grouped placental pathologies using the Amsterdam International Consensus Group definitions. For key question 2, we conducted a meta-analysis including all data from studies reporting placental stiffness in metres per second (m/s) or kilopascals (kPa). Mean difference (95% CI) was calculated using a random effects model.
+Results
+Data were extracted from 14 studies of placental histopathology in women with known diabetes. In this group a wide variety of placental histopathologic changes are described, though none are considered pathognomonic. Histopathological changes were divided into three broad categories based on presumed aetiology including maternal vascular malperfusion, fetal vascular malperfusion, and/or infectious/inflammatory/other changes.15 studies reported placental stiffness scores for women with a high-risk pregnancy versus normal pregnancy. Only one study reported stiffness scores for placentas of women with pre-existing diabetes (N < 10 women). Pooled analysis of 14 studies with available data included 478 “high risk pregnancies” and 828 control/healthy pregnancies. Maternal-derived pathologies resulted in higher placental stiffness with mean difference 4.5kPa (95% CI 3.16, 5.87) compared to control / healthy pregnancies. Fetal-derived pathologies also resulted in higher placental stiffness with mean difference of 6.5kPa (95% CI 1.08, 11.86) compared to control / healthy pregnancies.
+Conclusions
+Shear Wave Elastography may provide in vivo approximation of placental histopathology in women with some high-risk pregnancies. A high-risk pregnancy may involve maternal and fetal-derived pathologies. Further studies, particularly in women with pre-existing diabetes, are needed to confirm this observation.
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S2589933322001689

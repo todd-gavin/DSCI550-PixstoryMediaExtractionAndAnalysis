@@ -1,0 +1,7 @@
+Do u guys adjust the column width and row height of excel sheet manually??????
+It's definitely time taking when u have many rows and columns.🥴
+There's an easy way to auto fit the column width and row height of the whole excel sheet....
+1. Ctl+A (select all cells)
+2. Alt+H+O+A  (for adjusting row height)
+3. Alt+H+O+I  (for adjusting column width)
+And done 😁

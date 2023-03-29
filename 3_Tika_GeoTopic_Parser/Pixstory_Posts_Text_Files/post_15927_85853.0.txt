@@ -1,0 +1,21 @@
+Jas-mine Seah Ruth P.Lim 
+
+Abstract 
+
+Aims 
+
+To compare levels of renal hypoxia measured by Blood Oxygen Level Dependent (BOLD) magnetic resonance imaging (MRI) with measured transverse relaxation rate (R2*) and renal structural changes including apparent diffusion coefficient (ADC) and fractional anisotropy (FA) in patients with type 1 diabetes and healthy controls. 
+
+Methods 
+
+Cohort study comparing MRI metrics in type 1 diabetes (n = 32, GFR 105 (77, 120) ml/min.1.73m2) and controls (n = 10). Renal function and selected inflammatory renal biomarkers were also measured. 
+
+Results 
+
+For BOLD, we found reduced cortical [14.7 (13.7,15.8) (1/s) vs 15.7 (15.1,16.6) (1/s), p < 0.001] and medullary [24.8 (21.8,28.2) (1/s) vs. 29.3 (24.3,32.4) (1/s), p < 0.001] R2*, indicating more oxygenated parenchyma, in type 1 diabetes vs. controls, respectively. We observed reduced cortical FA, indicating decreased structural integrity in type 1 diabetes −0.04 (−0.07, −0.01), (p = 0.02). We found reduced cortical ADC, reflecting reduced water diffusion, in non-hyperfiltering [2.40 (2.29,2.53) (103mm2/s)] versus hyperfiltering [2.61 (2.53,2.74) (103mm2/s)] type 1 diabetes patients. MRI parameters correlated with renal function and inflammatory renal biomarkers. 
+
+Conclusions 
+
+MRI derived indices of renal function and structure differed between (i) type 1 diabetes and healthy controls, and (ii) between non-hyperfiltering and hyperfiltering type 1 diabetes patients, providing insight into the role of hypoxia and renal structural, and functional changes in DKD. 
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S1056872721002956

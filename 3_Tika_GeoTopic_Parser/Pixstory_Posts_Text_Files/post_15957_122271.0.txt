@@ -1,0 +1,19 @@
+Summary
+
+Background
+
+Early prediction of childhood type 1 diabetes reduces ketoacidosis at diagnosis and provides opportunities for disease prevention. However, only highly efficient approaches are likely to succeed in public health settings. We sought to identify efficient strategies for initial islet autoantibody screening in children younger than 15 years.
+
+Methods
+
+We harmonised data from five prospective cohorts from Finland (DIPP), Germany (BABYDIAB), Sweden (DiPiS), and the USA (DAISY and DEW-IT) into the Type 1 Diabetes Intelligence (T1DI) cohort. 24 662 children at high risk of diabetes enrolled before age 2 years were included and followed up for islet autoantibodies and diabetes until age 15 years, or type 1 diabetes onset, whichever occurred first. Islet autoantibodies measured included those against glutamic acid decarboxylase, insulinoma antigen 2, and insulin. Main outcomes were sensitivity and positive predictive value (PPV) of detected islet autoantibodies, tested at one or two fixed ages, for diagnosis of clinical type 1 diabetes.
+
+Findings
+
+Of the 24 662 participants enrolled in the Type 1 Diabetes Intelligence cohort, 6722 total were followed up to age 15 years or until onset of type 1 diabetes. Type 1 diabetes developed by age 15 years in 672 children, but did not develop in 6050 children. Optimal screening ages for two measurements were 2 years and 6 years, yielding sensitivity of 82% (95% CI 79–86) and PPV of 79% (95% CI 75–80) for diabetes by age 15 years. Autoantibody positivity at the beginning of each test age was highly predictive of diagnosis in the subsequent 2–5·99 year or 6–15-year age intervals. Autoantibodies usually appeared before age 6 years even in children diagnosed with diabetes much later in childhood.
+
+Interpretation
+
+Our results show that initial screening for islet autoantibodies at two ages (2 years and 6 years) is sensitive and efficient for public health translation but might require adjustment by country on the basis of population-specific disease characteristics.
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S2213858722001413

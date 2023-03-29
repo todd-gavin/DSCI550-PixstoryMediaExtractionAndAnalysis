@@ -1,0 +1,20 @@
+These days, we want to believe in what we want to believe in, regardless of facts. In politics and culture, feelings have become more important than facts in this age of post-truth, fake news and “alternative facts.” Whatever norms and filters there might have been for public discourse, stand lowered thanks to a section of social media. Does our language capture this phenomenon? It does, says a group of researchers. Their ambitious study, using technology to analyses samplers of written language since 1850, finds verbs and phrases relating to reasoning giving way to those of emotions. A well-known linguist and conservative columnist argues against it, advising: “Don’t overanalyze language.”
+
+‘The Rise and Fall of Rationality in Language’
+Published in PNAS: https://www.pnas.org/content/118/51/e2107848118#sec-3
+
+The researchers – three from the Netherlands, one from the US – analyzed language in millions of books from 1850 to 2019 as represented in Google nGram data: https://books.google.com/ngrams They prepared two lists – of words associated with rationality (like “determine”, “conclusion”) and of those relating to experience (such as “feel” and “believe”).
+
+Running the search function and quantifying data was straightforward after that. They found that the use of ‘reasoning terms’ rose systematically from 1850, while the words of the ‘feeling list’ declined. This pattern, however, reversed around 1980 – paralleled by (they note) a shift from a collectivistic to an individualistic focus as reflected, among other things, by the ratio of singular to plural pronouns such as “I”/”we” and “he”/”they.” 
+
+They tallied the transformation in the ‘book corpora’ by checking the pattern on New York Times articles. It fits. Their interpretation: “All in all, our results suggest that over the past decades, there has been a marked shift in public interest from the collective to the individual, and from rationality toward emotion.”
+
+John McWhorter, a linguistics popularizer, finds nothing unusual in this research, he says this is how languages change over time. He cites a similar, previous study: https://www.academia.edu/3869671/The_Cultural_Salience_of_Moral_Character_and_Virtue_Declined_in_Twentieth_Century_America and adds: “Neither study, however, takes sufficient notice that we can and increasingly do express concepts traditionally conveyed with the doughtiest terms in more approachable ones”: https://www.nytimes.com/2022/01/21/opinion/google-neoliberal.html
+
+Also see:
+
+https://reason.com/2022/01/14/our-language-has-gotten-more-emotional-why/
+
+https://languagelog.ldc.upenn.edu/nll/?p=53178
+
+Image courtesy: psychologytoday.com

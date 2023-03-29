@@ -1,0 +1,6 @@
+Name Tarannum
+Father Name Badruddin
+Age 8
+Class 2 nd
+Sex F
+CHINTA

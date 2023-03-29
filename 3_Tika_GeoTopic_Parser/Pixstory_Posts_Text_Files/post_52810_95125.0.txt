@@ -1,0 +1,6 @@
+Name Danish
+Father name Mujahid
+Age 10
+Class V
+Sex M
+Chintan

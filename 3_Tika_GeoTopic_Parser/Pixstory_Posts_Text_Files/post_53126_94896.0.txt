@@ -1,0 +1,5 @@
+Name. Samad
+Age. 11
+Father name. Aftab
+Gender. Male
+Ngo. Chintan

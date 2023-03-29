@@ -1,0 +1,5 @@
+Name Ritika
+age 6
+Father name Kailash kumar
+Sex Female 
+NGo Chintan

@@ -1,0 +1,2 @@
+If you're leaving your laptop open around friends prone to changing your Facebook information for kicks, or if you just want to increase security on your PC, it's good to get into the habit of pressing Win + L every time you leave your desktop unattended.
+This will revert your computer to its lock screen, meaning any pesky meddlers will have to know your password before they can post embarrassing statuses. Unlike logging out, it keeps all your windows and documents open, however.

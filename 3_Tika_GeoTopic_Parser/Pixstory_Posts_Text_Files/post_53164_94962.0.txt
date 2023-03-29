@@ -1,0 +1,6 @@
+Name _Anas 
+Father Name _ Ashu
+Age_10 
+Sex _ male 
+Class _ V
+Chintan

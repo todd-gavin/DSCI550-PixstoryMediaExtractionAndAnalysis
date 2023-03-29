@@ -1,0 +1,13 @@
+Most mammals, including humans, have two sex chromosomes, X and Y. One sex chromosome is usually inherited from each parent, and they pair up as either XX or XY in every cell of the body. People with XX chromosomes typically identify as female, and people with XY chromosomes typically identify as male. The genes on these chromosomes play a key role in development and function – including how heart disease develops.
+
+Before I became a biomedical engineer studying how sex chromosomes affect the heart, I learned about one curious function of X chromosomes in my high school science class, with the calico cat example.
+
+Female calico cats almost always have orange and black splotches of fur, because the gene that defines coat color is found on the X chromosome. When an orange cat mates with a black cat, female offspring, which typically inherit one X chromosome from each parent, will have a mixture of orange and black fur – one X chromosome encodes for orange fur while the other encodes for black fur. For this reason, male cats, which typically have one X and one Y chromosome, have solid orange or black coats.
+
+How does this sex difference in fur color happen biologically? As it turns out, cells with XX chromosomes experience X-inactivation: The X chromosome from one parent is turned off in some cells, while the X chromosome inherited from the other parent is turned off in others. In the cells of female calico cats, X-inactivation can lead to splotches of orange and black fur if one X chromosome comes from a parent with orange fur and the other X chromosome comes from a parent with black fur.
+
+X-inactivation happens because organisms like cats and people need only one X chromosome to function properly. To ensure the correct “dosage,” one of the X chromosomes is turned off in every cell. 
+
+Read full story at The Conversation: https://theconversation.com/the-sex-of-your-cells-matters-when-it-comes-to-heart-disease-171177
+
+Image Courtesy: https://www.gettyimages.com/detail/illustration/purple-and-red-line-drawing-of-heart-royalty-free-illustration/694018603

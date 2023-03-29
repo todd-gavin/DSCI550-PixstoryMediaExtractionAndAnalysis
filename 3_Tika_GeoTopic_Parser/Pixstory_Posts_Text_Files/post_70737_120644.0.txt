@@ -1,0 +1,13 @@
+One of these is the Framework for Ecosystem Monitoring (Ferm) website, which belongs to the FAO. The website, which was introduced last year, highlights changes to forests all across the world using satellite photography. Any internet user, whether a scientist, government employee, business owner, or member of the public, has access to the maps and data.
+
+NASA, the US space agency, and its Global Ecosystem Dynamics Investigation system are a major data source for Ferm (GEDI).
+
+The Gedi project's co-leader and assistant professor of geographic sciences at the University of Maryland, Laura Duncanson, explains that they "fire laser beams at trees from the International Space Station."
+
+Dr. Duncanson, a well-known authority in remote sensing, continues, "We utilise the employ the reflected radiation to map forests in 3D, including their height, canopy density, and carbon content. "This is an interesting new technology because, while we have been able to witness deforestation from space for decades, Gedi allows us to more precisely allocate the carbon emissions linked to forest loss."
+
+Planet Labs, a Norwegian company that manages more than 200 camera-equipped satellites, also provides maps and data to Ferm. Every day, these snap about 350 million pictures of the Earth's surface, each one spanning a square kilometre. Its cameras may be used to examine everything from droughts to agricultural, energy and infrastructure projects, and monitoring crucial infrastructure, such as ports, in addition to keeping an eye on forests.
+
+A colleague forestry officer with the FAO, Remi D'Annunzio, claims that the abundance of space imagery "has significantly impacted the way we monitor forests, because it has led to incredibly reproducible observations and extraordinarily frequent revisits of areas."
+
+Basically, we can now obtain a complete image of the Earth every four to five days. When new deforestation is discovered, alarms are transmitted to the mobile phones of rangers and community workers who are on the ground.

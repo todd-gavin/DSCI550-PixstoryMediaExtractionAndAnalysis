@@ -1,0 +1,6 @@
+Name Md firod
+Father's Name Md Ubai
+Age 9
+Sex Male
+Class lV
+Chintan

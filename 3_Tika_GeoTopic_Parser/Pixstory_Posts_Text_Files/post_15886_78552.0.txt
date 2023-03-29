@@ -1,0 +1,18 @@
+ABSTRACT 
+
+Understanding the risk factors of colorectal cancer (CRC) is crucial to the development of effective strategies for its prevention. Type 2 diabetes mellitus (DM) is associated with increased CRC risk and epidemiological studies identified a correlation between these diseases. Aim: To evaluate prevalence of CRC in a cohort of Caucasian patients with type 2 DM and the association with other variables previously known to be related with increased CRC. 
+
+Methods 
+
+We retrospectively evaluated 741 DM 2 patients followed in our institution of southern Italy between 2000-2008 for the incidence of CRC. Patients were stratified based on gender, age, body mass index (BMI), alcohol and FANS assumption, family history for cancer, blood glycated hemoglobin levels, hypertension, hypertriglyceridemia, age at diabetes onset and disease duration, treatment with insulin, metformin, sulphonylureas, glinides or other hypoglycemics. 
+
+Results 
+
+In our cohort mean age was 67± 9.6 years (48.6% women) and mean BMI 29.9 ± 5.4. Hypertension was present in 81.2% of patients and hypertriglyceridemia in 40.8%. Mean age at DM onset was 51.2 ± 11.1 years, median disease duration 168 months (range 12-768) and mean blood glycated hemoglobin was 7.6 ± 1.4%. Patients were treated with insulin in 310 cases (41.8%), metformin in 485 (65.5%), sulphonylureas in 68 (9.2%), glinides in 263 (35.5%) while 115 received other hypoglycemics. At a median follow up of 132.5 months (range 33.3-175.7) 56 cases of cancer (prevalence 7,56%) occurred; among these 14 were CRC (prevalence 1,88%). Median duration of DM to CRC diagnosis was 156 months (range 1-768). At the univariate analysis older age (p = 0.001), and diabetes duration (p = 0.001) were related to higher risk of cancer, while metformin seemed to be protective (p = 0.058). In CRC patients, older age (p = 0.001) and diabetes duration (p = 0.001) were related to higher risk of CRC, such as sulphonylureas therapy (p = 0.01). 
+
+Conclusions 
+
+Prevalence of CRC in our cohort of type 2 DM patients was higher compared to that from National Tumor Register for southern Italy in 2006 (0,3%). Furthermore we hypothesize that sulphonylureas may play a role in CRC carcinogenesis altering the physiological insulin secretion.
+
+
+Read more : https://www.sciencedirect.com/science/article/pii/S0923753420331070

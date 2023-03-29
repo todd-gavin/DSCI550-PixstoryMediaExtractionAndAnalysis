@@ -1,0 +1,6 @@
+Okay so like you have a student ID row , name row , now you have to create third row in which you have to mention 1two letter of the person name + last two letter of the name and last 3 digit student ID 
+
+Now you will do this by a simple trick 
+The formula is 
+=CONCATENATE(Left B3,2),(Right B3,2),(Right A3,3)) 
+Simple now scroll or down

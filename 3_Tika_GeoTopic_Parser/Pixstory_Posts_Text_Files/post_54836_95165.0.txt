@@ -1,0 +1,6 @@
+Name-Monu
+Father's name -Sonu
+Age-10
+Sex-Male
+Class-V
+Chintan

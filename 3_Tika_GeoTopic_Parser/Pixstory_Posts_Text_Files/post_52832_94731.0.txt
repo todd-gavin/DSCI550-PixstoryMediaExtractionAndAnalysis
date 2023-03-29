@@ -1,0 +1,6 @@
+Name -Aliza
+Father Name -Md Ibrahim  
+Age-8
+Sex-Female 
+Class -II
+Chintan

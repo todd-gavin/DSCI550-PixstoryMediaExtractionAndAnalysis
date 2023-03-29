@@ -1,0 +1,19 @@
+[ Predictors of use and improvement in glycemic indices after initiating continuous glucose monitoring in real world: Data from Saudi Arabia ] 
+
+Ebtihal Y.AlyusufaSaharAlharthibAbdullah M.AlguwaihesaAnwar A.JammahaAssim A.AlfaddaacdMohammed E.Al-Sofiani
+
+
+Abstract
+Background and aims
+To identify predictors of use and benefit from continuous glucose monitoring (CGM) in people with type 1 diabetes(T1D).
+
+Methods
+Predictors of CGM use and changes in glycemic indices and other clinical parameters after initiating intermittently-scanned CGMs were examined in 116 individuals with T1D. Participants were categorized based on frequency of CGM sensor scanning at month 6 into: Frequent users (≥10 scans/day) and infrequent users (<10 scans/day).
+
+Results
+Frequent CGM users had an improvement in TIR and time above range (TAR)at months 6 and 12; whereas infrequent users had comparable improvements only at month12. Individuals with baseline TIR<50% had a significant improvement in TIR and TAR; whereas those with baseline TIR≥50% had a significant improvement only in TBR. Baseline TIR<50% and higher frequency of scans were predictive of improvement in TIR at month 6(OR: 4.84, p < 0.01, 1.05, p = 0.04; respectively); whereas baseline TBR was the only predictor of improvement in TBR(OR:1.24,p < 0.01).Being a woman, higher number of scans/day in the first 2weeks of CGM use, and having a lower baseline A1C predict being a frequent scanner at month 6 (OR: 2.81,p = 0.04; 1.12,p < 0.01; and 0.73,p < 0.01; respectively).
+
+Conclusions
+Improvement in glycemic control with CGM use can be predicted by: scans/day at 6 months and baseline TIR and TBR.
+
+https://www.sciencedirect.com/science/article/abs/pii/S1871402122000303

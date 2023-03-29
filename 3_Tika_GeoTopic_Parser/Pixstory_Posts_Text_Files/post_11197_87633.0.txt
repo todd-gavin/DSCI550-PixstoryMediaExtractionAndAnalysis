@@ -1,0 +1,11 @@
+Science takes Reminiscence to a different level 
+
+Researchers uncover how the human brain separates, stores, and retrieves memories. New findings improves our understanding of how the human brain forms memories and could have implications in memory disorders such as Alzheimer's disease. Scientists  have identified two types of cells in our brains that are involved in organizing discrete memories based on when they occurred. 
+The first type, known as a "soft border," is a video that contains a scene before cutting to another scene that continues the same tale. Consider a baseball game in which a pitch is delivered and the camera cuts to a fielder making a play after the batter smacks the ball. A "hard boundary," on the other hand, is a cut to a whole other story—imagine if the batted ball was instantly followed by a commercial cut.
+One analogy to how memories might be stored and accessed in the brain is how photos are stored on your phone or computer. Often, photos are automatically grouped into events based on when and where they were taken and then later displayed to you as a key photo from that event. When you tap or click on that photo, you can drill down into that specific event.
+The researchers next looked at memory retrieval and how this process relates to the firing of boundary and event cells. They theorized that the brain uses boundary peaks as markers for "skimming" over past memories, much in the way the key photos are used to identify events. When the brain finds a firing pattern that looks familiar, it "opens" that event.
+The findings provide a look into how the human brain creates, stores, and accesses memories. Because event segmentation is a process that can be affected in people living with memory disorders, these insights could be applied to the development of new therapies.
+This study was supported by the National Institutes of Health's Brain Research Through Advancing Innovative Neurotechnologies (BRAIN) Initiative and published in Nature Neuroscience.
+
+More detailed analogy on :
+https://www.nih.gov/news-events/news-releases/researchers-uncover-how-human-brain-separates-stores-retrieves-memories

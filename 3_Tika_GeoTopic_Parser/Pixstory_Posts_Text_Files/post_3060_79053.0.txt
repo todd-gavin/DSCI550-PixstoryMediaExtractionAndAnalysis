@@ -1,0 +1,19 @@
+Anne Neuberger, deputy national security advisor for cyber and emerging technology, set off for a tour of NATO countries in Europe to prepare for a possible Russian cyber-attack on Ukraine. According to a White House statement she will start in Brussels with a series of meetings with representatives of several countries to create a cyber defense alliance to “deter, disrupt and respond” to Russian aggression against Ukraine, its neighboring nations and other NATO members. She will visit cyber chiefs of Poland and other Baltic countries to firm up cyber protection in the region.
+
+Ever since Russia stationed a huge force on Ukraine’s border, there’s been tension of war across Europe. While diplomatic talks between US, NATO and Russia failed, Ukraine government’s websites were hit by a massive cyberattack. Shortly before the attack, Microsoft had alerted about a dangerous malware in the government and private computer networks in the country.
+
+Ukraine claimed Russia had orchestrated the attack to damage its public sector and utilities like power supply to intimidate civilians so that they lose trust in their government. In 2015-2016 suspected Russian malwares had brought down power substations in Ukraine affecting hospitals and other essential services in the country. 
+
+Neuberger’s current visit follows recent intelligence assessments that before a full-scale military attack on Ukraine, Russia is likely to repeat a cyberattack like it did six years ago. Such an attack will be aimed at the power grid, communications system and Ukraine’s ministries. And even if the Russian military doesn’t attack Ukraine, its cyberwarriors may try to destabilize the current government and install a puppet regime of Moscow. 
+
+Russia has often experimented with Ukrainian infrastructure due to some typical vulnerability in the latter’s cyber defense. For instance, Ukraine's  power grid is still connected to Russia’s power supply, a vestige of Soviet-era infrastructure. 
+
+Unless there is a concerted effort from the US and NATO countries, it won’t be easy to defend Ukraine from a possible cyber assault. Neuberger doesn’t have much time to stitch a strong united cyber defense against seasoned Russian hackers.
+
+READ MORE:
+
+Anne https://edition.cnn.com/2022/02/01/politics/cybersecurity-europe-russia-hacks/index.html
+
+https://www.reuters.com/world/europe/white-house-official-discuss-ukraine-cyber-security-with-european-allies-2022-02-01/
+
+https://www.nytimes.com/2022/02/01/us/politics/russia-ukraine-cybersecurity-nato.html

@@ -1,0 +1,21 @@
+Muzammil H.Syed  Charlesde Mestral 
+
+Abstract 
+
+Background 
+
+Diabetic foot ulcers (DFUs) are common and disabling, necessitating lengthy hospitalizations. In this study we sought to identify potentially modifiable determinants of high-intensity hospital care use among adults with DFUs. 
+
+Methods 
+
+Three related case–control studies were conducted using Canada-wide cohorts of adults hospitalized with a DFU from 2011 to 2015. In study 1, cases comprised the top 10% with the highest cumulative 1-year acute care hospital costs; controls were randomly selected from those below the top 10%. Study 2 comprised cases/controls within/below the top 10% for cumulative acute care hospital length of stay (LOS). Study 3 included cases/controls within/below the top 10% for cumulative number of acute care hospitalizations. Using generalized linear models, predictor variables were tested between cases and controls, while adjusting for age and sex. 
+
+Results 
+
+In study 1, mean acute care costs among 8,971 cases and 3,174 controls were $71,757 and $13,687, respectively. Sepsis conferred the greatest excess cost (mean, $38,790; 95% confidence interval [CI], $34,597 to $43,508), followed by chronic kidney disease (mean, $30,607; 95% CI, $28,389 to $32,825) and major lower limb amputation (mean, $30,884; 95% CI, $28,613 to $33,155). In study 2, mean LOS was higher among 8,477 cases (69 days) than 3,467 controls (12 days). Lower limb amputation conferred the greatest adjusted excess in mean LOS (mean, 28 days; 95% CI, 27 to 28 days). In study 3, there was a mean of 3 hospitalizations among 10,341 cases and 1 among 5,509 controls. Peripheral artery disease conferred the greatest excess number of hospitalizations (1.3 more hospitalizations; 1.2 to 1.4). 
+
+Conclusions 
+
+Early aggressive treatment of chronic kidney disease and peripheral artery disease, alongside guideline-based amputation prevention strategies, may reduce high-intensity hospital care use among adults with DFUs. 
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S1499267121004184

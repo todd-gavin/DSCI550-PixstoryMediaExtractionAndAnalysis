@@ -1,0 +1,13 @@
+Arnaut Danjuma, the Dutch winger, netted 17 goals last season for Championship side Bournemouth. This form led to him signing for Villarreal for around £25m.
+Danjuma brings a dash of versatility as he can play as  left winger, but he can also play a as right winger or center forward.
+Since joining Villarreal, in the summer of 2021 for €25 million, he has scored 8 goals for them and already has 3 assists to his name.  He also has 4 goals in the Champions League and 2 assists. 
+From above, we can see his goals scored xG. 
+In goals scored per 90, Ezequiel Ponce tops the chart with 1.67, compared to Aranaut’s 0.67 per 90 statistics.
+Comparing his goals vs expected goals, he ranks behind Ezequiel Ponce, with Danjuma ranking 0.68 per 90.
+
+
+In terms of passing, he needs to work on his passing, as he ranks quite low in passing. However, he ranks decent in short passing completion % with 87 percentile. However, on assists he is quite good, having 89 percentile, as he racked up 3 assists in La liga and 2 assists in UCL.
+Being a winger, his creative passes are quite low, with him ranking only 0.64 per 90 and accumulating only 14% in key passes.  
+He is decent with the ball progression, with him ranking 1.45 per 90 in passes he made per 90 and 5.51 in carrying the ball to the attacker's area. 
+On his creative front inside the penalty box, Danjuma is behind the recent Barcelona signing Adama Traore. He has a high amount of touches and carries into the penalty area, with 97 and 99 percentile respectively.
+On ball creation, he ranks decent with 93 percentile in shot creating actions and 88 percentile in shots which leads to goal creating attempts.

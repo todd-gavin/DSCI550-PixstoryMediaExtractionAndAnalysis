@@ -1,0 +1,6 @@
+Name-Radha
+Father-Late-Rakesh 
+Age-7
+Class-1
+Sex-Female
+Sihani old

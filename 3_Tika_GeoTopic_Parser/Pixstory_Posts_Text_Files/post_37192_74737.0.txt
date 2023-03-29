@@ -1,0 +1,1 @@
+Java is general purpose object oriented language. As java is high level language, it is easy to learn. Java provide various OOP concepts such as Abstraction, Inheritance, Encapsulation, Polymorphism, etc. Java is accepted world wide and have large contributing community of developers.

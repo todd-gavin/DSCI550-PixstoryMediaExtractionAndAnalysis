@@ -1,0 +1,22 @@
+By NewsDrum Desk
+
+Leicester (UK): Why do people cheat? An intriguing study by two Israeli researchers in 2016 put forward a possible reason that has since become well established in the scientific literature and popular media.
+
+The researchers reported a series of experiments apparently showing that people told they have won a skill-based competition, such as a visual task, subsequently cheat more than others in games of chance, such as dice games. The proposed explanation was that winners experienced a sense of entitlement that induced them to cheat.
+
+The paper has been highly cited by other researchers. One scientific comment paper even pointed out its significance in the light of tax evasion costing governments US$3.1 trillion (£2.6 trillion) annually.
+
+But does the finding hold up to scientific scrutiny? We decided to replicate the study and investigate more closely the reasons why people do or don’t cheat.
+
+Our new study, published in Royal Society Open Science, failed twice to replicate the original finding. We found that the original experiments were “statistically underpowered”, meaning they used far too few experimental participants (43 in their main experiment) to sustain the conclusions that were drawn.
+
+There were also problems of experimental design and methodology, notably a failure to randomly decide which participants were winners, losers, or part of a control group that weren’t told how they had done in the skill-based competition.
+
+We began by replicating the original research as closely as possible, but in a large-scale experiment (252 participants) to achieve adequate statistical power. We also assigned participants randomly to conditions.
+
+To assign winners and losers, we used the perceptual judgement test used in the original experiment. The test involves the difficult task of estimating which of several different symbols is the most numerous in briefly displayed slides similar to the one shown below.
+
+We put the participants in pairs and told them whether they had a better or worse score than their partner in the skill task. They were then put in new pairs and played a game of chance. The pairs then played a game of chance, also identical to the game in the original research. 
+
+Read more
+https://www.newsdrum.in/international/does-entitlement-make-you-more-likely-to-cheat-new-research-challenge

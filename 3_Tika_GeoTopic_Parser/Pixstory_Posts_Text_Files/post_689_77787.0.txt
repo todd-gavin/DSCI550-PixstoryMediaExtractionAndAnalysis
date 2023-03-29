@@ -1,0 +1,13 @@
+Researchers have identified an immunoglobulin “signature” that could be used to predict which patients are most at risk of developing post-acute covid syndrome (PACS), otherwise known as long covid.
+
+In a multicentre prospective study, 175 patients with covid-19 and 40 healthy control group participants were followed for up to a year. More than half of the patients with covid reported long covid symptoms lasting longer than a month. Those who developed long covid were found to have lower levels of IgM and IgG3 antibodies than those who quickly recovered, found the research, published in Nature Communications.1 A history of asthma was also highly associated with PACS, the study found.
+The researchers combined data on immunoglobulin concentrations with a patient’s age, history of asthma, and five symptoms during the primary infection to develop a PACS score that could predict the risk of developing long term illness. The PACS score was then validated in an independent group of 395 people with covid-19.
+
+The researchers, from the University of Zurich, said that the score might be especially helpful in hospital settings for early identification of those patients at a very high risk of developing PACS. It could also allow the study of targeted preventive treatments such as inhaled corticosteroids or intravenous immunoglobulin treatments.
+
+The researchers said more research was still needed but that a PACS score or long covid risk calculator would be available soon at pacs-score.com.
+The study’s limitations included that participants were infected between April 2020 and August 2021, before the omicron variant took hold. And the study didn’t take into account participants’ vaccination status.
+
+Claire Steves, a senior clinical lecturer at King’s College London, welcomed the research, saying, “With cases high still, more people are at risk of developing long term symptoms. We urgently need to scale up research on how to prevent this happening. Tools such as these predictive models could be used to identify people at higher risk for enrolment into research trials for therapeutics.”
+But she added, “This is a small study that was undertaken in a selected population, and so in particular the immune findings do need to be replicated elsewhere.”
+https://www.bmj.com/content/376/bmj.o245

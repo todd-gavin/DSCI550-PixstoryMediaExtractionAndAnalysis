@@ -1,0 +1,8 @@
+Multiple Vulnerabilities in Cisco Nexus Dashboard
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0304 
+
+Multiple vulnerabilities in Apple Watch
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0305 
+
+Multiple vulnerabilities in Cisco products
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0306

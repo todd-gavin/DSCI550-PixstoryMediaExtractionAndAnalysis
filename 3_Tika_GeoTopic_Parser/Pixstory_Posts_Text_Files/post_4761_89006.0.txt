@@ -1,0 +1,21 @@
+Recently, the U.S. Social Security Administration sent out an email to subscribers of its official blog explaining how to access social security statements online. Most people know to be suspicious of seemingly official emails with links to websites asking for credentials.
+
+But for older adults who are wary of the prevalence of scams targeting their demographic, such an email can be particularly alarming since they have been told that the SSA never sends emails. From our research designing cybersecurity safeguards for older adults, we believe there is legitimate cause for alarm.
+
+This population has been schooled in a tactical approach to online safety grounded in fear and mistrust – even of themselves – and focused on specific threats rather than developing strategies that enable them to be online safely. Elders have been taught this approach by organizations they tend to trust, including nonprofits that teach older adults how to use technology.
+
+These organizations promote a view of older adults as highly vulnerable while also encouraging them to take gratuitous risks in defending themselves. As information technology researchers, we believe it doesn’t need to be this way.
+
+Older adults and online safety
+
+Older adults may be at heightened risk of cybersecurity breaches and fraudulent behavior because they lack experience with internet technology and represent a financially attractive target. Older adults may also be more susceptible because they struggle with their confidence in using technology even as they recognize its benefits.
+
+We have been developing technology tools that help aging Americans maintain their own online safety no matter what challenges they may face, including cognitive decline. To do so, we needed to understand what and how the people we study are learning about cybersecurity threats and what strategies they are being taught to reduce their vulnerabilities.
+
+We have found that older adults attempt to draw on personal experience to develop strategies to reduce privacy violations and security threats. 
+
+What ‘experts’ are telling older Americans
+
+Read full story at The Conversation: https://theconversation.com/older-americans-are-given-the-wrong-idea-about-online-safety-heres-how-to-help-them-help-themselves-177215
+
+Image Credits: https://www.gettyimages.com/detail/photo/midsection-of-senior-woman-using-mobile-phone-royalty-free-image/1306726470

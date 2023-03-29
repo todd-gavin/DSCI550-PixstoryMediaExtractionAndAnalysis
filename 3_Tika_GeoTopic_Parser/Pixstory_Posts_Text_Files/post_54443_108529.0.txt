@@ -1,0 +1,20 @@
+The shock suspension last week of Australia’s wholesale electricity market rekindled an age-old debate about whether the energy sector should be nationalised – in other words, owned and controlled by government.
+
+The calls came after electricity prices spiked and supply tightened along Australia’s east coat, triggering a chain of events which eventually forced the Australian Energy Market Operator (AEMO) to suspend the national electricity market.
+
+So should the flow of energy in Australia come under public control? And even if it’s feasible, would it prevent crises like the one we’ve just seen?
+
+I’m an academic in energy economics with a special interest in electricity network privatisation. As my work has revealed, nationalising electricity is not a silver bullet. To operate most effectively, the sector needs to balance the roles of private competition and government regulation.
+
+What’s caused the energy crisis?
+A recent cold snap meant more people were turning on their heaters, so using more electricity. Compounding that, prices on the wholesale electricity market – where generators are paid for the power they produce – surged for two reasons.
+
+First, Russia’s invasion of Ukraine has driven up global coal and gas prices.
+
+Second, about a quarter of coal power stations feeding the national grid were offline due to unplanned outages or maintenance. At times, renewable energy outputs also fell.
+
+All this caused wholesale electricity prices to surge, which prompted AEMO to impose a cap on prices. The capped price was less than it costs some plants to generate power, prompting them to withdraw their capacity from the market. The situation became impossible for AEMO to manage so it stepped in to suspend the market indefinitely to prevent disastrous blackouts.
+
+Generators must now supply the market with electricity and will be compensated for losses.
+
+Read more: https://theconversation.com/should-australian-governments-nationalise-the-electricity-sector-its-not-that-simple-185203

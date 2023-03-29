@@ -1,0 +1,20 @@
+Abstract
+
+Objectives
+
+To evaluate the frequency and severity of new cases of youth-onset type 2 diabetes in the United States during the first year of the pandemic compared with the mean of the prior two years.
+
+Study Design
+
+Multicenter (n=24 centers), hospital-based, retrospective chart review. Youth aged ≤ 21 years with newly-diagnosed TYPE 2 DIABETES between March 2018 and February 2021, body mass index ≥ 85th%ile, and negative pancreatic autoantibodies were included. Demographic and clinical data, including case numbers and frequency of metabolic decompensation, were compared between groups.
+
+Results
+
+A total of 3113 youth (mean [SD] 14.4 [2.4] years, 50.5% female, 40.4% Hispanic, 32.7% Black, 14.5% non-Hispanic White) were assessed. New cases of TYPE 2 DIABETES increased by 77.2% in the year during the pandemic (n=1463) compared with the mean of the previous 2 years, 2019 (n=886) and 2018 (n=765). Likelihood of presenting with metabolic decompensation and severe diabetic ketoacidosis also increased significantly during the pandemic.
+
+Conclusions
+
+The burden of newly diagnosed youth-onset type 2 diabetes increased significantly during the COVID-19 pandemic, resulting in enormous strain on pediatric diabetes health care providers, patients, and families. Whether the increase was caused by COVID-19 infection, or just associated with environmental changes and stressors during the pandemic is unclear. Further studies are needed to determine whether this rise is limited to the United States and whether it will persist over time.
+
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0022347622007193

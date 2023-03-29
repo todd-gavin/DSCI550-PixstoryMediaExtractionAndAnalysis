@@ -1,0 +1,1 @@
+PiyushTheorem: In a Right-Angled Triangle with sides in A.P. Series, the distance between the point of intersection of median & altitude at the base is 1/10 Th the sum of other two sides. This Theorem applies in Two Conditions: The Triangle must be Right-Angled.(https://piyushtheorem.wordpress.com/2017/02/08/a-new-theorem-introduced-by-piyush-goel-with-four-proofs/)

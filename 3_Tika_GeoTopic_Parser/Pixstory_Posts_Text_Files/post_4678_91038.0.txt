@@ -1,0 +1,19 @@
+The U.S. Food and Drug Administration granted emergency use authorization to AstraZeneca’s COVID-19 antibody drug Evusheld on Dec. 8, 2021. Infectious disease physician Patrick Jackson of the University of Virginia explains how it works, who’s eligible and why some patients are having difficulties accessing it.
+
+1. What is Evusheld, and how does it work?
+
+Evusheld is the first FDA-authorized drug to prevent COVID-19 in high-risk people who aren’t adequately protected by vaccination alone. Data from a preliminary study that has not yet been peer reviewed showed Evusheld reduced the risk of symptomatic COVID-19 by 77% in unvaccinated high-risk adults.
+
+When the immune system is exposed to a foreign protein – for example, by infection or vaccination – it produces antibodies in response to the potential threat. Evusheld is a combination of two antibodies, tixagevimab and cilgavimab, that bind to the spike protein of the virus that causes COVID-19 and prevent it from entering and infecting cells. Evusheld is a monoclonal antibody drug, meaning that it is made of mass-produced identical antibodies that originally came from a single type of white blood cell. Evusheld functions differently from antiviral drugs like molnupiravir, which work by stopping the virus from replicating within cells.
+
+Tixagevimab and cilgavimab are versions of natural human antibodies that have been modified to last much longer in the body than they normally would. This allows Evusheld to provide COVID-19 protection for several months following a single dose. It is expected that Evusheld will need to be given about every six months to keep antibody levels high enough to be effective against the virus. Patients may need to keep getting Evusheld doses as long as there is a significant risk of COVID-19.
+
+Evusheld is not intended to treat COVID-19, but to help prevent vulnerable patients from getting sick in the first place.
+
+2. Who should be receiving Evusheld?
+
+Evusheld can be used by people ages 12 and up who fall into two specific groups unable to receive the full benefit of COVID-19 vaccination.
+
+Full story at The Conversation: https://theconversation.com/how-does-the-covid-19-prevention-drug-evusheld-work-and-who-should-receive-it-an-infectious-disease-specialist-explains-179527
+
+Image Courtesy: https://newsroom.ap.org/detail/VirusOutbreakCovidAntibodyDrug/2716fff2b7694fb69cb8ca8d2953813a

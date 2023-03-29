@@ -1,0 +1,6 @@
+Name Gulafashs
+Father Name Salamat
+Age 6
+Sex F
+Class I
+Chintan

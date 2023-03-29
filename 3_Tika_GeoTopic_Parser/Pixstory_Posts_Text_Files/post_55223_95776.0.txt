@@ -1,0 +1,6 @@
+Name _Nikhat
+Father Name_Md kalimantan
+Age _11
+Sex _female
+Class_VI
+Chintan

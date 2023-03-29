@@ -1,0 +1,15 @@
+On Sept. 1 and 2, 1859, telegraph systems around the world failed catastrophically. The operators of the telegraphs reported receiving electrical shocks, telegraph paper catching fire, and being able to operate equipment with batteries disconnected. During the evenings, the aurora borealis, more commonly known as the northern lights, could be seen as far south as Colombia. Typically, these lights are only visible at higher latitudes, in northern Canada, Scandinavia and Siberia.
+
+What the world experienced that day, now known as the Carrington Event, was a massive geomagnetic storm. These storms occur when a large bubble of superheated gas called plasma is ejected from the surface of the sun and hits the Earth. This bubble is known as a coronal mass ejection.
+
+The plasma of a coronal mass ejection consists of a cloud of protons and electrons, which are electrically charged particles. When these particles reach the Earth, they interact with the magnetic field that surrounds the planet. This interaction causes the magnetic field to distort and weaken, which in turn leads to the strange behavior of the aurora borealis and other natural phenomena. As an electrical engineer who specializes in the power grid, I study how geomagnetic storms also threaten to cause power and internet outages and how to protect against that.
+
+Geomagnetic storms
+
+The Carrington Event of 1859 is the largest recorded account of a geomagnetic storm, but it is not an isolated event.
+
+Geomagnetic storms have been recorded since the early 19th century, and scientific data from Antarctic ice core samples has shown evidence of an even more massive geomagnetic storm that occurred around A.D. 774, now known as the Miyake Event. That solar flare produced the largest and fastest rise in carbon-14 ever recorded. Geomagnetic storms trigger high amounts of cosmic rays in Earth’s upper atmosphere, which in turn produce carbon-14, a radioactive isotope of carbon.
+
+Full story at The Conversation: https://theconversation.com/a-large-solar-storm-could-knock-out-the-power-grid-and-the-internet-an-electrical-engineer-explains-how-177982
+
+Image Credits: http://creativecommons.org/licenses/by-nc-sa/4.0/

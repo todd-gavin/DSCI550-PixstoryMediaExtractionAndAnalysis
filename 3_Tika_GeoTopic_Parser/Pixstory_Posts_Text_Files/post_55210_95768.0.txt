@@ -1,0 +1,5 @@
+Name. Lakshmitu
+Age.  6
+Father.  Jagmohan 
+Gender.  female 
+N,G,O.   Chintan

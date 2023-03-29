@@ -1,0 +1,5 @@
+Summary
+
+There is a need for safe and effective platform vaccines to protect against COVID-19 and other infectious diseases. In this randomized, double-blinded, placebo-controlled Phase 2/3 trial, we evaluate the safety and efficacy of multi-dose Bacillus Calmette-Guerin (BCG) vaccine for prevention of COVID-19 and other infectious disease in a COVID-19-unvaccinated, at-risk-community-based cohort. The at-risk population are adults with type 1 diabetes. We enrolled 144 subjects and randomized 96 to BCG and 48 to placebo. There were no drop-outs over the 15-month trial. A cumulative incidence of 12.5% of placebo-treated and 1% of BCG-treated participants meets criteria for confirmed COVID-19, yielding an efficacy of 92%. The BCG group also displays fewer infectious disease symptoms and lesser severity, and fewer infectious disease events per patient, including COVID-19. There were no BCG-related systemic adverse events. BCG’s broad-based infection protection suggests that it may provide platform protection against new SARS-CoV-2 variants and other pathogens.
+
+Sources - https://www.sciencedirect.com/science/article/pii/S2666379122002713

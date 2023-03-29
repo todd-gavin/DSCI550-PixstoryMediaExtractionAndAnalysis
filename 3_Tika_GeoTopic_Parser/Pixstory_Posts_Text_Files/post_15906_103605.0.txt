@@ -1,0 +1,21 @@
+Arman Shafiee Zahra Ahmadi
+
+Abstract
+
+Background and aims
+
+This systematic review and meta-analysis aimed to evaluate the current evidence available to investigate clinical outcomes between patients with type 1 and type 2 diabetes.
+
+Methods
+
+MEDLINE (Pubmed), Scopus, Web of Science, Cochrane library, Google scholar and Clinicaltrials.gov were searched. Randomized controlled trials (RCTs), non-randomized trials, and observational studies were eligible for inclusion. National Institutes of Health Quality Assessment Tool was used to assess the quality. Data were pooled by the Restricted-maximum-likelihood random-effects approach.
+
+Results
+
+Total 11 studies comprising 7690415 individuals included in this study. The log OR for the pooled data for all-cause mortality rate was −0.71 (95% CI: −1.38 to −0.03). Based on the pooled results, type 1 diabetic COVID-19 patients may have a better prognosis for mortality. There were no significant differences between groups in term of ICU-admission log OR -0.22 (95% CI: −0.81 to 0.37), and hospitaliztion log OR -0.48 (95% CI: −1.23 to 0.27). Based on our descriptives analyses after adjusting for age and comorbidities, the high-risk group in three studies was type 2 diabetes, and in five studies was type 1. Two studies reported no significant difference between these groups in relevant outcomes.
+
+Conclusion
+
+There were no significant differences in disease severity between type 1 and type 2 diabetes. Based on the unadjusted data available, the mortality rate for people with type 1 diabetes was shown to be lower than that for people with type 2. As data on these subjects is scarce, and the results obtained from studies are heterogeneous, further research with adequate sample sizes is needed to precisely compare the outcomes of COVID-19 between type 1 and type 2 diabetes.
+
+Sources - https://www.sciencedirect.com/science/article/pii/S1871402122001266

@@ -1,0 +1,10 @@
+Abstract
+Background
+Maximum willingness to pay (WTP) for a health benefit is connected to perceived value. This two-center study aims to analyse diabetic patients' WTP for obtaining a specific preventive treatment package to reduce severe diabetic complications and determine the factors that impact this value.
+Methods
+This cross-sectional research included 557 diabetics from two cities in Iran. The WTP for a preventative package minimising major diabetes complications (cardiovascular, renal, ocular, and diabetic foot) by 50% and 100% was tested using eight scenarios. The Diabetes Attitude Scoring Questionnaire (DAS-3) was used to examine patient attitudes toward diabetes. To determine WTP, a two-stage hurdle method was used. The level of significance was fixed to 0.05.
+Results
+Around 80% of 557 people interviewed (mean age 47.54) stated they wanted to pay for a diabetes prevention package. This package's WTP varied from 169.4 to $374.5 depending on the complication and degree of risk reduction. The largest value diabetic patients willing to pay for preventative packages that reduce the chance of blindness was reported, while the lowest cost was stated for the diabetic foot. WTP is influenced by wealth, location of study, marital status, and attitude toward special training, but not by the type of diabetes, inpatient or outpatient setting, or the complications diabetes patients are impacted by. Patients' diabetes attitudes were mainly negative. The score of the attitude of patients towards diabetes was generally suboptimal.
+Conclusion
+Most diabetic patients were willing to pay for a preventive package and this value was not affected by the type of diabetes and its severity. Our research found that diabetic individuals are willing to pay the most for a preventative package that reduces the chance of blindness, and the least for diabetic foot care. WTP can help health officials allocate resources and manage budgets. The attitude of diabetic patients toward diabetes still needs further interventional research, however.
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S1751991822001668

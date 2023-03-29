@@ -1,0 +1,29 @@
+Erik Stenberg MD, PhD Erik Näslund MD 
+
+Abstract 
+
+Background 
+
+While metabolic surgery is known to improve type-2 diabetes (T2D) as well as established heart disease separately, it is not known whether the outcome is influenced by T2D status in patients with established heart disease. 
+
+Objectives 
+
+To evaluate the risks for major cardiovascular events (MACE) or mortality in patients with established heart disease with or without T2D. 
+
+Setting 
+
+Nationwide, registry-based 
+
+Methods 
+
+Patients with established heart disease operated with sleeve gastrectomy or Roux-en-Y gastric bypass in Sweden from 2007 until 2019 were matched 1:1 to normal population controls using a two staged matching (exact matching on T2D, followed by optimal matching on propensity score for age, sex, dyslipidemia, chronic obstructive pulmonary disease, type of heart disease, T2D duration, county of residence, and level of education). The risk for MACE was evaluated separately depending on T2D status. 
+
+Results 
+
+In total 1513 patients who underwent surgery and 1513 matched controls were included. Reduced risk for MACE and mortality were seen after metabolic surgery for patients with heart disease and T2D compared to controls (adjusted-HR 0.59, 95%CI 0.48-0.72, p<0.001, and adjusted-HR 0.52, 95%CI 0.40-0.67, p<0.001, respectively), and for patients with heart disease alone compared to controls (adjusted-HR 0.73, 95%CI 0.57-0.94, p=0.016, and adjusted-HR 0.63, 95%CI 0.45-0.89, p=0.008, respectively). 
+
+Conclusions 
+
+Metabolic surgery was associated with a reduced risk for MACE and mortality in patients with preexisting heart disease and T2D as well as in patients with heart disease without T2D. Patients with heart disease and T2D seem to experience the highest risk reduction. 
+
+Sources - https://www.sciencedirect.com/science/article/pii/S1550728922001514

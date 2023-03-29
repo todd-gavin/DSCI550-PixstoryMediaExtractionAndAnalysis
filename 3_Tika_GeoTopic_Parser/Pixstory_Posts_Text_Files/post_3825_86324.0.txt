@@ -1,0 +1,11 @@
+Status Known For 117 out of 117 Constituencies
+
+Aam Aadmi Party	: 90
+Bahujan Samaj Party: 1
+Bharatiya Janata Party: 4
+Independent	: 1	
+Indian National Congress: 13
+Shiromani Akali Dal: 8
+Total: 117	
+
+Source: EC

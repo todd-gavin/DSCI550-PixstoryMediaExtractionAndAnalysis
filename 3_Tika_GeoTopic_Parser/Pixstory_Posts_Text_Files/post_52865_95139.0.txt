@@ -1,0 +1,6 @@
+Name Akhtar
+Father Name Abdul Arshad
+Age 10
+Sex Male
+Class V
+Chintan

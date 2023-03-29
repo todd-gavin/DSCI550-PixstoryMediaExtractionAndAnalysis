@@ -1,0 +1,19 @@
+With the surge of the highly contagious omicron variant of Covid-19, public health experts in the US are trying to find out how long and how far the virus has spread in an unusual indicator: city sewage.
+
+Local wastewater offers clues to the spread of the virus because people who contract the infection leave the trail of pathogens there. Infected people excrete the germs which in turn get flushed to the sewage system from toilets. The pathogen or its genetic fragments are collected by microbiologists from wastewater treatment plants. The data analyzed from untreated sewage help these experts trace the areas in a city where the virus is on a surge and where it is on decline.
+
+Recent data collected by a company called Biobot Analytics in wastewater of 25 cities, across the US, indicate the level of virus is waning in several big cities – such as New York-- but it’s yet to surge in smaller cities like Ohio, Utah, Florida and rural Missouri.
+
+According to a report in The New York Times, over the course of the pandemic, scientists, public health officials and biotech companies have successfully used sewage surveillance to track the viral spread and spot new variants.
+
+The science of tracking the spread of germ from sewage started in the 1940s when microbiologists started looking for clues for the spread of poliovirus.
+
+According to experts at the US Centers for Disease Control and Prevention (CDC), trails of virus in the sewage have often helped them predict a viral spread in advance in Covid-19. During the pandemic, they observed when the number of Covid-19 samples in the sewage of a particular area went up, the number of reported cases surged 3-7 days later.   
+
+Tracking poop may seem like the most thankless job, but microbiologists and public health experts have been turning sewage samples into an early warning system for Covid-19 surge in communities.  
+
+READ MORE: https://www.nytimes.com/2022/01/19/health/covid-omicron-wastewater-sewage.html
+
+https://www.cdc.gov/coronavirus/2019-ncov/communication/responder-stories/wastewater-surveillance.html
+
+https://theconversation.com/covid-19-clues-in-a-communitys-sewage-4-questions-answered-about-watching-wastewater-for-coronavirus-144255

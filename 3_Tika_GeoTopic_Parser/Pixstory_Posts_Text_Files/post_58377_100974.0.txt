@@ -1,0 +1,1 @@
+Vix index helps to check the volatility of market even it can also hints about the direction of market. If vix high then market goes up and if vix is stable then market is stable or increasing.

@@ -1,0 +1,15 @@
+Exposure to air pollution is a risk factor for many chronic diseases, including
+chronic respiratory and cardiovascular diseases. There is wide recognition that people with such conditions are at
+increased vulnerability from COVID‑19, and may thus be prone to a more severe course of the disease. The World Health Organization and a number of national public health authorities have also issued warnings
+for citizens with these pre-existing conditions of greater risks of complications from COVID‑19 (WHO, 2020). Like,it has
+been estimated that long-term exposure to air pollution from PM2.5 contributed to about 19% of COVID-19 mortality in
+Europe through its effect in increasing respiratory and cardiovascular diseases, but the confidence intervals around this
+estimate are wide (8-41%), reflecting high levels of uncertainties.
+In addition, some studies suggest that air pollution (PM2.5 in particular) may increase the risk of infection by acting as a
+vehicle spreading the virus. While there are some concerns that air pollution could carry the virus
+over longer distances, at this stage it is not known whether the virus remains viable on pollution particles. Further research is needed to verify this hypothesis.
+
+On the other hand, the confinement measures that have been put in place to reduce the spread of the coronavirus
+have led to at least a temporary reduction in air pollution. Reductions in economic and social activities led to significant
+decreases in certain types of pollution, notably in nitrogen dioxide (NO2), largely due to reduced traffic and other
+activities, especially in major cities

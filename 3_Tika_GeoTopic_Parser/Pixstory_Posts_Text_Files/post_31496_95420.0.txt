@@ -1,0 +1,8 @@
+Esistono, nel diritto privato italiano, alcune cause di giustificazione per comportamenti antigiuridici che altrimenti sarebbero illeciti.
+Le cause tipiche di giustificazione sono tre:
+- il consenso dell’avente diritto
+- La legittima difesa
+- Lo stato di necessità
+Per quanto riguarda il primo punto, non è responsabile chi lede un diritto con il consenso della persona che può validamente disporne. Ad esempio, l’uso dell’immagine di una persona senza consenso è illecito, ma se il consenso si ha, automaticamente non perviene l’illiceità. Questo però non vale per tutti i diritti, ad esempio, non è un ragionamento che si può applicare ai diritti fondamentali e personali (come la vita). 
+Per quanto riguarda la legittima difesa, basterà riportare l’ART.2044 del c.c.: non è responsabile chi ha commesso il fatto per esservi costretto dalla necessità di difendere un diritto proprio od altrui contro il pericolo attuale di un’offesa ingiusta, sempre che la difesa sia proporzionata all’offesa. 
+Allo stesso modo, non sarà responsabile chi compie il fatto dannoso costretto dalla necessità di salvare sé o altri dal pericolo attuale di un danno grave alla perdona (= stato di necessità). Ad esempio, se per evitare di investire un passante colto da improvviso malore il conducente di un’auto la diriga verso il marciapiede sfondando la vetrina di un negozio, il danno verrà ripartito equamente, non sarà solo a carico del conducente.

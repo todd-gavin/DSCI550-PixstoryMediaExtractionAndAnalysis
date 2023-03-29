@@ -1,0 +1,5 @@
+Mastermind is a very interesting game.
+
+Number of players -  For two players.
+
+It's a battle to break the code - code maker vs code breaker

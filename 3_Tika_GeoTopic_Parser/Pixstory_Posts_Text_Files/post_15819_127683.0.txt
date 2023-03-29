@@ -1,0 +1,15 @@
+Background
+
+Probiotics exert several promoting effects on the glycemic status, however, the results of meta-analyses are inconsistent. we conducted an umbrella meta-analysis, across existing systematic reviews and meta-analyses of clinical trials to determine the definite effects of supplementation with probiotics on glycemic indices.
+
+Methods
+
+A comprehensive systematic search of PubMed/Medline, Scopus, EMBASE, and Web of Science was carried out till August 2021. The random-effects model was employed to conduct meta-analysis. Meta-analysis studies of randomized clinical trials examining the impacts of probiotics supplementation on glycemic indices were qualified in the current umbrella meta-analysis.
+
+Results
+
+48 articles out of 693 in the literature search qualified for inclusion in the umbrella meta-analysis. Pooled effects of probiotics on fasting plasma glucose (FPG), hemoglobin A1C (HbA1c), homeostatic model assessment for insulin resistance (HOMA-IR), and insulin levels were reported in articles 45, 21, 35, and 33, respectively. The analysis indicated a significant decrease of FPG (ES= -0.51 mg/dL; 95% CI: -0.63, -0.38, p< 0.001), HbA1c (ES = -0.32 mg/dL; 95% CI: -0.44, -0.20, p< 0.001), HOMA-IR (ES= -0.56; 95% CI: -0.66, -0.47, p< 0.001), and insulin levels (ES= -1.09 IU/mL; 95% CI: -1.37, -0.81, p= 0.006) by probiotics supplementation.
+
+Conclusion
+
+Probiotics have amending effects on FPG, HbA1c, HOMA-IR, and insulin levels. A <8-week period of probiotic supplementation in the moderate dosages (108 or 109 CFU) is an efficacious approach in improving glycemic parameters. Overall, probiotics could be recommended as an adjuvant anti-hyperglycaemic agent.

@@ -1,0 +1,4 @@
+In Microsoft excel 'ctrl + E' is a very useful tool that can help in faster data entry. 
+You can split entries in a column such as names, into 2 different  columns using this key. First split the first entry of the original column and write the words in separate colums next to it. Next, select the empty cell adjacent to the 2nd entry, and press 'ctrl + E'. Similarly select the cell adjacent to this one and press the keys again. This way the data present in the original column will be split in the next columns the same way you had done in the first one. 
+This hack can be used for splitting names and surnames into 2 separate columns, or people's names and their date of birth etc. 
+Hope you find it helpful!

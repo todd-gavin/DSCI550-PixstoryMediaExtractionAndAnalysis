@@ -1,0 +1,5 @@
+Name   Nirbhay
+Age  12
+Father name  Yogesh
+Gender  Male
+ NGO Chintan

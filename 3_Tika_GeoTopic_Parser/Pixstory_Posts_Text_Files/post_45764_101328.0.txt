@@ -1,0 +1,9 @@
+The farthest human-made object from Earth, NASA's Voyager 1 probe, appears to be a little perplexed about what is going on in interstellar space. 
+
+Vice reported that the long-lived probe and its twin, Voyager 2, set out on their epic space missions in 1977, becoming the first spacecraft to reach interstellar space, which is the vast cosmic region beyond the Sun's primary influence. 
+
+According to a NASA statement made on Wednesday, Voyager 1 has recently been relaying "invalid data" concerning its trip into this uncharted territory. The problem is impacting the probe's attitude articulation and control system (AACS), which orients the spacecraft and ensures that its communication antenna faces Earth during its journey.
+
+While the AACS system is correctly pointed toward Earth, it has started babbling “random” telemetry data and other gibberish about the probe being in positions that are not possible, NASA said.
+
+“A mystery like this is sort of par for the course at this stage of the Voyager mission,” said Suzanne Dodd, project manager for Voyager 1 and 2 at NASA’s Jet Propulsion Laboratory, in the statement. “The spacecraft are both almost 45 years old, which is far beyond what the mission planners anticipated.”

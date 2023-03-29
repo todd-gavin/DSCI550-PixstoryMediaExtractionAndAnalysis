@@ -1,0 +1,11 @@
+
+Abstract
+Background
+Diabetes self-management (DSM) is essential for patients to achieve better health outcomes. However, previous studies have demonstrated that the performance of DSM is not optimal. This study was designed to identify the significant determinants of self-management behavior in type 2 diabetes(T2DM) patients to improve DSM.
+Method
+A convenient sampling method was employed in this study. Data were collected from a community health center from January to February 2021 in Nanjing city, China. A total of 431 patients completed the self-administered questionnaires. A structural equation model based on the theory of planned behavior(TPB) was adopted for analysis.
+Results
+TPB model presents excellent goodness of fit of data. Attitude (β=0.161, P < 0.01), subjective norms (SN) (β=0.239, P < 0.001), and perceived behavior control (PBC) (β=0.197, P < 0.001) were strong predictors of intention. Intention (β=0.230, P < 0.001) and PBC (β=0.259, P < 0.001) had a direct effect on self-management behavior. The impact of attitude and SN on behavior was significantly mediated via behavioral intention.
+Conclusion
+The application of TPB to self-management behavior in T2DM patients can significantly enhance our understanding of theory-based self-management behavior. This predictive model could potentially be a valuable tool and provide a feasible approach for formulating more targeted and population-specific DSM interventions in future research.
+Sources - https://www.sciencedirect.com/science/article/pii/S1697260022000400

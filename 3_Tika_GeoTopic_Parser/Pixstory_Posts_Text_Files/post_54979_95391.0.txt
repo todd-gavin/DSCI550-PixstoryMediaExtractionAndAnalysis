@@ -1,0 +1,6 @@
+Name-Nigar
+Father's name-Nazim
+Age-13
+Sex-Female
+Class-VI
+Chintan

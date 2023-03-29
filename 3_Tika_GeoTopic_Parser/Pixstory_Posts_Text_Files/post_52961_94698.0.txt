@@ -1,0 +1,5 @@
+Name gulista
+Father name javed
+Age 11
+Gender female
+N.G.O chinta

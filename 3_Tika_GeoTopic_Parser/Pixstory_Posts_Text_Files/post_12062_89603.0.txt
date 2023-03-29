@@ -1,0 +1,15 @@
+A combination of the delta (AY.4) and BA.1 omicron variants has been named by the World Health Organization as the BA.1 x AY.4 recombinant. First detected in France in January 2022, it has since picked up the nickname “deltacron”1—Elisabeth Mahase (BMJ)  finds out more
+
+How does a recombinant emerge?
+Recombinants can emerge when multiple variants infect the same person at the same time, allowing the variants to interact during replication, mix up their genetic material, and form new combinations. These events become more likely when cases are higher—an important consideration, as covid-19 cases worldwide have once again started to rise after several weeks of decline.
+
+Maria Van Kerkhove, the World Health Organization’s covid-19 technical lead, said in a post on social media, “This is] what happens when we allow the virus to circulate at such an intense level. The virus continues to evolve and more variants are expected. Recombinants are also expected . .
+
+What do we know about “deltacron”?
+So far, very little. The literature on deltacron is sparse, although a perspective published by the Chinese Center for Disease Control and Prevention has provided some insight. The researchers have reported that the recombinant is very similar to the delta (AY.4) variant except when it comes to the region encoding the spike gene, which is similar to BA.1. Of the 36 amino acid mutations found in the spike protein, 27 were found in BA.1 and five in AY.4, while four were found in both.
+
+They warned, “Although the emergence and subsequent spread of variants of concern has had a huge impact on global health and economy, it may not have been the worst case until now, as recombination (a major mechanism bringing genetic diversity to coronaviruses) has not really emerged on a large scale and shown its power before the emergence of ‘deltacron.’
+
+“The emergence of ‘deltacron’ is therefore a ‘grey rhino’ [an obvious threat that has been ignored or played down] rather than ‘black swan’ [an unlikely but extremely serious] event . . . With the advent of ‘deltacron,’ further concerns are coming.”
+
+https://www.bmj.com/content/376/bmj.o792

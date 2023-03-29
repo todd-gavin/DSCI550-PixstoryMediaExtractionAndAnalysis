@@ -1,0 +1,6 @@
+Name-Rozi
+Fathr'sName-Mohd.Shamim
+Age-8
+Sex-Female
+Class-IV
+Chintan

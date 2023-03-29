@@ -1,0 +1,74 @@
+➖States that recorded a rise in cases and increased in positivity rate as of 27th Jan 2022:
+
+▪️Karnataka: 325,214
+increased positivity: 15.12% to 22.67%
+▪️Kerala: 310,382 cases
+increased positivity rate 31.33% to 49.86%
+▪️Tamil Nadu: 210,001
+increased positivity rate: 20.05% to 22.05%
+▪️Gujrat 130,672
+ increased positivity rate: 11.62% to 15.00%
+▪️Andhra Pradesh: 95,132
+increased positivity rate: 15.41% to 28.33%
+▪️Rajasthan: 92,198
+increased positivity rate: 25.45% to 31.99%
+
+
+
+
+➖States that recorded a decline in cases and positivity rate as 27th Jan 2022. 
+
+▪️Maharashtra 279,356
+decline in positivity rate 23.7% to 23.3%
+▪️Uttar Pradesh: 98,211
+decline in positivity rate: 8.7% to 7.3%
+▪️Delhi: 63,031
+decline in positivity rate: 29.1% to 14.7%
+▪️Odisha: 58,174
+decline in positivity rate: 16.1% to 13.0%
+▪️Haryana: 53,869
+decline in positivity rate: 31.0% to 27.0%
+▪️West Bengal: 50,293
+decline in positivity rate: 23.8% to 9.5%
+
+
+
+
+
+➖Districts that recorded a rise in cases and increased in positivity rate as of 26th Jan 2022:
+
+▪️Pune, Maharashtra: 12,784 
+rise in positivity rate:  40.27% to 42.01%
+▪️Ernakulam, Kerala: 7959
+rise in positivity rate: 37.98% to 55.27%
+▪️Thiruvananthapuram,Kerala: 6935 
+rise in positivity rate: 43.19% to 50.55%
+▪️Ahmadabad, Gujrat: 6.855
+rise in positivity rate:  29.57% to 31.55%
+▪️Nagpur, Maharashtra: 4,236
+rise in positivity rate: 29.38% to 45.67%
+▪️Pune, Maharashtra: 3,776
+rise in positivity rate: 31.13% to 45.63%
+
+
+
+
+
+➖Districts that recorded a decline in cases and positivity rate as 26th Jan 2022:
+
+▪️Bengaluru Urban, Karnataka: 155,267
+decline in positivity: 22.9% to 21.6%
+▪️Chennai, Tamil Nadu: 33,429
+decline in positivity: 26.7% to 17.7%
+▪️Gurugaram, Haryana: 21,912
+decline in positivity: 36.9% to 30.0%
+▪️Thane, Maharashtra: 17,919
+decline in positivity: 25.6% to 14.0%
+▪️Lucknow, UP: 17,616
+decline in positivity: 18.3% to 17.8%
+▪️Mumbai, Maharashtra: 16,721
+decline in positivity: 16.2% to 7.1%
+▪️Khordha, Odisha: 16,259
+decline in positivity: 33.8% to 29.6%
+▪️Gautam Buddha Nagar, UP: 13,863
+decline in positivity: 33.7% to 27.4%

@@ -1,0 +1,5 @@
+Name kitu
+Father name chandr sing
+Age 12 
+Gender female 
+NGO chintan

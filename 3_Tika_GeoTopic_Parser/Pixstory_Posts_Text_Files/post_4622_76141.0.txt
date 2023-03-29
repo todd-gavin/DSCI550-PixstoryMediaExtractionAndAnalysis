@@ -1,0 +1,21 @@
+New high-speed cellphone services have raised concerns of interference with aircraft operations, particularly as aircraft are landing at airports. The Federal Aviation Administration has assured Americans that most commercial aircraft are safe, and AT&T and Verizon have agreed to hold off on installing their new cellphone antennas near airports for six months. But the problem has not been entirely resolved.
+
+Concerns began when the U.S. government auctioned part of the C-band spectrum to wireless carriers in 2021 for US$81 billion. The carriers are using C-band spectrum to provide 5G service at full speed, 10 times the speed of 4G networks.
+
+The C-band spectrum is close to the frequencies used by key electronics that aircraft rely on to land safely. Here’s why that can be a problem.
+
+Keeping order on the spectrum
+
+Wireless signals are carried by radio waves. The radio spectrum ranges from 3 hertz to 3,000 gigahertz and is part of the electromagnetic spectrum. The portion of the radio spectrum that carries the signals from your phone and other wireless devices is 20 kilohertz to 300 gigahertz.
+
+If two wireless signals in the same area use the same frequency, you get garbled noise. You hear this when you are midway between two radio stations using the same or similar frequency bands to send their information. The signals get garbled and sometimes you hear one station, at other times the other, all mixed with a healthy dose of noise.
+
+Therefore, in the U.S., the use of these frequency bands is tightly regulated by the Federal Communications Commission to ensure that radio stations, wireless carriers and other organizations are assigned “lanes,” or frequency spectra, to use in an orderly fashion.
+
+Bouncing radio waves off the ground
+
+Modern airplanes use altimeters, which calculate the time it takes for a signal to bounce back from the ground to determine a plane’s altitude. These altimeters are a vital part of automatic landing systems that are especially useful in cases where there is low visibility.
+
+Read more at The Conversation: https://theconversation.com/how-5g-puts-airplanes-at-risk-an-electrical-engineer-explains-175306
+
+Image Credits: http://creativecommons.org/licenses/by-sa/4.0/

@@ -1,0 +1,15 @@
+G. Michael Felker MD, MHS Svati H.Shah MD, MHS 
+
+Abstract 
+
+Background: Mobile health (mHealth) platforms can affect health behaviors but have not been rigorously tested in randomized trials. 
+
+Objectives: We sought to evaluate the effectiveness of a pragmatic mHealth intervention in patients with HF and DM 
+
+Methods: We conducted a multicenter randomized trial in 187 patients with both HF and DM to assessing a mHealth intervention to improve physical activity and medication adherence compared to usual care. The primary endpoint was change in mean daily step count from baseline through 3 months. Other outcomes included medication adherence, health related quality of life, and metabolomic profiling. 
+
+Results: The mHealth group had an increase in daily step count of 151 steps/day at 3 months whereas the usual care group had a decline of 162 steps/day (LS-mean between-group difference = 313 steps/day; 95% CI: 8, 619, p = 0.044). Medication adherence measured using the Voils Adherence Questionnaire did not change from baseline to 3 months (LS-mean change -0.08 in mHealth vs. -0.15 in usual care, p = 0.47). The mHealth group had an improvement in Kansas City Cardiomyopathy Questionnaire Overall Summary Score (KCCQ-OSS) compared to the usual care group (LS-mean difference = 5.5 points, 95% CI: 1.4, 9.6, p = 0.009). Thirteen metabolites, primarily medium- and long-chain acylcarnitines, changed differently between treatment groups from baseline to 3 months (p < 0.05). 
+
+Conclusions: In patients with HF and DM, a 3-month mHealth intervention significantly improved daily physical activity, health related quality of life and metabolomic markers of cardiovascular health, but not medication adherence. 
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S1071916422006492

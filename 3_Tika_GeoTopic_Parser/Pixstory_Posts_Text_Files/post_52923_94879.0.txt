@@ -1,0 +1,3 @@
+Name aman 
+Class 5 
+Sex 10

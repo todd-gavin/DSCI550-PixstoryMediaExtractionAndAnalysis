@@ -1,0 +1,7 @@
+According to the information released from The Office of the Director of National Intelligence, 3.4 million warrantless searches of Americans’ data in 2021, including 1.9 million searches related to a Russian cyberattack. We have a law called the 1978 Foreign Intelligence Surveillance Act. The law concentrates on threats emanating from outside of the United States, but also allows the FBI, the CIA and others to search data for Americans' information provided there is a validly predicated foreign intelligence purpose. The report doesn't show any improper parts from the FBI but says that they were for surveillance of hackers, spies and terrorists.
+
+According to the Wired, The number of FBI queries listed on the report from the Office of the Director of National Intelligence is not the same as the number of individuals whose data was examined. Officials can search an individual's email address, name and any other identifier, sometimes multiple times -- all of which would be counted as unique queries.
+
+It is also possible that the number of queries of Americans' data is far lower than the 3.4 million published in the report. According to the report, sometimes the FBI administers large queries of hundreds or even thousands of terms, and if even one term is associated with a US person, every term in the bulk search is counted as a US person search.
+
+Source: Wired

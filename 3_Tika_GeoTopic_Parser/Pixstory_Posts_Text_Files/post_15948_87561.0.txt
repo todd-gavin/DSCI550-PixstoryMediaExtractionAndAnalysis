@@ -1,0 +1,21 @@
+Ranjit Unnikrishnan Anoop Misra 
+
+Abstract 
+
+Background and aims 
+
+The link between diabetes and increased risk of infectious disease has long been recognized, but has re-entered sharp focus following the COVID-19 pandemic. 
+
+Methods 
+
+A literature search was conducted in PubMed for articles in English on diabetes and infection. 
+
+Results 
+
+Diabetes predisposes to infections through alterations in innate and acquired immune defenses. Outcomes of infection are worse in people with uncontrolled diabetes, and infection can worsen hyperglycemia in hitherto well controlled diabetes (bidirectional relationship). Diabetes does not increase the risk of infection with COVID-19 per se, but predisposes to severe disease and poor outcomes. COVID-19 has also been linked to deterioration of glycemic control as well as new-onset diabetes. 
+
+Conclusions 
+
+Clinicians caring for people with diabetes should be aware of the increased risk of infections in this population, as well as the possibility of worsening hyperglycemia. A holistic approach with frequent monitoring of blood glucose levels and appropriate titration of medications, along with close attention to nutritional status, is essential to ensure the best possible outcomes. 
+
+Sources - https://www.sciencedirect.com/science/article/pii/S187140212030374X

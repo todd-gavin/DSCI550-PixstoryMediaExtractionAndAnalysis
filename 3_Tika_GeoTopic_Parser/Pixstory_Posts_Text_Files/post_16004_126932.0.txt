@@ -1,0 +1,19 @@
+ABSTRACT
+
+BACKGROUND
+
+The incidence of esophageal cancer has increased faster than most cancers. Evidence from other malignancies suggests that diabetic patients have a worse response to multi-modality therapy. We hypothesize that diabetic patients with esophageal cancer will have a decreased response to neoadjuvant chemotherapy and radiation compared to non-diabetic patients.
+
+METHODS
+
+A retrospective study of the Society of Thoracic Surgeons General Thoracic Surgery Database identified all patients who had an esophagectomy following neoadjuvant therapy for esophageal cancer between 2012 and 2019. Patients were compared based on the presence of diabetes. A complete pathologic response (pCR) was defined as ypT0N0. Chi-Square and Wilcoxon Rank-sum test were used to compare patients’ demographic and clinical characteristics between those with and without diabetes. Multivariable logistic regression was used to evaluate the predictors of response to neoadjuvant therapy.
+
+RESULTS
+
+9,171 patients met inclusion criteria, 2,011 (22%) with DM and 7,160 (78%) without DM. Patients with DM were older, more likely to be males, and were more likely to have all comorbidities. Univariate analysis revealed diabetic patients were less likely to have pCR (16% vs 18%, p=0.026). Although multivariable analysis showed a trend toward diabetic patients having lower odds of achieving pCR, diabetes was not independently associated with pCR (OR 0.89 (95% CI 0.78-1.01), p=0.075).
+
+CONCLUSIONS
+
+Diabetic patients may be less likely to achieve pCR compared to non-diabetics after neoadjuvant treatment of esophageal cancer. This suggests the need for further exploration as diabetic patients with esophageal cancer can potentially benefit from different treatment paradigms compared to their non-diabetic counterparts.
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0003497522011079

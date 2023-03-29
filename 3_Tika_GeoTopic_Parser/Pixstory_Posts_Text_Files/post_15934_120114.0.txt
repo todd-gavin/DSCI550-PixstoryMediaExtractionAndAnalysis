@@ -1,0 +1,19 @@
+Abstract
+
+Aims
+
+People with type 1 diabetes have increased risk of cardiovascular (CV) and kidney disease. A 24-hour ambulatory blood pressure (BP) measurement (ABPM) examines diurnal variations in BP. We aimed to determine the prognostic significance of blunted decrease in nocturnal systolic BP of <10 % (non-dipping of nocturnal BP) for CV- and kidney disease and all-cause mortality in type 1 diabetes.
+
+Methods
+
+From 2009 to 2011, at Steno Diabetes Center Copenhagen, 654 participants with type 1 diabetes had 24-hour ABPM obtained with a tonometric wrist-watch device (BPro, HealthStats, Singapore). In 2017, outcomes (composite CV endpoint; all-cause mortality; decline in estimated glomerular filtration rate (eGFR) ≥30 %; end-stage kidney disease (ESKD); and a composite kidney endpoint including decline in eGFR ≥30 %, ESKD and all-cause mortality) were registered. Hazard Ratios (HR) were calculated using Cox regressions.
+
+Results
+
+Participants were mean ± SD 55 ± 13 years old and had median (IQR) 35 (24–44) years diabetes duration. Mean daytime and nocturnal systolic BP were 133 ± 16 and 121 ± 16 mm Hg while 337 (52 %) participants demonstrated non-dipping. After CV risk factor adjustments, non-dipping was associated with all-cause mortality (HR 2.12 (1.09–4.11), p = 0.03) and the composite kidney endpoint (HR 1.92 (1.23–3.00), p = 0.004).
+
+Conclusions
+
+Non-dipping entailed increased risk of all-cause mortality and kidney disease in type 1 diabetes.
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S1056872722001799

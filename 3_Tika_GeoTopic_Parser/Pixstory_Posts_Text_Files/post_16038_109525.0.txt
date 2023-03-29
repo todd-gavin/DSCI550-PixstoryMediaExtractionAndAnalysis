@@ -1,0 +1,23 @@
+The role of intraoperative neurophysiological monitoring
+
+Objective
+Transient ischemic attacks (TIA) after carotid endarterectomy (CEA) are not well-studied. We aimed to investigate the characteristics and the predictive role of intraoperative neurophysiological monitoring (IONM) in TIA post-CEA.
+
+Methods
+
+Patients who underwent CEA utilizing IONM from 2009-2020 were included. Analyses included TIA incidence, sensitivity, specificity, and predictive values of IONM, risk factor regression analyses, and mortality Kaplan Meier plots.
+
+Results
+
+Out of 2232 patients, 46 experienced TIA, 14 of which were within 24 hours of CEA (p<0.01). Nine of these patients displayed significant IONM changes during CEA. The odds of TIA increased with somatosensory evoked potential (SSEP) changes (Odds Ratio (OR): 2.48 95% Confidence Interval (CI): 1.14-5.4), electroencephalogram (EEG) changes (OR: 2.65 95% CI: 1.22-5.77), and combined SSEP/EEG changes (OR: 2.98 95% CI: 1.17-7.55). Patients with TIA were less likely to be alive after an average of 4.3 years (OR: 0.5 95% CI: 0.26-0.96).
+
+Conclusions
+
+The odds a patient will have TIA post-CEA are greater in patients with IONM changes. This risk is inversely related to the time post-CEA.
+
+Significance
+
+Changes in IONM during CEA predict postoperative TIA. Post-CEA TIA may increase long-term mortality, thus further research is needed to better elucidate clinical implications of postoperative TIA.
+
+
+Sources: https://www.sciencedirect.com/

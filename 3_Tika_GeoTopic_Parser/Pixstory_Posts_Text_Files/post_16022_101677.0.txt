@@ -1,0 +1,21 @@
+Chao-Shun Lin Chien-Chang Liao 
+
+Abstract 
+
+Objective 
+
+The beneficial effect of influenza vaccination (IV) in patients with diabetes was not completely understood. 
+
+Methods 
+
+Using the research data of health insurance, we performed a cohort study of patients aged ≥ 20 years who were admitted to inpatient care due to diabetes in 2008-2013 in Taiwan. We performed the propensity score matching and the outcomes of complications and mortality following the diabetes admission was compared between patients with and without IV. 
+
+Results 
+
+Among 61002 patients with diabetes admission, IV reduced 30-day in-hospital mortality (odds ratio [OR] 0.75, 95% confidence interval [CI] 0.66-0.84), particularly among patients with prior diabetes hospitalization, inadequate control for diabetes, and diabetes-related comorbidities, such as eye involvement, ketoacidosis, renal manifestations, and coma. Compared with non-IV control group, patients with IV also had decreased risks of pneumonia (OR 0.92, 95% CI 0.87-0.97), septicemia (OR 0.83, 95% CI 0.79-0.88), urinary tract infection (OR 0.94, 95% CI 0.90-0.97), and intensive care (OR 0.29, 95% CI 0.27-0.31). 
+
+Conclusion 
+
+In patients with diabetes admission, IV was associated with reduced risks of complications and mortality. Our study implicated the urgent need to promote influenza vaccination for this susceptible population with diabetes. 
+
+Sources  - https://www.sciencedirect.com/science/article/abs/pii/S0168822722007446

@@ -1,0 +1,21 @@
+Jean-Daniel Dehondt MD Emilie Doche MD 
+
+Abstract 
+
+Objectives 
+
+Despite the success of recanalization by bridging therapy, about half of treated stroke patients remain disabled. While numerous reports propose clinical predictors of stroke clinical outcome in this context, we originally aimed to study pre-therapeutic factors influencing infarct growth (IG) and poor clinical outcome in strokes due to large vessel occlusion (LVO) successfully recanalized. 
+
+Materials and methods 
+
+We enrolled 87 consecutive successfully recanalized patients (mTICI: 2b/2c/3) by mechanical thrombectomy (±rt-PA) after stroke due to middle cerebral artery (M1) occlusion within 6 h according to AHA guidelines. IG was defined by subtracting the initial DWI volume to the final 24 h-TDM volume. Statistical associations between poor clinical outcome (mRS≥2), IG and pertinent clinico-radiological variables, were measured using logistic and linear regression models. 
+
+Results 
+
+Among 87 enrolled patients (Age(y): 68.4 ± 17.5; NIHSS: 16.0 ± 5.4), 42/87 (48,28%) patients had a mRS ≥ 2 at 3 months. Diabetic history (OR: 3.70 CI95%[1.03;14.29] and initial NIHSS (/1 point: OR: 1.16 CI95%[1.05;1.27]) were independently associated with poor outcome. IG was significantly higher in stroke patients with poor outcome (+7.57 ± 4.52 vs −7.81 ± 1.67; p = 0.0024). Initial volumes were not significantly different (mRS≥2: 16.18 ± 2.67; mRS[0–1]: 14.70 ± 2.30; p = 0.6771). Explanatory variables of IG in linear regression were diabetic history (β: 21.26 CI95%[5.43; 37.09]) and NIHSS (β: 0.83 CI95%[0.02; 1.64]). IG was higher in diabetic stroke patients (23.54 ± 1.43 vs −6.20 ± 9.36; p = 0.0061). 
+
+Conclusions 
+
+We conclude that diabetes leads to continued IG after complete recanalization, conditioning clinical outcome in LVO strokes successfully recanalized by bridging therapy. We suggest that poor tissular reperfusion by diabetic microangiopathy could explain this result. 
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S1052305722001732

@@ -1,0 +1,5 @@
+Name - Anamta
+Age - 7
+Gender - Female
+Father - Sanu 
+NGO - Chintan

@@ -1,0 +1,13 @@
+Events where groups of people come together to create or improve software using large data sets are usually called hackathons. As health data researchers who want to build and maintain public trust, we recommend the use of alternative terms, such as datathon and code fest.
+
+Hackathon is a portmanteau that combines the words “hack” and “marathon.” The “hack” in hackathon is meant to refer to a clever and improvised way of doing something rather than unauthorized computer or data access. From a computer scientist’s perspective, “hackathon” probably sounds innovative, intensive and maybe a little disruptive, but in a helpful rather than criminal way.
+
+The issue is that members of the public do not interpret “hack” the way that computer scientists do.
+
+Our team, and many others, have performed research studies to understand the public’s interests and concerns when health data are used for research and innovation. In all of these studies, we are not aware of any positive references to “hack” or related terms. But studies from Canada, the United Kingdom and Australia have all found that members of the public consistently raise hacking as a major concern for health 
+Fear of hacking
+It is not hard to figure out where negative associations with the word “hack” come from. There is a regular stream of news headlines, like: “As Hackers Take Down Newfoundland’s Health-Care System, Silence Descends”; “T-Mobile Says Hackers Accessed Personal Data of an Additional 5.3 Million Customers”; and “They Told Their Therapists Everything. Hackers Leaked It All.”
+
+Taking the research studies and news headlines together, there are strong reasons to think that the term hackathon will be perceived as negative to members of the public. Based on the common use and understanding of hacking, the term hackathon could even be perceived as threatening if it is misinterpreted as referring to an event where computer scientists do unauthorized things with data.
+
+Read more: https://theconversation.com/hackathons-should-be-renamed-to-avoid-negative-connotations-177727

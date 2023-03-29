@@ -1,0 +1,10 @@
+Abstract
+Background
+Inflammatory dysregulation may be linked with mental health disturbances in people with Type 2 Diabetes (T2D), however no previous studies have examined longitudinal associations between inflammatory stress responses and mental health outcomes in T2D.
+Purpose
+To better understand the biological mechanisms that might predispose people with T2D to poor mental health in the future.
+Methods
+At baseline, 140 participants with T2D participated in a laboratory stress testing study (mean age = 64 years). Participants underwent two mental stress tasks and blood was sampled before and up to 45 min post-stress to detect plasma interleukin (IL)-6. The Center for Epidemiological Studies-Depression scale and the Short Form-36 Health Survey were completed at baseline and 7.5 years later. We tested associations between IL-6 stress responses and a) depression symptoms and b) mental health-related quality of life (QoL) at baseline and at follow-up using linear regression analyses adjusting for age, sex, and body mass index (BMI). Results: Up to 66 participants provided follow-up data. In cross-sectional analyses, increased IL-6 stress responses immediately post-task were associated with lower mental health-related quality of life (B = −21.73, p = 0.005, 95% CI [-36.82, −6.63]) adjusting for age, sex, and BMI. In longitudinal analyses, increased IL-6 stress responses at 45 min post-task were associated with increased depressive symptoms (B = 10.31 p = 0.048, 95% CI [0.10, 20.51]) and decreased mental health-related QoL (B = −21.18 p = 0.031, 95% CI [-40.34, −2.02]) adjusting for age, sex, and BMI. The association between the 45-min IL-6 response and depressive symptoms at follow-up was diminished after further adjustment for physical health-related QoL and baseline depressive symptoms (B = 10.14, p = 0.055, 95% CI [-0.21,20.48]).
+Conclusions
+This study supports the link between inflammatory stress responsivity and future mental health outcomes in people with T2D. Further research involving a larger sample size is required.
+Sources - https://www.sciencedirect.com/science/article/pii/S266635462200062X

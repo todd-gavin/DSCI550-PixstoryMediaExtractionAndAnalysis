@@ -1,0 +1,29 @@
+Po-Jen Yang M.D., Ph.D. Weu Wang M.D. 
+
+Abstract 
+
+Background 
+
+Limited studies have focused on diabetes relapse after metabolic surgery, especially among Asians. 
+
+Objectives 
+
+To identify the predictors of diabetes relapse following initial postoperative remission in Asia. 
+
+Setting 
+
+Four tertiary hospitals 
+
+Methods 
+
+We assessed 342 patients (age, 41.0 ± 10.8 yr; body mass index [BMI], 39.6 ± 7.3 kg/m2) with complete diabetes data before and 1 and 3 years after metabolic surgery. A total of 290 (84.8%) and 277 (81.0%) patients had diabetes remission at 1 and 3 years after surgery. Logistic regressions were performed to identify the independent predictors of diabetes relapse. Two published predictive models for diabetes remission were also tested for relapse. 
+
+Results 
+
+Of the 290 patients with 1-year diabetes remission, 29 (10%) experienced a relapse at 3 years after surgery. The area under the receiver operating characteristic curve of the ABCD score in predicting 1-year remission, 3-year remission, and 3-year relapse were .814, .793, and .795, while those of the DiaRem2 score were .823, .774, and .701, respectively. The baseline age, BMI, and insulin use were independent predictors for relapse. The most powerful predictive model for relapse was composed of preoperative insulin use, 1-year A1C, and a change in BMI between the first and third year (C-statistic: .919). 
+
+Conclusion 
+
+The ABCD score predicted both mid-term postoperative diabetes remission and relapse in Asians. Initial older age, lower BMI, insulin use, higher 1-year A1C, and weight regain were independent predictors of relapse. Personalized strategies should be proposed for those at risk of relapse to optimize diabetes outcomes after surgery. 
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S1550728921005517

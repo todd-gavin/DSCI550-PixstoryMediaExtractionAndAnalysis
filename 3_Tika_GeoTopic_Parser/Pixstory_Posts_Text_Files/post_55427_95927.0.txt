@@ -1,0 +1,6 @@
+Name : aaradhna
+Father : amit
+Age : 9
+Class : v
+Sex : female
+Sihani a

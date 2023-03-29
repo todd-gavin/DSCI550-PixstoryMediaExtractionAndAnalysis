@@ -1,0 +1,6 @@
+Name Waseem
+Father Name Salamat
+Age 11
+Sex M
+Class VI
+Chintan

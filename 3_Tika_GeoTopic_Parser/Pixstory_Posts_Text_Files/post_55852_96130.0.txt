@@ -1,0 +1,6 @@
+Name - Payal
+Age - 8
+Class - 3
+Father's name - Sanjay 
+Gender - Female
+Area - Sihani Old

@@ -1,0 +1,21 @@
+Prakash Chand Negi Sanjeev Asotra 
+
+Abstract 
+
+Background and aims 
+
+Risk factors for metabolic syndrome among obese population are not clear. The role of Eicosapentaenoic acid (EPA), Arachidonic acid (AA) Poly Unsaturated Fatty Acids (PUFA), their ratio and vitamin D deficiency as risk factors of metabolic syndrome (MS) was explored in obese worksite workers. 
+
+Methods 
+
+The 145 obese worksite workers were enrolled and MS was diagnosed using adult treatment panel III criteria. The levels of EPA, AA PUFA were estimated using liquid chromatography-Mass Spectrometer and vitamin D levels with ELISA method. The association of MS with the tertiles of EPA, AA PUFAs, their ratio and vitamin D was estimated by calculating odds ratio and 95% C.I., taking lowest tertiles as the reference group using logistic regression model adjusted for age and gender. 
+
+Results 
+
+105 out of 145 obese worksite workers; 72.4%, 95% C.I. (64.5%, 79.5%) had metabolic syndrome. The odd of MS was significantly lower in the group having highest tertiles of EPA 0.24 (0.09, 0.71) and was higher 2.0 (1.02, 3.89) in subjects with highest tertiles of AA: EPA ratio. The AA PUFA and vitamin D levels had no significant association with MS. 
+
+Conclusion 
+
+The low levels of omega 3 PUFA (EPA) and elevated ratio of AA: EPA PUFA was significantly associated with MS in obese works site workers. 
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S1871402122000819

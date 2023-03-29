@@ -1,0 +1,5 @@
+Name kalash
+ Age 12
+Father  name Rohit Sharma
+Gender. Male 
+Ngo. Chintan

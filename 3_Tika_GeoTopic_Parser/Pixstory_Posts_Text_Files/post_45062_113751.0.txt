@@ -1,0 +1,20 @@
+In recent times, VAR (Virtual Assistant Referee) is in news due to its advanced nature for the FIFA World Cup 2022 that will be held in Qatar. For the FIFA World Cup 2022, multiple cameras are in the stadium to just track the coordinates of the players. A sensor is also fitted into the ball to adjudge a potential offside. A few years and a decade ago, it was not at the stage that it is today with the help of Artificial Intelligence. In this article, we shall look at VAR and how it actually works across the globe. 
+
+
+What is VAR (Virtual Assistant Referee)?
+
+Virtual Assistant Referee (VAR) is a set of three to five referees in a separate operating room helping the referee on the pitch to make an informed decision. These referees are along with a replay operator who goes through the video of relevant occurrences. 
+
+
+Virtual Assistant Referee is used to concluding four different instances. Goals, violations of rules while proceeding to goals, red cards and mistaken players while awarding a card and penalty calls. With the help of videos from these instances, referees can overturn the decision in case it is a mistake. However, to overturn the decision, there should be clear evidence.
+
+
+How does VAR work?
+
+There are two ways how the VAR (Virtual Assistant Referee) can work:
+On-pitch referee asking for suggestions: When an incident has occurred on the pitch, the referee may take a call to review the decision with VAR as he is doubtful of what happened. 
+
+VAR suggesting the on-field referee: On certain occasions, VAR can suggest the referee take a close call on a certain decision by taking a closer look at the on-field TV. 
+
+What is the time to overturn the decision? 
+On certain occasions, fans might not be aware of the going on VAR review. However, once the ball goes out of play, the on-field referee will receive the instructions to stop the play if the review is happening. However, if the game gets restarted and play goes on, the decision can't be overturned. 

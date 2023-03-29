@@ -1,0 +1,5 @@
+Name Khushi
+ father name Pramod shah
+ Age 10
+ gender female 
+NGO  Chintan

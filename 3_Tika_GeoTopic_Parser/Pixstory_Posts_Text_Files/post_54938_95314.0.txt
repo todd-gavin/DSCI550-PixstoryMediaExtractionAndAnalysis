@@ -1,0 +1,6 @@
+Name-Zahid
+Fathers Name-Sageer Khan
+Age-10
+Sex-Male
+Class-V
+Chintan

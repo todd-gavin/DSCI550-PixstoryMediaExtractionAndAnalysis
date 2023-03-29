@@ -1,0 +1,11 @@
+
+Abstract
+Background
+Emerging evidence showed metformin may have pleiotropic effects on ameliorating depression. However, whether metformin was associated with decreased risk of depression remains unclear.
+Methods
+A historical cohort study was conducted based on a medical claim database from 2010 to 2017 in Beijing, China. Patients newly diagnosed with T2D were classified into the metformin and non-metformin groups according to their initial antidiabetic prescription. The incidences of depression between the groups were compared using Cox proportional regression model.
+Results
+There were 193,624 (37.4 %) and 323,930 (62.6 %) T2D patients in the metformin and non-metformin groups. The mean age was 54.9 (SD: 13.1) years and 53.9 % were females. With a median follow-up of 3.2 years, 64,963 patients developed depression. The adjusted incidence of depression in the metformin group (30.6, 95 % CI: 30.1, 31.0 per 1000 person-years) was significantly lower than in the non-metformin group (39.6, 95 % CI: 39.3, 40.0 per 1000 person-years, P < 0.001). The metformin group significantly associated with a lower risk of depression compared with the overall non-metformin group (HR: 0.77, 95%CI: 0.75, 0.78), as well as compared with α-glucosidase inhibitors (HR: 0.73, 95 % CI: 0.71, 0.74), sulfonylureas (HR: 0.84, 95 % CI: 0.82, 0.86), and glinides (HR: 0.85, 95 % CI: 0.82, 0.88), except for thiazolidinediones (HR: 0.96, 95 % CI: 0.91, 1.01). The association between metformin and lower depression risk was significant in all the age and sex subgroups.
+Conclusions
+Metformin was associated with a lower risk of depression compared with other oral hypoglycemic agents, indicating a potential pleiotropic effect on depression.
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0165032722010163

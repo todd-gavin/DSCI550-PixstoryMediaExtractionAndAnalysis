@@ -1,0 +1,21 @@
+Background Aims
+
+During the global coronavirus disease-2019 (COVID-19) pandemic, patients with pre-existing chronic liver disease may represent a vulnerable population. We studied the etiology-based temporal trends in mortality of chronic liver disease and the underlying cause of death in the United States before and during the COVID-19 pandemic.
+
+Methods
+
+Population-based analyses were performed on US national mortality records (2017- 2020). Temporal trends in quarterly age-standardized mortality were obtained by joinpoint analysis with estimates of quarterly percentage change (QPC).
+
+Results
+
+Quarterly age-standardized all-cause mortality due to alcohol-related liver disease (ALD) initially increased at a quarterly rate of 1.1% before the COVID-19 pandemic, followed by a sharp increase during the COVID-19 pandemic at a quarterly rate of 11.2%. Likewise, steady increase in mortality of nonalcoholic fatty liver disease (NAFLD) before the COVID-19 pandemic (QPC: 1.9%) accelerated during the COVID-19 pandemic (QPC: 6.6%). While ALD-related mortality increased steeply compared to viral hepatitis-related mortality during the COVID-19 pandemic, the proportion of mortality due to COVID-19 among individuals with ALD was the lowest at 2.5%; more than 50% lower than viral hepatitis. The significant decline in all-cause mortality due to viral hepatitis before the COVID-19 pandemic plateaued during the COVID-19 pandemic due to increase in COVID-19-related mortality in individuals with viral hepatitis. Mortality due to cirrhosis increased markedly during the COVID-19 pandemic, mainly attributable to ALD.
+
+Conclusion
+
+All-cause mortality for ALD and NAFLD rapidly accelerated during the COVID-19 pandemic compared to the pre-COVID-19 era. There has been a significant decline in viral hepatitis; however, a significant increase in COVID-related death in this population.
+
+Keywords
+
+alcohol-related liver diseasehepatitis C virus infectionhepatitis B infectionnonalcoholic fatty liver diseaseNational Vital Statistic System
+Abbreviations
+ALDalcoholic liver diseaseCIconfidence intervalCOVID-19coronavirus disease 2019DAAdirect-acting antiviralHBVhepatitis B virusHCVhepatitis C virusICD-10International Classification of Diseases Tenth RevisionNVSSnational vital statistic systemQPCquarterly percentage change

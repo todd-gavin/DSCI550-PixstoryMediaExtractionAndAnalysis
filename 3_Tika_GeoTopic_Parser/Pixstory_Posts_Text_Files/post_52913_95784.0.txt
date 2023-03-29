@@ -1,0 +1,6 @@
+Name: Roshni
+Father Name: Latoori Lal
+Age : 7
+Sex : Female
+Class : III
+Chintan

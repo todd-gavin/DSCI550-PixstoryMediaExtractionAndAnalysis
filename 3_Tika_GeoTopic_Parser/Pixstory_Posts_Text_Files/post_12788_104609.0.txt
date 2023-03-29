@@ -1,0 +1,5 @@
+Multiple Vulnerabilities in GitLab
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0255
+
+Multiple Vulnerabilities in Microsoft Edge (Chromium-based)
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0256

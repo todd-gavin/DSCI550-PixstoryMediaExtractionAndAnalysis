@@ -1,0 +1,5 @@
+Name aaniya
+Age 11
+Father isharkhan
+Gender female
+Ngo chintan

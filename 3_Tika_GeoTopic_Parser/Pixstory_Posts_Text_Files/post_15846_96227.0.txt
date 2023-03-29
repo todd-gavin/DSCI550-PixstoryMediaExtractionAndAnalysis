@@ -1,0 +1,17 @@
+Ranjit Mohan Anjana MD Viswanathan Mohan 
+
+Summary 
+
+Background 
+
+There is little information on comprehensive diabetes care comprising glycaemic, lipid, and blood pressure control in India; therefore, we aimed to assess the achievement of treatment targets among adults with self-reported diabetes. 
+
+Methods 
+
+The Indian Council of Medical Research (ICMR)-India Diabetes (INDIAB) study is a cross-sectional, population-based survey of adults aged 20 years or older in all 30 states and union territories of India. We used a stratified multistage sampling design, sampling states in a phased manner, and selected villages in rural areas and census enumeration blocks in urban areas. We used a three-level stratification method on the basis of geography, population size, and socioeconomic status for each state. For the outcome assessment, good glycaemic control was defined as HbA1c of less than 7·0% (A), blood pressure control was defined as less than 140/90 mm Hg (B), and the LDL cholesterol target was defined as less than 100 mg/dL (C). ABC control was defined as the proportion of individuals meeting glycaemic, blood pressure, and LDL cholesterol targets together. We also performed multiple logistic regression to assess the factors influencing achievement of diabetes treatment targets. 
+
+Interpretation 
+
+Achievement of treatment targets and adoption of healthy behaviours remains suboptimal in India. Our results can help governments to adopt policies that prioritise improvement of diabetes care delivery and surveillance in India. 
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S2213858722000729

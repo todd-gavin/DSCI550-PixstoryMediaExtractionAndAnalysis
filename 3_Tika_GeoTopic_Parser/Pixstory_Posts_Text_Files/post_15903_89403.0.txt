@@ -1,0 +1,7 @@
+Renu A.Kowluru Ghulam Mohammad 
+
+Abstract 
+
+Diabetes is now considered as a ‘silent epidemic’ that claims over four million lives every year, and the disease knows no socioeconomic boundaries. Despite extensive efforts by the National and International organizations, and cutting-edge research, about 11% world's population is expected to suffer from diabetes (and its complications) by year 2045. This life-long disease damages both the microvasculature and the macrovasculature of the body, and affects many metabolic and molecular pathways, altering the expression of many genes. Recent research has shown that external factors, such as environmental factors, lifestyle and pollutants can also regulate gene expression, and contribute in the disease development and progression. Many epigenetic modifications are implicated in the development of micro- and macro- vascular complications including DNA methylation and histone modifications of several genes implicated in their development. Furthermore, several noncoding RNAs, such as micro RNAs and long noncoding RNAs, are also altered, affecting many biochemical pathways. Epigenetic modifications, however, have the advantage that they could be passed to the next generation, or can be erased. They are now being explored as therapeutical target(s) in the cancer field, which opens up the possibility to use them for treating diabetes and preventing/slowing down its complications. 
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0026049521002201

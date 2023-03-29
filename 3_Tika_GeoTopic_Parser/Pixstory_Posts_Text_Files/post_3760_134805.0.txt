@@ -1,0 +1,13 @@
+By BestMediaInfo Bureau
+Reliance Industries has announced the launch of JioAirFiber device, which will provide fibre-like internet speed without wires, in their 45th AGM on Monday.
+As per an article published in Newsdrum, this means that one will be able to get speed akin to that of fixed broadband without actually going through the hassles of installing fixed cables at home.
+The Newsdrum article quotes Karan Taurani, of Elara Capital, stating that this will be a big disruption for the media industry in the near to medium term.
+Jio launched its wired broadband fibre service in H2FY20 which promised high fibre internet speeds and competitive pricing. Despite this, the wired broadband penetration remains low in India at 15%, as Jio failed to scale up due to last-mile issues with LCO/MSO ecosystem. 
+“We believe the concerns were primarily due to revenue sharing arrangements, which had prevented the aggregators from pushing Jio Fibre as a service. Companies like Hathway and Den too have tried hard to scale up their wired broadband services, but have failed to make a big impact,” said Taurani.
+Wired broadband vs wireless broadband
+India’s wireless broadband penetration is at 80%. However, the speed offered by it is just at 15 MBPS vs the wired broadband speeds of 40 MBPS. 
+For comparison, the wired broadband speeds are 133 MBPS in China and penetration stands at 91%, much higher than that of India at 15%. 
+The launch of JioAirFiber will enhance internet speeds, coupled with lesser logistical issues in the last mile, as it will be wireless, and it will further boost connectivity and speeds in the smaller markets (tier 2 and tier 3 cities), as per Newsdrum.
+Taurani termed JioAirFiber as the much-needed ‘oxygen’ for increasing smart TV penetration in the country.
+India’s smart TV penetration remains low at 10-15%. However, this is growing at a rapid pace (over 30% YoY growth) and may move towards penetration levels of 25-30% over the next three years, he said.
+Read the full story:- Reliance’s JioAirFiber to give a major boost to Smart TVs, OTTs in India

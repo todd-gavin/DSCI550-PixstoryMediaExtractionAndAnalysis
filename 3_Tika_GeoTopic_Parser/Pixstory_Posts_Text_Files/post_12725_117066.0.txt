@@ -1,0 +1,4 @@
+Multiple vulnerabilities in VMware products
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0299
+Multiple Vulnerabilities in Adobe Photoshop
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0298

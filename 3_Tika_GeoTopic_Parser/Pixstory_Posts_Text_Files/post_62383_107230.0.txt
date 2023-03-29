@@ -1,0 +1,12 @@
+How secure are we online?
+Is my information safe with the applications I use ?
+Yes! as long as you have the strongest password that is hard to hack. 
+How will I know that my password is strong or difficult to hack ?
+
+Follow the following tips:-
+
+1. Your password should include a combination of letters, numbers, and symbols rather than a phrase. 
+
+2. Your password should have 16-20 characters, to make it hard to hack. As the number of characters increases in a password the probability of its getting hacked reduces.
+
+3. Your password shouldn’t be repetitive in terms of its characters, with unique combinations instead.

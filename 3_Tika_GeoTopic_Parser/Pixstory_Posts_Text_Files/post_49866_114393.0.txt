@@ -1,0 +1,10 @@
+The government is providing Ofcom with extra tools to make sure tech companies act to deter, identify and remove child sexual abuse and exploitation content. These changes will be introduced in the Online safety bill aimed to police the internet.
+
+Ofcom will be able to put on fines of up to £18m or 10% of the company's global annual turnover, whichever is higher. The concern grows over how it will work in practice.
+
+And one of the main concerns encircles the popular end-to-end encryption (E2EE) or ultra-secure messaging - such as WhatsApp and Signal - and how that might be infiltrated.
+The government says it is supporting the development of tools that could distinguish child sexual abuse imagery content within or around an E2EE environment while respecting user privacy. It says this will educate the wider debate around user privacy and user safety.
+
+But Prof Alan Woodward from the University of Surrey told the BBC that to detect child abuse imagery or associated text, the current methods will only help with unencrypted data. However, experts say there is no way to make scanning technologies work for "good purposes" only.
+
+Source: BBC

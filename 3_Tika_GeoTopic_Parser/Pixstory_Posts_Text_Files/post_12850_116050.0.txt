@@ -1,0 +1,3 @@
+Privilege escalation vulnerability in Microsoft Windows Client Server Runtime Subsystem (CSRSS)
+
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBADV01&CACODE=CICA-2022-3070

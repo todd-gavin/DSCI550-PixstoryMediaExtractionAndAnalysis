@@ -1,0 +1,10 @@
+Abstract
+Aims
+To evaluate access to screening tools for monogenic diabetes in paediatric diabetes centres across the world and its impact on diagnosis and clinical outcomes of children and youth with genetic forms of diabetes.
+Methods
+79 centres from the SWEET diabetes registry including 53,207 children with diabetes participated in a survey on accessibility and use of diabetes related antibodies, c-peptide and genetic testing.
+Results
+73, 63 and 62 participating centres had access to c-peptide, antibody and genetic testing, respectively. Access to antibody testing was associated with higher proportion of patients with rare forms of diabetes identified with monogenic diabetes (54% versus 17%, p=0.01), lower average whole clinic HbA1c (7.7[Q1,Q2: 7.3-8.0]%/61[56-64]mmol/mol versus 9.2[8.6-10.0]%/77[70-86]mmol/mol, p<0.001) and younger age at onset (8.3 [7.3-8.8] versus 9.7 [8.6-12.7] years p<0.001). Additional access to c-peptide or genetic testing was not related to differences in age at onset or HbA1c outcome.
+Conclusions
+Clinical suspicion and antibody testing are related to identification of different types of diabetes. Implementing access to comprehensive antibody screening may provide important information for selecting individuals for further genetic evaluation. In addition, worse overall clinical outcomes in centers with limited diagnostic capabilities indicate they may also need support for individualized diabetes management.
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S016882272200924X

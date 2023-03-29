@@ -1,0 +1,5 @@
+Name Noori
+ father name firoj 
+Age  10 
+gender female
+ NGO Chintan

@@ -1,0 +1,6 @@
+Name : mohit
+Father : amresh
+Age : 11
+Class : vi
+Sex : male
+Sihani a

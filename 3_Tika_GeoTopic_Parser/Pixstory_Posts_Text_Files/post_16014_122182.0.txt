@@ -1,0 +1,23 @@
+A systematic review and meta-analysis 
+
+Highlights
+•
+Effects of nut consumption on components of metabolic syndrome were summarized.
+•
+Nut consumption led to a significant reduction in some components of lipids profile.
+•
+Nut intake had no effect on glycemic markers and blood pressure.
+
+Aims
+
+Randomized controlled trials evaluating the effects of nut consumption on the metabolic profile of healthy adults with overweight/obesity have yielded conflicting results. This systematic review and meta-analysis aimed to summarize the effects of incorporating nuts into the diet on serum lipid profile, glycemic markers, and blood pressure in healthy adults with overweight/obesity.
+
+Data Synthesis
+
+PubMed, Embase, Scopus, Web of Science, and Cochrane Library were searched up to April 2021. The random-effects model was used to determine the pooled effect sizes expressed as weighted mean difference (WMD) with % 95 confidence intervals (CIs). Ten eligible RCTs (with 12 arms) were included in the meta-analysis. The meta-analysis revealed that nut intake significantly decreased serum triglycerides (TG) (WMD: - 13.19 mg/dL, 95% CI: - 25.90, - 0.48). Furthermore, subgroup analysis showed a significant reduction in serum LDL-cholesterol (LDL-C) following adherence to normocaloric, nut-enriched diets (WMD: - 4.56 mg/dL, 95% CI: - 8.24, - 0.88). However, nuts did not affect serum total cholesterol, high-density lipoprotein cholesterol, glycemic markers, and blood pressure.
+
+Conclusions
+
+Overall, incorporating nuts into the diet of healthy adults with overweight/obesity have favorable effects on serum TG and LDL-C. Thus, nuts might exert protective effects against dyslipidemia in this population.
+
+Source : https://www.sciencedirect.com/science/article/abs/pii/S0939475322003180

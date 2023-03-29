@@ -1,0 +1,20 @@
+A new COVID variant has recently been detected in several countries including the UK, US, India, Australia and Germany.
+
+Called BA.2.75, it’s a subvariant of omicron. You might have also heard it called “Centaurus”, the name of a constellation and given to BA.2.75 by a Twitter user.
+
+The World Health Organization has classified BA.2.75 as a variant of interest, rather than a variant of concern. This means it’s being monitored but there’s not yet evidence it will cause problems.
+
+The numbers of BA.2.75 infections are still relatively low. Most infections in the UK remain driven by the omicron subvariants BA.4 and BA.5. BA.5 in particular is similarly dominant in other countries where BA.2.75 has been detected.
+
+However, BA.2.75 is becoming more common in India (where it was first detected, back in May), suggesting it has advantages relative to current circulating variants. Some have noted that BA.2.75 is spreading in regions of India where it doesn’t have to compete with BA.5, but rather with the variant it evolved from, BA.2.
+
+That said, some data from India indicates that BA.2.75 may have already peaked. And importantly, there hasn’t been a big increase in hospitalisations or deaths in India from BA.2.75.
+
+Why are we still seeing new variants?
+As most of the global population has now either been vaccinated, infected, or both, variants which can infect people despite their immunity will have an advantage. So SARS-CoV-2 (the virus that causes COVID) is constantly evolving to gain this advantage.
+
+New variants which have mutations that evade our immunity will replicate and spread, leading to waves of infections. We’ve seen this most recently with BA.4 and BA.5.
+
+The memory immune system recognises infections based on molecular structures of viruses and other pathogens. Mutations change the molecular structure of each SARS-CoV-2 variant slightly, making it more difficult for our immune system to recognise and respond to the virus. This is often called “immune evasion”.
+
+Read more: https://theconversation.com/centaurus-what-we-know-about-the-new-covid-variant-and-why-theres-no-cause-for-alarm-187243

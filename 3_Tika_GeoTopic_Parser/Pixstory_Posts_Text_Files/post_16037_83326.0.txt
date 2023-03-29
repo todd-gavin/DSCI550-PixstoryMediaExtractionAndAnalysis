@@ -1,0 +1,18 @@
+Abstract
+Background and aims
+Gestational diabetes mellitus (GDM) is one of the commonest medical complications of pregnancy. Annexin A5 (ANXA5) is a protein, found in apical surfaces of syncytiotrophoblasts, which prevents fetal and placental vascular thrombosis in GDM. Apelin is a bioactive peptide which has been linked to GDM. The aim of the present study was to correlate macroscopic as well as microscopic changes and immunohistochemical expression of ANXA5 and apelin in placentae of GDM with maternal and neonatal clinical features and also to compare the results with those in matched controls.
+
+Methods
+This prospective observational study was undertaken for a period of one year from April 2020 to March 2021. It comprised of 42 patients of GDM. Gross features, microscopic features and intensity and grade of expression of ANXA5 and Apelin were analysed in placentae of GDM.
+
+Results
+Morphological changes detected in GDM placentae included increased immature villi (16 cases, 38%), increased syncytial knots (36, 86%), perivillous fibrin deposition (20, 48%), fibrosis of villous stroma (20, 48%), presence of nucleated red blood cells (12, 28.5%) and hypervascularity (34, 81%). The extent of histopathological changes noted in GDM placentae was significantly higher than that in matched controls. GDM placentae showed significantly reduced expression of ANXA5 and Apelin in terms of grade and intensity when compared with matched controls. Reduced expression (mild intensity) of ANXA5 was noted in 22 GDM cases (52.3%) whereas apelin expression was of weak intensity in 26 (61.9%) cases. Among GDM patients, statistically significant association was noted between ANXA5 intensity and neonatal resuscitation, apelin grade and preterm birth as well as low birth weight and apelin intensity and requirement of treatment in sick neonatal care unit.
+
+Clinicopathological study and immunohistochemical analysis of expression of annexin A5 and apelin in human placentae of gestational diabetes mellitus
+
+
+Conclusion
+The placental expression of the proteins, ANXA5 and Apelin, is altered in GDM though their exact pathogenetic mechanisms are yet to be understood. They can be targets for development of prophylactic and therapeutic agents in future.
+
+Keywords
+ANXA5ApelinClinicopathological analysisGestational diabetes mellitusPlacenta

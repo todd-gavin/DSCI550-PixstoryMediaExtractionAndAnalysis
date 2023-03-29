@@ -1,0 +1,10 @@
+Abstract
+Aims
+Pemafibrate, a novel selective peroxisome proliferator-activated receptor modulator, was shown to ameliorate lipid abnormalities in a phase III clinical trial of patients with type 2 diabetes mellitus (T2DM). However, its efficacy has not been demonstrated in real-world clinical practice in patients with T2DM.
+Methods
+We performed a multi-center prospective observational study of the use of pemafibrate in patients with T2DM and hypertriglyceridemia versus conventional therapy, with or without a fibrate. The primary outcomes were the changes from baseline in fasting serum triglyceride (TG) and high-density lipoprotein-cholesterol (HDL-C) concentrations at week 52.
+Results
+We recruited 650 patients, and data from 504 (252 per group) were analyzed after propensity score matching. In the pemafibrate group, both TG and HDL-C showed significant improvements (p<0.001), and several indices reflecting TG-rich lipoproteins, low-density lipoprotein-cholesterol particle size, and liver enzyme elevations were significantly ameliorated compared with the control group, but there was no difference in glycemic control markers. One of the key secondary endpoints showed that switching from conventional fibrates to pemafibrate improved eGFR but increased uric acid concentration.
+Conclusions
+In patients with T2DM, pemafibrate has superior effects on lipid profile as well as liver and renal dysfunction to conventional fibrates.
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0168822722009056

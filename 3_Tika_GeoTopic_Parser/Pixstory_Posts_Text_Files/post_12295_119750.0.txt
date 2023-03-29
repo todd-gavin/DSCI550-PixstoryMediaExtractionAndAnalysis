@@ -1,0 +1,3 @@
+AI which stands for artificial intelligence refers to systems or machines that mimic human intelligence to perform tasks and can iteratively improve themselves based on the information they collect. AI manifests in a number of forms.
+
+AI is based on the principle that human intelligence can be defined in a way that machines can complete the long time taking task in an easy way. AI adds intelligence to existing products. Many products you already use will be improved with AI capabilities, much like Siri was added as a feature to a new generation of Apple products.

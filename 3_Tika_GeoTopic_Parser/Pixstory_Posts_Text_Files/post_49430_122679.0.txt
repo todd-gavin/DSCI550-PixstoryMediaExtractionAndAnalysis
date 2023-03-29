@@ -1,0 +1,7 @@
+One of the most difficult aspects of adopting AI is the inability to incorporate ethics and morality, both of which are vital human characteristics.
+
+To make decisions and predictions, AI relies solely on data and algorithms. As a result, bias may be embedded in the data, whether conscious or unconscious, and may result in discriminating output because it can only focus on logical conclusions. As AI progresses, the inability to include ethical considerations may become a serious worry, necessitating global talks.
+
+Artificial intelligence (AI) may end up jeopardising digital, physical, and political security. Its usage has the potential to be fatal. Criminals training computers to hack or socially engineer victims at human or superhuman levels of competence, non-state actors weaponizing consumer drones, privacy-eroding monitoring, profiling, and repression, or automated and targeted disinformation campaigns are just a few examples.
+
+Considering only rich people will most likely be able to afford AI, it's going to end up in major exploitation of the poor and the working class. Authoritarian governments would use it, or already using it, to torture their public. A lot of people will get away with crimes, even the heinous ones. So, I'm not sure if AI's pros actually outweighs its con. Technology is meant to help humans, not take over them. It should be in our control, not the other way round.

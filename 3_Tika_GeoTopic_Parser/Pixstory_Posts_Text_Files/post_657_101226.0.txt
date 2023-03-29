@@ -1,0 +1,32 @@
+A real life study at Helsinki-Vantaa, International Airport Finland showed trained 
+scent dogs screened  airport passenger samples with high accuracy (98 percent) -Researchers suggest dogs can be a viable option in covid detection in large gatherings . 
+The results have been published in BMJ global health. 
+ Four dogs were trained to detect COVID-19
+using skin swabs from individuals tested for SARS-CoV-2 by RT-PCR. In their study, researchers revealed that controlled triple-blinded validation study comprised four identical sets of 420 parallel samples-from 114 individuals tested positive and 306 negative
+by RT-PCR we’re randomly presented to each dog over seven sessions. In a real-life setting the dogs screened skin swabs from 303 incoming passengers with 98 percent accuracy. 
+
+Conclusion published by the researchers .
+Conclusions This large randomised controlled triple-
+blinded validation study with a precalculated sample size conducted at an international airport showed that trained scent dogs screen airport passenger samples with high accuracy. One of our findings highlights the importance of continuous retraining as new variants emerge. Using scent dogs may present a valuable approach for high-throughput, rapid screening of large numbers of people.
+
+Read more from the researchers: 
+
+WHAT IS ALREADY KNOWN ON THIS TOPIC
+- Previous data suggest that scent dogs can discriminate between samples from individuals infected with SARS-CoV-2 and controls.
+WHAT THIS STUDY ADDS
+Scent dogs showed high diagnostic accuracy in a
+randomised, controlled, triple-blinded validation test
+with sample size based on power calculations.
+Scent dogs trained with wild-type SARS-CoV-2 virus also mastered identification of other variants,
+although less accurately, revealing their robust dis-
+criminatory power and indicating a need for contin-
+ual training to deal with emerging new varants of
+concer
+HOW THIS STUDY MIGHT AFFECT RESEARCH,
+PRACTICE AND/OR POLICY
+- Scent dog detection can serve as a prescreening
+method to save time and resources or even as the
+sole testing method when other approaches are not
+yet available--for example, at the early stages of a
+pandemic.
+Scent dogs trained to screen SARS-CoV-2 carriers at a public international airport, and other similar mass gatherings, can provide a valuable tool to contain the epidemic.

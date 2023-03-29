@@ -1,0 +1,12 @@
+UK security services have been constantly warning apple to revive its controversial plans to scan iPhones for child abuse imagery, the inventor of the scanning technology has argued.
+
+Prof Hany Farid, an expert in image analysis at the University of California, Berkeley, is the inventor of PhotoDNA, an “image hashing” technique used by companies across the web to identify and eliminate illegal images. 
+“The pushback was from a relatively small number of privacy groups,” Farid said, speaking to the Internet Watch Foundation (IWF) on the child safety group’s latest podcast. “I contend that the vast majority of people would have said ‘sure, this seems perfectly reasonable, but yet a relatively small but vocal group put a huge amount of stress on Apple.
+
+“I think they should have stuck their ground and said: ‘This is the right thing to do and we are going to do it.’ And I am a strong advocate of not just Apple doing this, but Snap doing this, and Google doing this – all the online services doing this.”
+
+Considering the plea of privacy groups (privacy for which Apple is known), the company shelved the proposal in September that year and has not talked about it publicly since. But in July, the leads of the UK’s security services published a paper clarifying their belief that such scanning could be deployed in a way that satisfied some fears, such as the concern that an oppressive nation could hijack the scanning to search for politically controversial imagery.
+
+“Details matter when talking about this subject,” Ian Levy and Crispin Robinson wrote. “Discussing the subject in generalities, using ambiguous language or hyperbole, will almost certainly lead to the wrong outcome.”
+
+Source: The Guardian

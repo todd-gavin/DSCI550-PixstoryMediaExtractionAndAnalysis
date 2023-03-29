@@ -1,0 +1,17 @@
+Enzo Bonora Salvatore Cataudella Giulio Marchesini RobertoMiccoli Olga Vaccaro Gian P.Fadini Nello Martini Elisa Rossi 
+
+Abstract 
+
+Background and aims 
+
+To investigate diabetes treatment initiation and continuation in the next sixth months in newly diagnosed Italian subjects. 
+
+Methods and results 
+
+We analyzed administrative claims of 11,300,750 Italian residents. Subjects with incident diabetes were identified by glucose lowering drug prescriptions, disease-specific co-payment exemptions and hospital discharge codes occurring in 2018 but not in 2017. Incident cases were 65,932 of whom 91.4% received the prescription of a glucose lowering drug. Among the latter, those receiving a prescription of a noninsulin medication but no insulin were 84.8%, those receiving a prescription of insulin only were 9.4%, and those receiving prescriptions of both insulin and noninsulin drugs were 5.8%. Metformin was the most frequently drug initially prescribed in noninsulin treated subjects (~85%) and sulphonylurea receptor (SUR) agonists collectively ranked as second (~13%). Lispro (35%) and glargine (34%) were the most frequently prescribed molecules in subjects who were insulin treated. Differences in prescriptions were found in age categories, with increased use of SUR agonists across decades. In the first six months, as many as 50% of noninsulin treated patients continued with the initial drug, ~15% added a second agent, ~5% switched to another medication, and ~30% discontinued any glucose lowering treatment. 
+
+Conclusions 
+
+These data document that current guidelines are often neglected because prescriptions of SUR agonists as first agent are still quite common and insulin is prescribed more than expected. They point out the urgent need to improve the dissemination and implementations of guidelines in diabetes care.
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0939475321002830

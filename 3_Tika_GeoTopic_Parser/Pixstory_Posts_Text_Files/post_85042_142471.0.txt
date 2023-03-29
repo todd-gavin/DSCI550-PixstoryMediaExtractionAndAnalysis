@@ -1,0 +1,12 @@
+COUNTIF, one of the statistical functions, can be used to count the number of cells that meet a criterion, such as the number of times a specific city appears in a customer list.
+The COUNTIF function in Microsoft Excel counts the number of cells in a range that meet a set of criteria.
+The COUNTIF function is an Excel built-in function that is classified as a Statistical Function. It can be used in Excel as a worksheet function (WS). The COUNTIF function is a worksheet function that can be used as part of a formula in a worksheet cell.
+COUNTIF, in its most basic form, says:
+=COUNTIF(Where do you want to look?, What are you looking for?)
+range
+The range of cells that you want to count based on the criteria.
+criteria
+The criteria used to determine which cells to count.
+As an example:
+=COUNTIF(A2:A5,"London")
+=COUNTIF(A2:A5,A4)

@@ -1,0 +1,11 @@
+On average, happiness declines as we approach middle age, bottoming out in our 40s but then picking back up as we head into retirement, according to a number of studies. This so-called U-shaped curve of happiness is reassuring but, unfortunately, probably not true.
+My analysis of data from the European Social Survey shows that, for many people, happiness actually decreases during old age as people face age-related difficulties, such as declining health and family bereavement. The U-shaped pattern was not evident for almost half of the 30 countries I investigated.
+So why the difference?
+My study corrects a misinterpretation of research methods in previous studies. The U-shaped idea comes from statistical analyses that adjust data to compare people of similar wealth and health in middle and old age. That adjustment is intended to isolate the effect of age from other factors that influence happiness.
+But given that people often become poorer and less healthy during old age, the adjustment can be misleading. When we omit the adjustment, an age-related decline in happiness becomes evident in many countries.
+This decline is steeper in countries with a less effective welfare state. That’s especially true of Turkey, where happiness (measured on a scale from zero to ten) falls on average from 6.4 at retirement age to less than 5.0 among the very old.
+For Estonia, Slovakia and the Czech Republic, happiness falls steadily, beginning in people’s early 30s.
+For the Netherlands, in contrast, happiness increases from the age of 30 and then holds steady even in old age. In Finland, happiness remains pretty constant across the life course, at above eight on the zero-to-ten scale.
+In short, there’s no universal pattern of happiness. Instead, there’s a wide range of patterns across different countries. It shouldn’t be terribly surprising that different social conditions contribute to different outcomes.
+The U-shaped idea is appealing in part because it’s counter-intuitive: sure, life gets harder in old age, but even so, people get happiest.
+Read more: https://theconversation.com/the-u-shaped-happiness-curve-is-wrong-many-people-do-not-get-happier-as-they-get-older-189490

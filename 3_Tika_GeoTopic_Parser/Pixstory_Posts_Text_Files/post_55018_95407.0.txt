@@ -1,0 +1,6 @@
+Name -Rehmat
+Father- Salamuddin
+Age-11
+Sex - male
+Class-7
+Chintan

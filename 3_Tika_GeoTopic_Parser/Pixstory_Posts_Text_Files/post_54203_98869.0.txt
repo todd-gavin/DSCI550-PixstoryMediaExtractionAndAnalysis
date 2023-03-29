@@ -1,0 +1,13 @@
+Sunscreen bottles are frequently labeled as “reef-friendly” and “coral-safe.” These claims generally mean that the lotions replaced oxybenzone – a chemical that can harm corals – with something else. But are these other chemicals really safer for reefs than oxybenzone?
+
+This question led us, two environmental chemists, to team up with biologists who study sea anemones as a model for corals. Our goal was to uncover how sunscreen harms reefs so that we could better understand which components in sunscreens are really “coral-safe.”
+
+In our new study, published in Science, we found that when corals and sea anemones absorb oxybenzone, their cells turn it into phototoxins, molecules that are harmless in the dark but become toxic under sunlight.
+
+Protecting people, harming reefs
+Sunlight is made of many different wavelengths of light. Longer wavelengths – like visible light – are typically harmless. But light at shorter wavelengths – like ultraviolet light – can pass through the surface of skin and damage DNA and cells. Sunscreens, including oxybenzone, work by absorbing most of the UV light and converting it into heat.
+
+Coral reefs around the world have suffered in recent decades from warming oceans and other stressors. Some scientists thought that sunscreens coming off of swimmers or from wastewater discharges could also be harming corals. They conducted lab experiments that showed that oxybenzone concentrations as low as 0.14 mg per liter of seawater can kill 50% of coral larvae in less than 24 hours. While most field samples typically have lower sunscreen concentrations, one popular snorkeling reef in the U.S. Virgin Islands had up to 1.4 mg oxybenzone per liter of seawater – more than 10 times the lethal dose for coral larvae.
+Likely inspired by this research and a number of other studies showing damage to marine life, Hawaii’s legislators voted in 2018 to ban oxybenzone and another ingredient in sunscreens. Soon after, lawmakers in other places with coral reefs, like the Virgin Islands, Palau and Aruba, implemented their own bans.
+
+Read more- https://theconversation.com/corals-and-sea-anemones-turn-sunscreen-into-toxins-understanding-how-could-help-save-coral-reefs-182311

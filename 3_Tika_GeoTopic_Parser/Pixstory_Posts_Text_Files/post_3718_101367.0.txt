@@ -1,0 +1,15 @@
+By BestMediaInfo Bureau 
+
+WhatsApp has announced the launch of WhatsApp Cloud API to all businesses worldwide.
+
+While making the announcement, Mark Zuckerberg, Meta CEO, said, “Already more than one billion users connect with a business account across our messaging services every week. They're reaching out for help, to find products and services and to buy anything from big-ticket items to everyday goods. And today, I am excited to announce that we're opening WhatsApp to any business of any size around the world with WhatsApp Cloud API.”
+
+Meta said that this new service will eliminate costly server expenses and give businesses instant access to new features. “This will allow businesses and developers to get up and running on WhatsApp in a matter of minutes – and will allow them to build directly on top of WhatsApp to further customise their experience and increase the speed at which they can respond to their customers.”
+
+Meta is also working on advanced features for businesses to help them run their operations beyond just a few people and further amplify their brand online – like the ability to manage chats across up to 10 devices so they can better handle an influx of chats.
+
+Meta will provide new customisable WhatsApp click-to-chat links to help businesses attract customers across their online presence. It said, “We plan to offer these as additional, optional features for a fee in the WhatsApp Business app as part of a new premium service.”
+
+Zuckerberg said, “In just a few minutes, any business or developer can easily access our service, build directly on top of WhatsApp to customise their experience and speed up their response time to customers by using our secure WhatsApp Cloud API hosted by Meta. And this is an important step to help more businesses connect with people and help more people message the businesses that they want to support – big and small.”
+
+Although, the messaging app also pointed out that people will always remain in control of the businesses they chat with and businesses cannot message people unless they have requested to be contacted. 

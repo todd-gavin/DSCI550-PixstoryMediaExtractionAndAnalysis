@@ -1,0 +1,27 @@
+Getting tests done, monitoring and diagnosing diseases can be a lot of painful and more of clunky process.
+
+But researchers like Huanyu "Larry" Cheng, Dorothy Quiggle Career Development Assistant Professor of Engineering Science and Mechanics at Penn State are working on improving the health system with their innovative wearable sensors that collect data for clinicians while limiting discomfort for the patients. 
+
+Cheng have brought new components and approaches to create such devices that are wearable head scanners, needle-free glucose monitors, wearable antennas and printable electronics. 
+
+These sensors are made with flexible electronics and are capable of monitoring patients physical motions and chemical signals in their sweat, skin and more to help diagnose or inform treatment plans. 
+
+Now Cheng is working to make devices sustainable, resilient and self-charging. 
+
+"There's a significant need for environmentally-friendly, self-charging sensors that can monitor patients' vital signs without contributing to their physical or financial stress -- and we're finding those solutions can be applied to a broad range of challenges," Cheng said. "My research program is focused on understanding the interactions and limits of various materials, with the goal of fabricating new methods and devices to address these issues." 
+
+Self-powered, rechargeable wearables 
+
+Developing flexible, economical sensors is one thing; powering them is another. Although self-charging power units for stretchable energy harvesters already exist, they are expensive to fabricate, heavy to carry and "suffer from low and unstable output power," according to Cheng. 
+
+From tissue paper to pressure readings 
+
+Tissue paper decorates presents, protects breakables and, thanks to Cheng and his team, monitors blood pressure and respiratory conditions. 
+
+The device is created by dipping a piece of tissue paper into conductive material, which is then pressurized to create a 3D scaffold and encapsulated to become a sensor that sticks to the skin.
+
+According to Cheng, it is a much smaller and easier device to use than a conventional blood pressure monitor, which uses a cuff to maintain pressure to an arm to get a single reading. 
+
+The device amasses data on blood pressure, heart rate and cardiac activity, which can be sent to a health care provider through a Bluetooth smartphone app. 
+
+Read more - https://www.sciencedaily.com/releases/2022/03/220301205420.html

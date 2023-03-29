@@ -1,0 +1,5 @@
+CERT-In has published Vulnerability Notes on its website (30.09.2022)
+Multiple Vulnerabilities in Microsoft Exchange Sever
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0371
+Multiple Vulnerabilities in Google Chrome for Desktop
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0372

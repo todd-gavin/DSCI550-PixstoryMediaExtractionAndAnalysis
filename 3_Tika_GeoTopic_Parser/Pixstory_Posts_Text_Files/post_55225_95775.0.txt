@@ -1,0 +1,6 @@
+Name-Afsara
+Father's Name-Alam
+Age-8
+Sex-Female
+Class-III
+Chintan

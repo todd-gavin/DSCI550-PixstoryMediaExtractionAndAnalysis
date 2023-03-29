@@ -1,0 +1,15 @@
+Some days back a parents ( who is a friend ) called me to ask about his teenage child wanting to join a health app. 
+I thought it was a good idea. 
+As a lot of people claim these apps have transformed their lives . 
+A report which I just read however puts a question mark on data safety of these apps worldwide. 
+
+A report published in The Verge says As a category, mental health apps have worse privacy protections for users than most other types of apps, according to a new analysis from researchers at Mozilla. Prayer apps also had poor privacy standards, the team found.
+Read on 
+
+The vast majority of mental health and prayer apps are exceptionally creepy,” Jen Caltrider, the Mozilla *Privacy Not Included guide lead, said in a statement. “They track, share, and capitalize on users’ most intimate personal thoughts and feelings, like moods, mental state, and biometric data.”
+
+In the latest iteration of the guide, the team analyzed 32 mental health and prayer apps. Of those apps, 29 were given a “privacy not included” warning label, indicating that the team had concerns about how the app managed user data. The apps are designed for sensitive issues like mental health conditions, yet collect large amounts of personal data under vague privacy policies, the team said in the statement. Most apps also had poor security practices, letting users create accounts with weak passwords despite containing deeply personal information.
+
+The apps with the worst practices, according to Mozilla, are Better Help, Youper, Woebot, Better Stop Suicide, Pray.com, and Talkspace. The AI chatbot Woebot, for example, says it collects information about users from third parties and shares user information for advertising purposes. Therapy provider Talkspace collects user chat transcripts.
+
+https://www.theverge.com/2022/5/2/23045250/mozilla-mental-health-app-privacy-analysis

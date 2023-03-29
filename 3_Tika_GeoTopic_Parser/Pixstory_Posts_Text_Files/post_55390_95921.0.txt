@@ -1,0 +1,6 @@
+Name : ishant
+Father : sunil
+Age : 11
+Class : v
+Sex : female
+Sihani old

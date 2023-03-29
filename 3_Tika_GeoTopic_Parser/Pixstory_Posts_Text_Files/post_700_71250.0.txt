@@ -1,0 +1,18 @@
+The Janus kinase (JAK) inhibitor baricitinib, which is also used to treat rheumatoid arthritis, is strongly recommended for patients with severe or critical covid-19 in combination with corticosteroids, an expert group from the World Health Organization has written in The BMJ.1
+
+WHO’s Guideline Development Group found moderate certainty evidence that baricitinib improved survival and reduced the need for ventilation, with no observed increase in adverse effects.
+
+Baricitinib has similar effects to interleukin 6 inhibitors, which are also used to treat arthritis, so when both drugs are available the expert group suggests choosing one on the basis of cost, availability, and clinician experience. It does not recommend using both drugs at the same time.
+
+The group also advises against using two other JAK inhibitors—ruxolitinib and tofacitinib—in patients with severe or critical covid-19 because evidence from small trials failed to show benefit and suggested a possible increase in serious side effects with tofacitinib.
+
+The WHO group has also made a conditional recommendation for the use of the monoclonal antibody sotrovimab in patients with non-severe covid-19, but only in those at highest risk of hospital admission, reflecting fewer benefits in those at lower risk.
+
+Last December the UK’s Medicines and Healthcare Products Regulatory Agency approved sotrovimab for people aged over 12 with mild to moderate covid-19 who were at high risk of developing severe disease, after it was shown to reduce the risk of hospital admission and death by 79% in high risk adults with symptomatic covid-19.2
+
+Living guideline
+WHO has already approved the monoclonal antibody casirivimab-imdevimab and found insufficient data to recommend one monoclonal antibody treatment over another. It also acknowledged that the effectiveness of these drugs against new variants such as omicron was still uncertain but said that it would update the guidelines when data became available.
+
+The latest recommendations are based on evidence from seven trials involving over 4000 patients with non-severe, severe, and critical covid-19. They add to previous recommendations for the use of interleukin 6 receptor blockers and systemic corticosteroids in patients with severe or critical covid-19. 
+
+https://www.bmj.com/content/376/bmj.o97

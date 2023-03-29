@@ -1,0 +1,13 @@
+A sticky note is a small rectangular piece of paper that we can stick on a wall, and move around. It has three key characteristics — color, size, and stickiness. 📝
+And with just these three, they are a key tool of modern product, design and business strategy.
+
+A sticky note is a function that you access from any artifact. Sticky notes are used as reminders. Sticky notes can be used for project-related work or non-project related work. For example, a sticky note can be created to a human task reminding the developer to email a document to a manager.
+
+
+What makes sticky notes so special?
+
+#1 Sticky notes help us capture new information quickly.
+Writing something down on a sticky note gives us the ability to quickly capture a new piece of data or information we’ve gathered from the universe.
+
+#2 They help us make sense of information efficiently.
+We as species are visual thinkers — Half of the human brain is devoted directly or indirectly to vision.

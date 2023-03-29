@@ -1,0 +1,8 @@
+Denial of Service (DoS) vulnerability in Yokogawa CENTUM controller FCS
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0328
+
+Privilege escalation vulnerability in Zoom Client for Meetings
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0327
+
+Multiple Vulnerabilities in Schneider Electric Products
+https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0326

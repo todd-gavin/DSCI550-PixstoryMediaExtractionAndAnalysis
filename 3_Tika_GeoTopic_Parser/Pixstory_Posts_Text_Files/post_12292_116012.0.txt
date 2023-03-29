@@ -1,0 +1,17 @@
+Even during the COVID times, our college managed us to keep focused and active when it comes to technology. These three workshops, were conducted virtually to highlight the importance of technology in today's generation 
+
+1. AI / ML WORKSHOP 
+Full Day workshop on AI/ML for Faculties of our college was conducted by Capgemini. 
+The workshop dealt with crucial concepts in the field of AI/ML like ML & DL algorithms, 
+application of AI/ML across industries and roles & responsibilities of a Data Science 
+Project. 
+
+2.COVID 19 TRACKER APP DEVELOPMENT WORKSHOP 
+Workshop on "Development of Covid-19 TrackApp" was conducted by AI Probably. 
+The workshop covered essential subject matters like how to take an idea from concept to production, how to work with Rest API's and much more. The session was informative and gave a good understanding of cloud 
+deployment concepts and best practices.
+
+3.CLOUD COMPUTING WORKSHOP 
+Guest session was arranged on the topic "Practical Session on Cloud Computing" on 
+for all final year students. The session was based on EHCP (Easy Hosting 
+Control Panel). The speaker of the session was Mr. Vishal Sable. He is a Deputy Manager at Reliance Jio. Armed with over 18 years of experience in core networking, data center, Telecom domain and Carrier Networks, Mr. Sable has qualitative cross-functional experience in Project Planning, Execution and Technical Services.

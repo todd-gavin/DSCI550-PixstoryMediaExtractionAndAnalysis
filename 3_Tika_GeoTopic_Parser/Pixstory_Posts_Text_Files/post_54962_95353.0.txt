@@ -1,0 +1,5 @@
+Name Guriya
+Age 11
+Gender Female
+Father's name Pramod kapar
+NGO Chintan

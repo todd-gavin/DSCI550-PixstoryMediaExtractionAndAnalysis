@@ -1,0 +1,6 @@
+Name-Ayesha 
+Father  Name-Rabbain
+Age-12
+Sex-female
+Class-VIII
+Chintan

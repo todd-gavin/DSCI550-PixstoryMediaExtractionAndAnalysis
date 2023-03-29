@@ -1,0 +1,17 @@
+Yan Xie MPH Ziyad Al-Aly MD 
+
+Summary 
+
+Background 
+
+There is growing evidence suggesting that beyond the acute phase of SARS-CoV-2 infection, people with COVID-19 could experience a wide range of post-acute sequelae, including diabetes. However, the risks and burdens of diabetes in the post-acute phase of the disease have not yet been comprehensively characterised. To address this knowledge gap, we aimed to examine the post-acute risk and burden of incident diabetes in people who survived the first 30 days of SARS-CoV-2 infection. 
+
+Methods 
+
+In this cohort study, we used the national databases of the US Department of Veterans Affairs to build a cohort of 181 280 participants who had a positive COVID-19 test between March 1, 2020, and Sept 30, 2021, and survived the first 30 days of COVID-19; a contemporary control (n=4 118 441) that enrolled participants between March 1, 2020, and Sept 30, 2021; and a historical control (n=4 286 911) that enrolled participants between March 1, 2018, and Sept 30, 2019. Both control groups had no evidence of SARS-CoV-2 infection. Participants in all three comparison groups were free of diabetes before cohort entry and were followed up for a median of 352 days (IQR 245–406). We used inverse probability weighted survival analyses, including predefined and algorithmically selected high dimensional variables, to estimate post-acute COVID-19 risks of incident diabetes, antihyperglycaemic use, and a composite of the two outcomes. We reported two measures of risk: hazard ratio (HR) and burden per 1000 people at 12 months. 
+
+Interpretation 
+
+In the post-acute phase, we report increased risks and 12-month burdens of incident diabetes and antihyperglycaemic use in people with COVID-19 compared with a contemporary control group of people who were enrolled during the same period and had not contracted SARS-CoV-2, and a historical control group from a pre-pandemic era. Post-acute COVID-19 care should involve identification and management of diabetes. 
+
+Sources  - https://www.sciencedirect.com/science/article/pii/S2213858722000444

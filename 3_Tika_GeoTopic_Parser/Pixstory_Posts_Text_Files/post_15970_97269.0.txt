@@ -1,0 +1,20 @@
+Pedro L.Valenzuela PhD Alejandro Lucia MD 
+
+Introduction 
+
+Whether diabetes is associated with hypertension risk remains controversial, potentially owing to the confounding effect of lifestyle. This study aims to analyze the association between diabetes and hypertension in adults and the mediating impacts of lifestyle. 
+
+Methods 
+
+A cohort of Spanish workers (aged 18–64 years) insured by an occupational risk prevention company participated in this nationwide cross-sectional study between 2012 and 2016 (data analysis was performed in 2021). Participants’ lifestyle‒related factors—BMI, sleeping hours, alcohol, smoking, and physical activity—were assessed, and the prevalence of hypertension and diabetes was registered. 
+
+Results 
+
+A total of 451,157 participants (33.1% women, aged 44.5 [SD=9.2] years, 3.2% with diabetes, and 29.3% with hypertension) with complete data for all variables were assessed. Having diabetes was associated with a higher prevalence of hypertension even after adjusting for all lifestyle-related factors (OR=1.44, 95% CI=1.43, 1.48), and people with diabetes and hypertension had a higher prevalence of mild kidney function impairment than people with diabetes alone (OR=1.06, 95% CI=1.01, 1.13). However, people with diabetes and an optimal lifestyle—normal weight and sleeping hours, absent-to-little alcohol drinking, nonsmoking, and regular physical activity—presented a prevalence of hypertension comparable with that of those without diabetes (OR=1.00, 95% CI=0.71, 1.32). In separate analyses among people with diabetes, an optimal lifestyle was associated with a lower prevalence of hypertension than the worse—opposite—lifestyle (OR=0.29, 95% CI=0.18, 0.53). The lifestyle-related factors showing the strongest inverse association with adjusted risk of hypertension were normal weight (OR=0.49, 95% CI=0.42, 0.53 versus overweight/obesity) and regular physical activity (OR=0.79, 95% CI=0.74, 0.82 versus inactivity). 
+
+Conclusions 
+
+Diabetes is positively and largely independently associated with hypertension risk. Yet, a healthy lifestyle can attenuate this association.
+
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0749379722000976

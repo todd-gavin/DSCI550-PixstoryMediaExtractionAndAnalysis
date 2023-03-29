@@ -1,0 +1,5 @@
+Name Khushi 
+father name Prakash
+ age 12
+Gender Female
+N.g.o Chintan

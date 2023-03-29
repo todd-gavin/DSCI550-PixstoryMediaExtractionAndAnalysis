@@ -1,0 +1,16 @@
+If you want to understand why some sandcastles are tall and have intricate structures while others are nearly shapeless lumps of sand, it helps to have a background in geotechnical engineering.
+
+As a geotechnical engineering educator myself, I use sandcastles in the classroom to explain how interactions of soil, water and air make it possible to rebuild landscapes after mining metals critical to the energy transition.
+
+Building a sandcastle comes down to the right mix of those three ingredients. Sand provides the structure, but it’s water between the sand grains that provides the force – in this case, suction – that holds the sand together. And without the right amount of air the water would just push the sand grains apart.
+
+Not just any sand
+Sand grains, according to the standards body ASTM International’s Unified Soil Classification System, are soil particles having a diameter of 0.003 inches (0.075 mm) to 0.187 inches (4.75 mm). Sands, by definition, have at least half their particles in that range. Silt or clay is soil with particles smaller than sand size. And soil with particles larger than sand size is gravel.
+
+The size of particles, or grains, also determines the way sand looks and feels. The smallest sand grains have a texture almost like powdered sugar. The largest grains are more like the size of small dry lentils.
+
+Most sand will work for building a sandcastle, but the best sand has two characteristics: grains of sand in several different sizes and grains with angular or rough edges. Variation in grain size allows smaller sand grains to fill the pockets, or pores, between the larger sand grains. The result is increased sand strength.
+
+Sand grains that are more angular, with sharp corners on them, lock together better, making the sandcastle stronger. It’s the same reason a pile of angular wooden blocks will stay in a pile, but a pile of marbles will go everywhere.
+
+Read more: https://theconversation.com/sandcastle-engineering-a-geotechnical-engineer-explains-how-water-air-and-sand-create-solid-structures-188208

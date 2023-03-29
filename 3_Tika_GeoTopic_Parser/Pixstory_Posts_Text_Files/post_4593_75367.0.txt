@@ -1,0 +1,13 @@
+On Jan. 14, 2022, the FSB, Russia’s domestic intelligence service, announced that it had broken up the notorious Russia-based REvil ransomware criminal organization. The FSB said the actions were taken in response to a request from U.S. authorities. The move marks a dramatic shift in Russia’s response to criminal cyberattacks launched against U.S. targets from within Russia, and comes at a time of heightened tensions between the two countries.
+
+U.S. policy and actions in response to cyberattacks connected to Russia have changed distinctly since the Biden administration took office. President Joe Biden has openly confronted Russian President Vladimir Putin on his responsibility regarding international cyberattacks, and the Biden administration has taken unprecedented steps to impose costs on Russian cyber criminals and frustrate their efforts.
+
+Upon taking office, Biden immediately faced difficult challenges from Russian intelligence operatives and criminals in headline-grabbing cyberattacks on private companies and critical infrastructure. As a scholar of Russian cyber operations, I see that the administration has made significant progress in responding to Russian cyber aggression, but I also have clear expectations about what national cyber defense can and can’t do.
+
+Software supply chain compromise
+
+The SolarWinds hack carried out in 2020 was a successful attack on the global software supply chain. The hackers used the access they gained to thousands of computers to spy on nine U.S. federal agencies and about 100 private-sector companies. U.S. security agencies said that a sophisticated hacking group, “likely Russian in origin,” was responsible for the intelligence-gathering effort.
+
+Read more at The Conversation: https://theconversation.com/how-the-biden-administration-is-making-gains-in-an-uphill-battle-against-russian-hackers-174199
+
+Image courtesy: AP Photo/Evan Vucci

@@ -1,0 +1,17 @@
+The “living with COVID” strategy being pursued by many countries relies heavily on two key pillars. First, that vaccines continue to protect most people from severe disease. And second, that where they don’t, people will receive antiviral treatments. But are the antivirals currently available sufficiently effective, accessible and durable?
+
+Research advances in the realm of antiviral therapies since the pandemic began have been considerable. At the same time, no medicine is perfect. The concern is that if not deployed properly, the effectiveness and longevity of antiviral treatments may be compromised.
+
+So let’s take a look at what’s in the antivirals arms locker, and how we got to this point.
+
+In 2020, the priority was drug repurposing (identifying medicines for other conditions that might also benefit COVID patients). Success with drugs like dexamethasone followed. This is a steroid which counters the inflammation that occurs as a result of the body’s overactive immune response during severe COVID.
+
+Things didn’t go as smoothly for direct-acting antivirals, a group of drugs that target the virus directly to suppress infection. So desperate was the situation early in the pandemic that agents like hydroxychloroquine and ivermectin were tested in clinical trials and, predictably, were found wanting.
+
+One promising candidate, however, did emerge during 2020. Remdesivir is a ribonucleotide analogue (or “nuc”) that mimics the building blocks of the virus’ genetic material. It poisons the copying process by not allowing further links to be added to RNA chains. Remdesivir was first developed as a potential cure for hepatitis C.
+
+Despite working well against SARS-CoV-2 (the virus that causes COVID) in pre-clinical settings, initial trials in patients with severe COVID were conflicted.
+
+We now know that COVID can progress fairly quickly from a virus-driven disease to the severe sepsis-like consequences of a misfiring immune response. So direct-acting antivirals must be deployed early. A trial where remdesivir was given to high-risk patients soon after infection found an 87% reduced risk of hospitalisation or death compared with a placebo.
+
+Read more: https://theconversation.com/covid-antiviral-drugs-are-a-vital-weapon-but-misusing-them-could-backfire-186959

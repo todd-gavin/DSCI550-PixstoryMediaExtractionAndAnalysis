@@ -1,0 +1,25 @@
+Eméfah C.Loccoh MD Rishi K.Wadhera MD, MPP, MPhil
+
+Abstract
+
+Background
+
+U.S. policy efforts have focused on reducing rural-urban health inequities. However, it is unclear whether gaps in care and outcomes remain among older adults with acute cardiovascular conditions.
+
+Objectives
+
+This study aims to evaluate rural-urban differences in procedural care and mortality for acute myocardial infarction (AMI), heart failure (HF), and ischemic stroke.
+
+Methods
+
+This is a retrospective cross-sectional study of Medicare fee-for-service beneficiaries aged ≥65 years with acute cardiovascular conditions from 2016 to 2018. Cox proportional hazards models with random hospital intercepts were fit to examine the association of presenting to a rural (vs urban) hospital and 30- and 90-day patient-level mortality.
+
+Results
+
+There were 2,182,903 Medicare patients hospitalized with AMI, HF, or ischemic stroke from 2016 to 2018. Patients with AMI were less likely to undergo cardiac catherization (49.7% vs 63.6%, P < 0.001), percutaneous coronary intervention (42.1% vs 45.7%, P < 0.001) or coronary artery bypass graft (9.0% vs 10.2%, P < 0.001) within 30 days at rural versus urban hospitals. Thrombolysis rates (3.1% vs 10.1%, P < 0.001) and endovascular therapy (1.8% vs 3.6%, P < 0.001) for ischemic stroke were lower at rural hospitals. After adjustment for demographics and clinical comorbidities, the 30-day mortality HR was significantly higher among patients presenting to rural hospitals for AMI (HR: 1.10, 95% CI: 1.08 to 1.12), HF (HR: 1.15; 95% CI: 1.13 to 1.16), and ischemic stroke (HR: 1.20; 95% CI: 1.18 to 1.22), with similar patterns at 90 days. These differences were most pronounced for the subset of critical access hospitals that serve remote, rural areas.
+
+Conclusions
+
+Clinical, public health, and policy efforts are needed to improve rural-urban gaps in care and outcomes for acute cardiovascular conditions.
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0735109721081882

@@ -1,0 +1,6 @@
+Name _Ali khan 
+Father Name_ salauddin
+Class _VII
+Age _11
+Sex_Male
+Chintan

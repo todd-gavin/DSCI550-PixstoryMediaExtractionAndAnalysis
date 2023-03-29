@@ -1,0 +1,13 @@
+It has been more than 50 years since astronomers first proposed “dark matter”, which is thought to be the most common form of matter in the universe. Despite this, we have no idea what it is – nobody has directly seen it or produced it in the lab.
+
+So how can scientists be so sure it exists? Should they be? It turns out philosophy can help us answer these questions.
+
+Back in the 1970s, a seminal study by astronomers Vera Rubin and Kent Ford of how our neighbour galaxy Andromeda rotates revealed a surprising inconsistency between theory and observation. According to our best gravitational theory for these scales – Newton’s laws – stars and gas in a galaxy should rotate slower and slower the further away they are from the galaxy’s centre. That’s because most of the stars will be near the centre, creating a strong gravitational force there.
+
+Rubin and Ford’s result showed that this wasn’t the case. Stars on the outer edge of the galaxy moved about as fast as the stars around its centre. The idea that the galaxy must be embedded in a large halo of dark matter was basically proposed to explain this anomaly (though others had suggested it previously). This invisible mass interacts with the outer stars through gravity to boost their velocities.
+
+This is only one example of several anomalies in cosmological observations. However, most of these can be equally explained by tweaking the current gravitational laws of Newtonian dynamics and Einstein’s theory of general relativity. Perhaps nature behaves slightly differently on certain scales than these theories predict?
+
+One of the first such theories, developed by Israeli physicist Mordehai Milgrom in 1983, suggested that Newtonian laws may work slightly differently when there’s extremely small acceleration involved, such as at the edge of galaxies. This tweak was perfectly compatible with the observed galactic rotation. Nevertheless, physicists today overwhelmingly favour the dark matter hypothesis incorporated in the so-called ΛCDM model (Lambda Cold Dark Matters.
+
+Read more - https://theconversation.com/dark-matter-should-we-be-so-sure-it-exists-heres-how-philosophy-can-help-184109

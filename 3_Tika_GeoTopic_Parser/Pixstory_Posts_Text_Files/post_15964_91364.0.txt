@@ -1,0 +1,21 @@
+Yue He Jie Chen
+
+Abstract
+
+Aims
+
+Extracellular vesicle (EV)-transferred microRNAs (miRNAs) are proved to be potentially therapeutic candidates. Here, we attempted to unveil the role of delivery of miR-30c-5p by human umbilical cord mesenchymal stem cells (hUCMSCs)-derived EVs in diabetic retinopathy (DR).
+
+Methods
+
+miR-30c-5p and PLCG1 expression in streptozotocin-induced diabetes mellitus (DM) rats and high glucose (HG)-treated human retinal endothelial cells (HRECs) was quantified, followed by analysis on their interaction. EVs were isolated from hUCMSCs and co-cultured with HRECs. Through gain- and loss-of-function assays, the role of hUCMSCs-derived EV containing miR-30c-5p in DR involving PLCG1 and NF-κB pathway was analyzed in vitro and in vivo.
+
+Results
+
+Elevated PLCG1 was found in DM rats and HG-treated HRECs where miR-30c-5p was reduced while increased in hUCMSC-derived EVs. PLCG1 was pinpointed as a target gene of miR-30c-5p, which consequently disrupted the PKC/NF-κB pathway. hUCMSC-derived EVs decreased inflammation reaction by transferring miR-30c-5p in DM rats and HG-treated HRECs. Furthermore, similar changing tendency was observed in HG-treated HRECs induced by overexpressed miR-30c-5p through downregulation of PLCG1 in vivo.
+
+Conclusion
+
+Overall, our findings underlined delivery of miR-30c-5p by hUCMSC-derived EVs as a novel suppressor in the inflammatory response following DR.
+
+Sources - https://www.sciencedirect.com/science/article/abs/pii/S0168822722006738

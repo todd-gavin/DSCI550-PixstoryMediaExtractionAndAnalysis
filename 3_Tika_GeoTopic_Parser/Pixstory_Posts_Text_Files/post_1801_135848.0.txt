@@ -1,0 +1,9 @@
+Alongwith Indian Independence, Indian Standard Time shares its 75th year this year.
+Indian Standard Time (IST) is the time observed throughout India, with a time offset of UTC+05:30. 
+ In military and aviation time IST is designated E* ("Echo-Star").
+Indian Standard Time is calculated on the basis of 82.5' E longitude, in Mirzapur, Uttar Pradesh, which is nearly on the corresponding longitude reference line.
+After Independence in 1947, the Indian government established IST as the official time for the whole country, although Kolkata and Mumbai retained their own local time (known as Calcutta Time and Bombay Time) until 1948 and 1955, respectively.
+The Central observatory was moved from Chennai to a location at Shankargarh Fort in Allahabad district, so that it would be as close to UTC +5:30 as possible.
+India does not normally observe daylight saving time (DST) or other seasonal adjustments.However daylight Saving Time (DST) was used briefly during the China–Indian War of 1962 and the Indo–Pakistani Wars of 1965 and 1971.
+In Assam, tea gardens follow a separate time zone, known as the Chaibagaan or Bagan time ('Tea Garden Time'), which is one hour ahead of IST.
+However IST remains the only officially used time.

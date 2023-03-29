@@ -1,0 +1,6 @@
+Name: Chandbabu
+Father : Mohib
+Age: 10
+Class: IV
+Sex: Male
+Shani A
