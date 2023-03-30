@@ -57,7 +57,7 @@ Note: Run these commands inside the lucene-geo-gazetteer directory
 6. Test Service Mode (with e.g. Pasedena, Texas) in base terminal:
     - Launch Server: $ `lucene-geo-gazetteer -server`
     - Query: `$ curl "localhost:8765/api/search?s=Pasadena&s=Texas&c=2"`
-    - `curl "http://localhost:8765/api/search?s=Pasadena&s=Texas" | python -mjson.tool`
+        - `curl "http://localhost:8765/api/search?s=Pasadena&s=Texas" | python -mjson.tool`
 
 #### How to Connect to Lucene GeoGazetter in Python
 - You can connect the GeoGazetteer to Tika-Python using the instructions here: 
@@ -79,7 +79,6 @@ drwxr-xr-x@  3 toddgavin  staff   96 Mar 26 19:06 .
 drwxr-xr-x@ 19 toddgavin  staff  608 Mar 26 19:04 ..
 drwxr-xr-x@  3 toddgavin  staff   96 Mar 26 19:06 or
 ```
-
 #### Now we have to create the new application/geotopic MIME type, and map it to Tika. [SKIP_IF_geotopic-mime_dir_CREATED]
 1. `mkdir geotopic-mime`
 2. `cd geotopic-mime`
@@ -122,11 +121,47 @@ java -classpath tika-build/tika-app-${TIKA_VERSION}.jar:tika-build/tika-parser-n
 export TIKA_VERSION=2.7.0
 
 java -classpath ${PWD}/location-ner-model:${PWD}/geotopic-mime:tika-build/tika-server-standard-${TIKA_VERSION}.jar:tika-build/tika-parser-nlp-package-${TIKA_VERSION}.jar \
-     org.apache.tika.server.core.TikaServerCli%     
+     org.apache.tika.server.core.TikaServerCli     
 ```
 2. Give executable permission to the file geotopic-server by running command: `chmod +x geotopic-server`
 3. Run command: `./geotopic-server`
 4. If its working, test out the GeoTopic REST server by opening new base terminal and running: `curl -T polar.geot -H "Content-Disposition: attachment; filename=polar.geot" http://localhost:9998/rmeta | python -mjson.tool`
+    - `curl -T polar.geot -H "Content-Type: application/geotopic; filename=polar.geot" http://localhost:9998/rmeta | python -mjson.tool`
+OUTPUT:
+```js
+[
+    {
+        "Geographic_LONGITUDE": "105.0",
+        "Geographic_NAME": "People\u2019s Republic of China",
+        "X-TIKA:Parsed-By-Full-Set": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.geo.GeoParser"
+        ],
+        "resourceName": "polar.geot",
+        "Optional_NAME1": "United States",
+        "Optional_LATITUDE1": "39.76",
+        "Optional_LONGITUDE1": "-98.5",
+        "X-TIKA:Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.geo.GeoParser"
+        ],
+        "X-TIKA:parse_time_millis": "1300",
+        "X-TIKA:embedded_depth": "0",
+        "Geographic_LATITUDE": "35.0",
+        "Content-Length": "881",
+        "Content-Type": "application/geotopic"
+    }
+]
+```
+
+#### Run GeoTopic Parser End-to-End
+1. Kill all java processes and kill tika server is already running (refer to Errors section fo ReadMe)
+    - `killall java`
+    - List current processes: `jps`
+        - Kill all tika processes with: `kill <process number>`
+2. Navigate to directory /3_Tika_GeoTopic_Parser and run command to start lucene server: `lucene-geo-gazetteer -server`
+3. In new terminal window, navigate to directory /3_Tika_GeoTopic_Parser and run command to start geotopic server: `./geotopic-server`
+4. In new terminal window again, navigate to directory /3_Tika_GeoTopic_Parser and run command to test servers: `curl -T polar.geot -H "Content-Type: application/geotopic; filename=polar.geot" http://localhost:9998/rmeta | python -mjson.tool`
 
 #### Running GeoTopic Server from Python
 If you want to call your new GeoTopic server from Python, using Tika-Python it's simple! You just drop into Python, and run Tika on a *.geot file. 
@@ -151,7 +186,8 @@ https://github.com/pytorch/pytorch/issues/53601#issuecomment-967307449
 
 ## 6. Install Tika Image Dockers and generate captions for your Pixstory images posts 
 - To  access  the  images,  use  the  URL  from  the  post  and give  it  the  URL  prefix 
-“/optimized”,  such  as:  https://image.pixstory.com/optimized/Pixstory-image-164416629024955.jpeg  
+“/optimized”,  such  as:  https://image.pixstory.com/optimized/Pixstory-image-
+164416629024955.jpeg  
 
 1. Download all 95k images associated with the posts 
     - Write a simple python script to do this 
@@ -164,3 +200,9 @@ https://github.com/pytorch/pytorch/issues/53601#issuecomment-967307449
     - Read and test out: https://github.com/apache/tika/pull/189  
 3. Iterate through all the Pixstory posts and add the generated image caption and the 
 detect object(s) column to your dataset
+
+## Errors
+1. Kill all java processes: `killall java`
+2. Kill tika server:
+    1. To view running processes: `jps`
+    2. They type the process number: `kill <process>`
