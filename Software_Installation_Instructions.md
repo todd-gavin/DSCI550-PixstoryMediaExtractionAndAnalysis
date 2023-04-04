@@ -160,8 +160,12 @@ OUTPUT:
     - List current processes: `jps`
         - Kill all tika processes with: `kill <process number>`
 2. Navigate to directory /3_Tika_GeoTopic_Parser and run command to start lucene server: `lucene-geo-gazetteer -server`
+    - Should see this if working: `INFO: Starting ProtocolHandler ["http-nio-8765"]`
+    - If its not working, re-run command to set up path inside of /lucene-geo-gazetteer/src/main/bin: `export PATH=$PWD:$PATH`
 3. In new terminal window, navigate to directory /3_Tika_GeoTopic_Parser and run command to start geotopic server: `./geotopic-server`
+    - Should see this if working: `INFO  [main] 16:25:04,222 org.apache.tika.server.core.TikaServerProcess Started Apache Tika server ff835cb6-9aa1-4817-ba8d-d035eb174c87 at http://localhost:9998/`
 4. In new terminal window again, navigate to directory /3_Tika_GeoTopic_Parser and run command to test servers: `curl -T polar.geot -H "Content-Type: application/geotopic; filename=polar.geot" http://localhost:9998/rmeta | python -mjson.tool`
+    - Should Get if running correctly: `United States, 39.76, -98.5`
 
 #### Running GeoTopic Server from Python
 If you want to call your new GeoTopic server from Python, using Tika-Python it's simple! You just drop into Python, and run Tika on a *.geot file. 
