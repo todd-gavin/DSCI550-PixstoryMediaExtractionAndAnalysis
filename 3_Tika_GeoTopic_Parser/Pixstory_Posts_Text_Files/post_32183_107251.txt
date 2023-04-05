@@ -1,0 +1,1 @@
+Okay so like you have a student ID row name row now you have to create third row in which you have to mention two letter of the person name last two letter of the name and last digit student ID Now you will do this by a simple trick The formula is CONCATENATE Left B Right B Right A Simple now scroll or down

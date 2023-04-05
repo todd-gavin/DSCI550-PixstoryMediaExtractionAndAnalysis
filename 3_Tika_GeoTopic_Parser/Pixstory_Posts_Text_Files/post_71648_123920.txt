@@ -1,0 +1,1 @@
+You may know how to activate the speedy search by using the shortcut Ctrl F but there are two main wild cards Question Mark and Asterisk used in Excel spreadsheets to activate a vague search This is used when you are not sure about the target result Question Mark stands for one character and Asterisk represents one or more characters 

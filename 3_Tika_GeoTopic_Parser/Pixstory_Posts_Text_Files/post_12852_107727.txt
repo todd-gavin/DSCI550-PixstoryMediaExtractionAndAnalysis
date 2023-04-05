@@ -1,0 +1,1 @@
+Multiple Vulnerabilities in Citrix Products Multiple Vulnerabilities in Adobe Products Remote Code Execution Vulnerability in Zimbra webmail 

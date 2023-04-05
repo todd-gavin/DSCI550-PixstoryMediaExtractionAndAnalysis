@@ -1,0 +1,1 @@
+CERT In has published Vulnerability Notes on its website Multiple vulnerabilities in Google Chrome Multiple vulnerabilities in GitLab 

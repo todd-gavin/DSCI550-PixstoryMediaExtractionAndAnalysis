@@ -1,0 +1,1 @@
+DeadBolt Ransomware targeting QNAP NAS Devices Remote code execution vulnerability in Apple products 

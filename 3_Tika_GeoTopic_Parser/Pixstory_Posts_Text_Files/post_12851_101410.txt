@@ -1,0 +1,1 @@
+Multiple vulnerabilities in Apple tvOS Denial of Service Vulnerability in ISC BIND Multiple Vulnerabilities in VMware Products Multiple vulnerabilities in Apple macOS 

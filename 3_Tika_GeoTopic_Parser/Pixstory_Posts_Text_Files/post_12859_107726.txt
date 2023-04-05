@@ -1,0 +1,1 @@
+Sensitive Information Disclosure Vulnerability in BD products Information Disclosure through side channels attack Hertzbleed Multiple vulnerabilities in Microsoft product 

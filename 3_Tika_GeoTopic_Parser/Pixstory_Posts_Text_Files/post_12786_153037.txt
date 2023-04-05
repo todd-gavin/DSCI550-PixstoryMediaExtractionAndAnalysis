@@ -1,0 +1,1 @@
+Cert In has published Vulnerability Notes on its website Directory Traversal vulnerability in Twig library for Drupal Multiple vulnerabilities in Android OS 

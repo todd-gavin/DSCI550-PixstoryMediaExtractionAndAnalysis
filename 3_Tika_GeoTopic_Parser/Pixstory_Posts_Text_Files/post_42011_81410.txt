@@ -1,0 +1,1 @@
+A chess board is made of x square grid with different set of colours It is played by players having a pair of rooks bishops knights pawns and king and queen each all of which move in their own unique way Player who defeats the other player s king is declared the winner 

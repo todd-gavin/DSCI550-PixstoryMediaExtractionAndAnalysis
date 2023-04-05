@@ -1,0 +1,1 @@
+CERT In has published Vulnerability Notes on its website Multiple Vulnerabilities in Apache HTTP Server Multiple Vulnerabilities in Microsoft Edge 

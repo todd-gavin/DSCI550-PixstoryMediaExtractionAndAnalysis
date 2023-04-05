@@ -1,0 +1,1 @@
+How To Crawl LinkedIn Public Profiles For Data It is a data scraping tool that searches and exports user names addresses skills social media links phone numbers as well as emails If available and much more from LinkedIn without any coding and extra skills 

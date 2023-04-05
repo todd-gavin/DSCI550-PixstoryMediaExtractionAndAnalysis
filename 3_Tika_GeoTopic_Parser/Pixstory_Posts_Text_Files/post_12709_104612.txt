@@ -1,0 +1,1 @@
+Remote Code Execution Vulnerability in Atlassian Confluence Server and Data Center Threat Actors Exploiting Unpatched VMware Vulnerabilities 

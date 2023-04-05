@@ -1,0 +1,1 @@
+Multiple Vulnerabilities in Adobe products Server Side Request Forgery SSRF vulnerability in VMware products 

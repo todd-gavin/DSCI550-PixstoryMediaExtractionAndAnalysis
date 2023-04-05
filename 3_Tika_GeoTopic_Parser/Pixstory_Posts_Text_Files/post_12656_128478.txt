@@ -1,0 +1,1 @@
+Denial of Service DoS vulnerability in Yokogawa CENTUM controller FCS Privilege escalation vulnerability in Zoom Client for Meetings Multiple Vulnerabilities in Schneider Electric Products 

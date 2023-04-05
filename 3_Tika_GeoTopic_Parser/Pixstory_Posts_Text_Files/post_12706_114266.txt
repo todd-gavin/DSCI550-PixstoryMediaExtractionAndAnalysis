@@ -1,0 +1,1 @@
+CERT In has published an Advisory on its website Multiple vulnerabilities in OpenSSL 
