@@ -1,9 +1,0 @@
-Amidst all the conflict surrounding Twitter, whether hacking Twitter's highest-profile users or misusing personal information, nothing has been done to annihilate these threats.
-It's now on users to protect themselves instead of believing in false agreements claimed by the companies, and this is what we can do.
-The best way to protect yourself is by spending less time on social media, but it wouldn't be possible for some.
-So here are some ways to keep yourself safe.
-Twitter offers to send tweets with location data attached to them. But broadcasting your current location can be harmful. Hence, you can deactivate this feature by going to settings, and privacy> privacy and safety>  Location information and uncheck Add location information to my Tweets. 
-Secondly, a strong password is not always needed to protect your account for added security; choose two-factor authentication; you can access these settings by going to More > Settings and Privacy > Account > Security.
-If you want to protect your tweets, then do it by keeping your account private 
-navigate to Settings and Privacy > Privacy and Safety and check the box next to Protect Your Tweets.
-Navigate to Settings and privacy > Privacy and safety > Personalization and data to protect your data from advertisement and tracking. You can turn off personalized ads and personalization based on identity, location, and device. You can also prevent Twitter from sharing collected data with advertisers.

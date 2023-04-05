@@ -1,5 +1,0 @@
-Name  Bhumi
-Father name  suraj
-Age.  8
-Sex. Female
-Ngo. Chintan

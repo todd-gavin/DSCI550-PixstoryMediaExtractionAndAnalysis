@@ -1,6 +1,0 @@
-Name Palak
-Father name salauddin
-Age 10
-Sex Female
-Class V
-Chintan

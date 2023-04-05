@@ -1,6 +1,0 @@
-Name _Atif
-Father Name _Ashu
-Age_12
-Sex_Male 
-Class _VI
-Chintan

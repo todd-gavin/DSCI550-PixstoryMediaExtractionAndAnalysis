@@ -1,6 +1,0 @@
-This is — to the best of our knowledge — the most comprehensive list of Wordle-like games and resources online, with 561 entries in 124 languages (8423 to go…). Its goal is threefold: having fun, celebrating linguistic diversity, and exploring playful creativity.
-
-This list is collaborative and is based on a number of sources: merge requests, other lists, entries suggested publicly (e.g. here and here) or privately, and entries found on web search (on Twitter and elsewhere). Code repository is available on GitLab ￼. The list and its code (sans various logos, emoji, fonts, etc. not created by this project) are in the public domain ￼ under CC0 ￼.
-
-
-https://rwmpelstilzchen.gitlab.io/wordles/?ref=prototypr

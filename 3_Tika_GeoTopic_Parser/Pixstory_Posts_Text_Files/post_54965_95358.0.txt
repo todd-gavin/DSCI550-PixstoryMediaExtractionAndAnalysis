@@ -1,5 +1,0 @@
-Name Akshay
-Age 8
-Gender Male
-Father name Kalu
-NGO Chintan

@@ -1,4 +1,0 @@
-Gaurav and Gautham, designed by DRDO and manufactured by Adani Defence and Aerospace, are long-range glide bombs for the Indian Air Force. 
-These are smart bombs which can self-navigate, glide and destroy the enemy targets. 
-   Gaurav is the winged version with a 1000 kg wing, and has a range of 100 km. Whereas Gautham is 550 kg bomb and has a range of 30 km. 
-  Both bombs have an inertial navigation system. They can reach the target with the help of GPS and NaVIC Satellite Guidance System. It can be deployed on Sukhoi SU-30 MKI fighter jet.

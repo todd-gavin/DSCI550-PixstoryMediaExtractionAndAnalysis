@@ -1,6 +1,0 @@
-Name Sariful lslam
-Father name, Abul kalam
-Class V
-Age  11
-Gender Male
-Chintan

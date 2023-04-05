@@ -1,6 +1,0 @@
-Name ,Ashiq Reza
-Father's Name Noor Ala
-Class V
-Age 10
-Gender Male
-Chintan

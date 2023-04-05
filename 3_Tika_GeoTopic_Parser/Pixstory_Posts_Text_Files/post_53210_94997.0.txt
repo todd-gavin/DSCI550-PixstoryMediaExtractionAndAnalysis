@@ -1,6 +1,0 @@
-Name _sumair
-Father Name _ kausar
-Age _12
-Sex_ male
-Class_III
-Chintan

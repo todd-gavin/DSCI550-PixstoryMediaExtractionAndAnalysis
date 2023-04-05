@@ -1,6 +1,0 @@
-Finesse, a US-based fashion company, uses artificial intelligence to make clothing at exact demand – no overstocking. Finesse uses AI to predict trends in the fashion industry and then makes 3D models of the designs it thinks are trending. Then, these designs are placed on the website as a showcase of the next drop – customers can pick the design they're most excited about, and the designs that get the most clicks are voted into existence.
-
-This is not the first brand to use Al; many brands have used it. H&M uses it to predict demand and improve its supply chain, and Zara uses it in robots that work with its inventory. Many industries use AI to streamline processes: Jetstar has an AI chatbot to help you resolve problems, and Netflix uses it to throw up terrible film suggestions. Finesse represents a conceptual shift: AI isn't a background assistant to the company; it's a selling point. 
-
-
-"We only produce what you want. Vote now, and items are ready for shipment within two weeks," promises the brand on its official website. "We use AI to predict how much to produce, no waste, no overages, and no pollution," the brand continues. With this system, Finesse only makes the clothes that will sell and significantly reduces waste and surplus fabric use while saving on excessive production.

@@ -1,6 +1,0 @@
-Name _ Tabassum
-Father name_ Hashi Ali
-Age_ 9
-Sex_F
-Class_ 4
-Chintan

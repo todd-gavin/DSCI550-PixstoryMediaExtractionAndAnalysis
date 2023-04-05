@@ -1,8 +1,0 @@
-A global sanctions-tracking database released a list on Tuesday, which showed that Russia has become the most-sanctioned country after the Ukraine invasion. 
-
-The database, Castellum.ai, is a managed search algorithm and workflow and record keeping suite that supports users via an online platform, API and bulk data.
-
-It said that Russia has seen a surge in sanctions by the United States and its European allies starting February 22, days before the Ukraine invasion began.
-
-Source: 
-https://www.ndtv.com/world-news/hese-are-the-worlds-most-sanctioned-countries-russia-now-no-1-2810404

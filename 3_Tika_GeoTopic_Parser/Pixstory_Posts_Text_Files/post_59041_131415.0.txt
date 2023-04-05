@@ -1,7 +1,0 @@
-On 23rd August 1991, that is today Tim Berners-Lee, famously the inventor of the World Wide Web opened the very first website to the public. It was the first time a web page was accessible to the whole world.
-
-On August 6, 1991, British computer scientist Tim Berners-Lee published the first-ever website while working at CERN, the huge particle physics lab in Switzerland.
-
-The son of computer scientists, Berners-Lee was born in London in 1955 (the same year as Steve Jobs and Bill Gates) and studied physics at Oxford. 
-
-While employed at CERN in the 1980s, Berners-Lee observed how tough it was to keep track of the projects and computer systems of the organization’s thousands of researchers, who were spread around the globe. As he later stated: “In those days, there was different information on different computers, but you had to log on to different computers to get at it. Also, sometimes you had to learn a different program on each computer.”

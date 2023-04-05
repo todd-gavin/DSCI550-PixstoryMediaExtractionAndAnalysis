@@ -1,5 +1,0 @@
-Name Wahid
- father name Sarfaraz
- age 10
- gender male
- NGO Chintan

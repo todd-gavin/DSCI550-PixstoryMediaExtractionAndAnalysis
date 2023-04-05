@@ -1,6 +1,0 @@
-Name: Preeti
-Father: Rambharose
-Age: 11
-Class: V
-Sex: Female
-Sihani A

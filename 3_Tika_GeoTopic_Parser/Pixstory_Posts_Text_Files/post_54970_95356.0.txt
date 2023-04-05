@@ -1,5 +1,0 @@
-Name disha
-Age 12
-Father sanjay
-Gender female
-Ngo chintan

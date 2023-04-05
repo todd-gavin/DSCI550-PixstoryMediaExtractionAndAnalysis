@@ -1,8 +1,0 @@
-Sensitive Information Disclosure Vulnerability in BD products
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES02&VLCODE=CIAD-2022-0015 
-
-Information Disclosure through side channels attack (Hertzbleed)
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES02&VLCODE=CIAD-2022-0016 
-
-Multiple vulnerabilities in Microsoft product
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES02&VLCODE=CIAD-2022-0017

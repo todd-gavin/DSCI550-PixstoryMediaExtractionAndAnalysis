@@ -1,6 +1,0 @@
-Name: Khushi Pal
-Father : Lt Dheeraj
-Age :10
-Class: V
-Sex: Female
-Sihani A

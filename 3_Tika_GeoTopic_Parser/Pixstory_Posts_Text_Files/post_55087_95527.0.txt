@@ -1,6 +1,0 @@
-Name _ Sajnoor kgatun
-Father name _ Abdul Samad
-Age _ 9
-Gender _ Female 
-Class _ III
-Chintan

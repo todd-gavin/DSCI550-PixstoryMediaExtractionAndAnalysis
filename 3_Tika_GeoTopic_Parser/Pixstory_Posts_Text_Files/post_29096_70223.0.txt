@@ -1,1 +1,0 @@
-'poetry is the magic i do with the little grammar i know'

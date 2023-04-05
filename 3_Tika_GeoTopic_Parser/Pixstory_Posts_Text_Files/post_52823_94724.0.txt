@@ -1,6 +1,0 @@
-Name Mohd.Arshad 
-Father Name Mohd.Arif
-Age 12+
-Sex male
-Class VIII-A
-Chintan

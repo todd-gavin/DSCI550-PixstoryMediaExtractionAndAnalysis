@@ -1,5 +1,0 @@
-Name :- Tarun
-Age :- 8 
-Father Name :- Kamal kant 
-Gender :- male
-N.G.O :- Chintan

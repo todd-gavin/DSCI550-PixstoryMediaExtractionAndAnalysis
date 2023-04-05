@@ -1,9 +1,0 @@
-
-Abstract
-Background and Aim
-Although resting heart rate (RHR) is associated with prevalence and incidence of diabetes, whether it is associated with undiagnosed diabetes is still unclear. We aimed to investigate whether the RHR is associated with the prevalence of undiagnosed diabetes in a large Korean national dataset.
-Methods and Results
-The Korean National Health and Nutrition Examination Survey data from 2008 to 2018 were used. After screening, 51,637 participants were included in this study. The odds ratios and 95% confidence intervals (CIs) for undiagnosed diabetes were calculated using multivariable-adjusted logistic regression analyses.
-Analyses showed that participants with a RHR of ≥90 bpm showed a 4.00- (95% CI: 2.77–5.77) and 3.21-times (95% CI: 2.01–5.14) higher prevalence of undiagnosed diabetes for men and women, respectively, than those with a RHR of <60 bpm. The linear dose-response analyses showed that each 10-bpm increment in RHR was associated with a 1.39- (95% CI: 1.32–1.48) and 1.28-times (95% CI: 1.19–1.37) higher prevalence of undiagnosed diabetes for men and women, respectively. In the stratified analyses, the positive association between RHR and the prevalence of undiagnosed diabetes was tended to be stronger among those who were younger (age: <40 years) and lean (BMI: <23 kg/m2).
-Conclusions
-Elevated RHR was significantly associated with a higher prevalence of undiagnosed diabetes in Korean men and women, independent of demographic, lifestyle, and medical factors. Accordingly, the value of RHR as a clinical indicator and health marker, especially in reducing the prevalence of undiagnosed diabetes, is suggestible.

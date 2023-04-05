@@ -1,7 +1,0 @@
-Multiple vulnerabilities in SAP Products
-
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0294
-
-Multiple vulnerabilities in Microsoft products 
-
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES02&VLCODE=CIAD-2022-0019

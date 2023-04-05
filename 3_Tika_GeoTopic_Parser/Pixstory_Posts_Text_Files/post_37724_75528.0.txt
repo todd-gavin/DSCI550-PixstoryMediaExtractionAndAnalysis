@@ -1,1 +1,0 @@
-Read Kafka at least once in your life

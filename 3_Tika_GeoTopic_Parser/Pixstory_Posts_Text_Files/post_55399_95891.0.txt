@@ -1,5 +1,0 @@
-Name  pooja rani 
-Father Dharmender 
-Age 8
-Class 2
-Sex  female

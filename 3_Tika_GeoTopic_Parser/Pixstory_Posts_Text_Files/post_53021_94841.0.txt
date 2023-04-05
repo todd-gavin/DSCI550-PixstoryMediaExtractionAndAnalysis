@@ -1,5 +1,0 @@
-Name Sohib
-Age 10
-Father Hussain
-Gender Male
-NGO Chintan

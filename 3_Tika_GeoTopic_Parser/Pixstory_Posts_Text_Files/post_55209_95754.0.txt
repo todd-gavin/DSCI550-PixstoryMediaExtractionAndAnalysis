@@ -1,4 +1,0 @@
-Name-Rakhi
-Age-9
-Sex-F
-Father name-Sanjay

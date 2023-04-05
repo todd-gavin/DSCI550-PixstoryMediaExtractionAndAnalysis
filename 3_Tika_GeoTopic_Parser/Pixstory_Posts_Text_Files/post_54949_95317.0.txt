@@ -1,5 +1,0 @@
-name  Miswa
-Father name md moien
-age 6
-sex female
-NGo chintan

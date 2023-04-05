@@ -1,5 +1,0 @@
-Name :- Geeta
-Age :-8
-Father Name :- Sutab
-Gender :- Female
-N.G.O :- Chintan

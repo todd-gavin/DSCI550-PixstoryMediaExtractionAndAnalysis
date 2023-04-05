@@ -1,6 +1,0 @@
-Name : sakeela
-Father : dharvesh ali
-Age : 12
-Class : vii
-Sex : female
-Sihani a

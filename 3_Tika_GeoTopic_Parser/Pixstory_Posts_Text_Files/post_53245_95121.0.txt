@@ -1,6 +1,0 @@
-Name = Durga 
-Class = 7th B
-Age = 13
-Father Name = Ashok
-Gender = Female 
-Ngo = Chintan

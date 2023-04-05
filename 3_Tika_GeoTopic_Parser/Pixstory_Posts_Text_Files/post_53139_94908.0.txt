@@ -1,5 +1,0 @@
-Name krishna 
-Age 11 
-Father  dharamveer 
-Gender male
-Ngo chintan

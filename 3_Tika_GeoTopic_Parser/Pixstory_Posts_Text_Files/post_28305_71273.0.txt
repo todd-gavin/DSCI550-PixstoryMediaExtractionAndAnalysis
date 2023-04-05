@@ -1,1 +1,0 @@
-A sum of seven or more points although all points are with in control limit but a pattern is visible that indicates assignable causes.

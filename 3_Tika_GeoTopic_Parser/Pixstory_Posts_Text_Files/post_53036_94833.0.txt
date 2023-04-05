@@ -1,5 +1,0 @@
-Name lovely
- father name
- age 10 
-gender female 
-NGO Chintan

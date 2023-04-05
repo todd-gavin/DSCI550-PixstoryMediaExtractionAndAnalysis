@@ -1,9 +1,0 @@
-Abstract
-Background and aims
-Postpartum glucose metabolism disorders are a common problem in women with gestational diabetes mellitus (GDM). They are often underdiagnosed since many patients do not attend the postpartum screening. This study aims to assess predictors of postpartum glucose metabolism disorders and type 2 diabetes mellitus (T2DM) after GDM.
-Material and methods
-Retrospective study in women with GMD who underwent postpartum screening for glucose metabolism disorders (n = 2688). Logistic regression was used in the statistical analysis.
-Results
-24.6% of women had postpartum glucose metabolism disorder. In multivariate analysis, pre-pregnancy body mass index (BMI) 25–30 kg/m2 (OR 1.46, 95%CI 1.05 to 2.02) or BMI ≥30 kg/m2 (OR 2.62, 95%CI 1.72 to 3.96), diagnosis of GDM before 20 weeks of pregnancy (OR 2.33, 95%CI 1.57 to 3.46), fasting plasma glucose after diagnosis of GDM ≥90 mg/dl (OR 2.12, 95%CI 1.50 to 2.98), postprandial glucose ≥100 mg/dl (OR 1.47, 95%CI 1.09 to 2.99), and HbA1c in the third trimester of pregnancy ≥5.3% (2.04, 95%CI, 1.52 to 2.75) were independent predictors for any postpartum glucose metabolism disorder.
-Conclusion: postpartum screening for T2DM should be performed in all women with GDM, and it is especially important not to lose follow-up in those with one or more predictive factors.
-Sources - https://www.sciencedirect.com/science/article/abs/pii/S1871402122002430

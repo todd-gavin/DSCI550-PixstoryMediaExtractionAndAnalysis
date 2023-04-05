@@ -1,5 +1,0 @@
-Name Anshika 
-father name Dilip Kumar
- age 10 
-gender female 
-NGO Chintan

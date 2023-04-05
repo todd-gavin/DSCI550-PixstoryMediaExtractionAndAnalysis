@@ -1,6 +1,0 @@
-Name : Rahul
-Father : Lt. Arjun
-Age : 11
-Class : V
-Sex : male
-Sihani old

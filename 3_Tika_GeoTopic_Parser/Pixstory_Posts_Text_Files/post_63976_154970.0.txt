@@ -1,5 +1,0 @@
- The Elder Scrolls V: Skyrim is over a decade old, but remains bar none the most popular title on mod database of Nexus Mods. 
-This absurdly large modding community is constantly releasing all sorts of mods ranging from graphics to mechanics based.
- In another instance of a ludicrous mod , a 16K texture mod has been uploaded by Nexus Mods user xillamonstrr that makes everything ranging from the scars to the scales on the dragons visible in excruciating detail. 
-While this might seem overkill, the mod team behind these 16K dragons, however, have their reasons. 
-"All resolutions specified are the maximum resolution, and most of the texture files are twice as long as they are wide. So the 16K version has files that are 8192x16384. Dragons are VERY large, and I would recommend that you think of this as two 8K files next to each other rather than full 8K.  

@@ -1,5 +1,0 @@
-Name - Najam
-Age - 11
-Father - sanu
-Gender - Female
-NGO - chintan

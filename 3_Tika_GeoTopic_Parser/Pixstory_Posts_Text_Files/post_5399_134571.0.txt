@@ -1,7 +1,0 @@
-Story with InsertedLink iOS debugging 4
-
-InsertedLink 
-
-https://stackoverflow.com/questions/47839622/text-view-or-ui-label-with-multiple-links
-
-@navnit9810

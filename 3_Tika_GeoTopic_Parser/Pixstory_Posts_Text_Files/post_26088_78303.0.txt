@@ -1,6 +1,0 @@
-Kepler's laws apply: -
-First Law: Planetary orbits are elliptical with the sun at a focus. 
-Second Law: The radius vector from the sun to a planet sweeps equal areas in equal times. 
-Third Law: The ratio of the square of the period of revolution and the cube of the ellipse semimajor axis is the same for all planets.
-
-They make a major contribution in Platinary motion of planets.

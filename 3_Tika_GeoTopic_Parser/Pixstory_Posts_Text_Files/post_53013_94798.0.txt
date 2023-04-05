@@ -1,5 +1,0 @@
-Name Anchal
- father name Arun Chaudhary 
-age 12
- gender female
- NGO Chintan

@@ -1,5 +1,0 @@
-Name Mansi
- father name Kailash 
-age 10 
-gender female
- NGO Chintan

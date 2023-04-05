@@ -1,6 +1,0 @@
-Name  Asad
-Father Name Mohad Shehzed 
-Age 7
-Class 3rd 
-Sex M
-Chintan

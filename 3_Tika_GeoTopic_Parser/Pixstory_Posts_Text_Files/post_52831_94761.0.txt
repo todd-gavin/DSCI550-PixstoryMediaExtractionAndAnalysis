@@ -1,6 +1,0 @@
-Name Zoya
-Father Name Ibrahim
-Age 9
-Sex F
-Class  V
-Chintan

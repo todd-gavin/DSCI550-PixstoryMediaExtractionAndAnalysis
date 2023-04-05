@@ -1,5 +1,0 @@
-Name chandni
-Father name patner
-Age 12
-Gender female
-N.G.O chintan

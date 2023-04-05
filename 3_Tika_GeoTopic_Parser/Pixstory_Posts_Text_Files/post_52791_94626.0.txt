@@ -1,5 +1,0 @@
-Name  Sanam
-Age 8
-Father Sirajul
-Gender Female
-Chintan

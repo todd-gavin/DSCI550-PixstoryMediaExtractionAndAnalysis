@@ -1,5 +1,0 @@
-Name Nisha
- father name Arif 
-age 8 
-sex female 
-NGO Chintan

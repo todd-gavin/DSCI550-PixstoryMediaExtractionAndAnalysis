@@ -1,5 +1,0 @@
-Name Asmita
- father name Lal Babu
- age 6
- gender female
- NGO Chintan

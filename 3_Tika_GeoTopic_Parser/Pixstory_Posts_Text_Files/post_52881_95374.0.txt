@@ -1,6 +1,0 @@
-Name _ shadab
-Father  Name_ Mobeen
-Age_12
-Sex_ Male 
-Class_VIII
-Chintan

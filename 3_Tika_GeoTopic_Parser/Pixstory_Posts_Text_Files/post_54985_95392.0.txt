@@ -1,6 +1,0 @@
-Name Sabana
-Father's Name Md Ubai
-Age 10
-Class V
-Sex Female 
-Chintan

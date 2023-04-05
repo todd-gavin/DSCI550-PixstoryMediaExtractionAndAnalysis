@@ -1,5 +1,0 @@
-Name Nazrana 
-father name Reena Khan 
-age 10 
-gender female 
-NGO Chintan

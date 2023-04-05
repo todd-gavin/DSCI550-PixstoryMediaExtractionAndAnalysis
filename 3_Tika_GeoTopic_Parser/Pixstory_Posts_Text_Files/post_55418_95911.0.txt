@@ -1,6 +1,0 @@
-Name : munni 
-Father : mujammil 
-Age : 13
-Class : 7
-Sex : female
-Sihani old

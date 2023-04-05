@@ -1,5 +1,0 @@
-Neme anshika
- father name Dharmendra
- age 9
- gender female
- NGO Chintan

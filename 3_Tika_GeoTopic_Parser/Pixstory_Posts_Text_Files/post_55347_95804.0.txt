@@ -1,6 +1,0 @@
-Name-Ismail
-Father's Name-Niyaz Ahmed
-Age-13
-Sex-Male
-Class-VII
-Chintan

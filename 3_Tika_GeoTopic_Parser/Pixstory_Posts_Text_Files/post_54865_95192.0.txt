@@ -1,6 +1,0 @@
-Name-Sakeena
-Father name-Mohd sakil
-Age-12
-Sex-female
-Class-VIII
-Chintan

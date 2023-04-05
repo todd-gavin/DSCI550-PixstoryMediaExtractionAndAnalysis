@@ -1,5 +1,0 @@
-Name :- Ilma
-Age :- 8
-Father :- Ahmed Hasan
-Gender :- Female
-N.G.O :- Chintan

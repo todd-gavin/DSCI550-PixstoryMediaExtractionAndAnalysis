@@ -1,5 +1,0 @@
-Name.Rohit
-Father.Rambaby
-Age.8
-Gender.male
-N.G.o Chintan

@@ -1,5 +1,0 @@
-Name. Sunny
-Age. 10
-Father. Aanil
-Gender. Male
-NGO. Chintan

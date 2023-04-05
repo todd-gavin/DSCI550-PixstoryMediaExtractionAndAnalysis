@@ -1,7 +1,0 @@
-NASA is delaying a countdown rehearsal and fueling test for the Space Launch System's upper stage after discovering a problem with a valve on the upper stage. The test will be modified to limit upper stage fueling. 
-
-NASA announced on April 9 that the SLS wet dress rehearsal (WDR) would be postponed for another three days. NASA had intended to continue the test on April 9 with a "call to stations" for workers, followed by the tanking test and practise countdown on April 11. NASA has rescheduled the call to stations for April 12 and the tanking for April 14.
-
-Space News reported that a broken helium check valve in the Interim Cryogenic Propulsion Stage (ICPS), the upper stage of the SLS, is to blame for the latest delay. The valve keeps helium from leaving the rocket, which is used to purge propellant lines and drain fuel. 
-
-Engineers discovered an issue maintaining helium purge pressure in the ICPS after replacing a regulator in the mobile launch platform on April 7. The agency indicated at the time that it had been able to restore normal pressure but that it was still investigating the cause of the problem, which was later connected to a malfunctioning valve in the ICPS itself.

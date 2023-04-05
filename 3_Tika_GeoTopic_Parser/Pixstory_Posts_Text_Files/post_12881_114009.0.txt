@@ -1,5 +1,0 @@
-CERT-In has published Current Activity on its website (06.07.2022)
-
-Google Chrome WebRTC buffer overflow vulnerability
-
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBADV01&CACODE=CICA-2022-3068

@@ -1,5 +1,0 @@
-Name Sandeep kumar
-Age 13
-Gender Male
-Father name Parmod kapar
-NGO Chintan

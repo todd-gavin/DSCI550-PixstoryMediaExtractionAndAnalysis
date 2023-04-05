@@ -1,6 +1,0 @@
-Name-Palak
-Father's Name-Rajender Kumar
-Age-10
-Sex-Femal
-Class-V
-Chintan

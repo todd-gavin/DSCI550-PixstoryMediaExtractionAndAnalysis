@@ -1,6 +1,0 @@
-Name _ Md bill
-Father  Name _  Mohad kalam
-Age _ 12
-Sex _ Male
-Class_ VII
-Chintan

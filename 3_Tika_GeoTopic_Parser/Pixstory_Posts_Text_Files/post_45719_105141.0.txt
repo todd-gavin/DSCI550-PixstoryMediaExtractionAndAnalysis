@@ -1,7 +1,0 @@
-The DAVINCI mission (Deep Atmosphere Venus Investigation of Noble Gases, Chemistry, and Imaging) is set to launch in 2029 and will send a spaceship and a probe to Venus to examine the planet's many unanswered mysteries. 
-
-NASA TV reported that the spacecraft will fly by Venus twice before dropping its descent probe into the planet's atmosphere, taking measurements of clouds and UV absorption on the planet's day side and heat coming from the planet's surface on the planet's night side. 
-
-The mission's probe, known as the Descent Sphere, will enter Venus' atmosphere two years after launch, swallowing and analysing atmospheric gases while capturing photos as it descends to the planet's surface in the Alpha Regio region.
-
-VfOx will be mounted on the outside of the Descent Sphere, where it will measure the oxygen fugacity – the partial pressure of the oxygen – in the deep atmosphere beneath Venus’ clouds, including the near-surface environment.

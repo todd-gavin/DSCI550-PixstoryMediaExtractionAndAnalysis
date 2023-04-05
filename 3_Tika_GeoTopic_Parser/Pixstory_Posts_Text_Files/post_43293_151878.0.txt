@@ -1,3 +1,0 @@
-Line Breaks and Wrapping Text-
-Typing into spreadsheet cells can be frustrating, as the default for text you type is to continue on forever, without wrapping back down to a new line. You can change that. Create a new line by typing Alt+Enter (hitting Enter alone takes you out of the cell). Or, click the Wrap Text option under the Home tab at the top of the screen, which means all text wraps right at the edge of the cell you're in. Resize the row/column and the text re-wraps to fit.
-If you've got multiple cells that have text overruns, select them all before you click Wrap Text. Or, select all the cells before you even type in them and click Wrap Text. Then whatever you type will wrap in the future.

@@ -1,5 +1,0 @@
-Name :- Ansh 
-Age :- 8         
-Father Name :- Sachin 
-Gender :- Male     
-N.G.O :- Chintan

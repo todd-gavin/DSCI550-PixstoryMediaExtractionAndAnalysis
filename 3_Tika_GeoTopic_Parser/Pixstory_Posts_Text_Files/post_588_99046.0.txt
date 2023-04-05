@@ -1,9 +1,0 @@
-WEALTH
-Wealth index
-Households are given scores based on the number and kinds of consumer goods they own, ranging from a television to a bicycle or car, and housing characteristics such as source of drinking water, toilet facilities, and flooring materials. 
-
-
-In India, the wealthiest households are concentrated in urban areas. Seventy-four percent of the urban population is in the two highest wealth quintiles. By contrast, more than half of the rural population (54%) falls in the two lowest wealth quintiles. Chandigarh (79%), followed by Delhi (68%) and Punjab (61%), have the highest percentage of the population in the highest wealth quintile. The states with the highest percentages of population in the lowest wealth quintile are Jharkhand (46%), Bihar (43%) and Assam (38%). Seventy- one percent of the population in scheduled tribe households and 49 percent of the population in scheduled caste households are in the two lowest wealth quintiles. 
-The survey also collected information on household assets, means of transportation, agricultural land, and farm animals. 
-
-The percentage of households that have a bank account or a post office account is almost the same in urban (95%) and rural areas (96%). Urban households are somewhat more likely than rural households to have a mobile telephone (97% versus 92%). Rural households are more likely than urban households to own agricultural land (52% versus 13%) or farm animals (58% versus 10%).

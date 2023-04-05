@@ -1,5 +1,0 @@
-Name Rohan
-Father name sanjay
-Age 12
-Gender male
-NGo Chintan

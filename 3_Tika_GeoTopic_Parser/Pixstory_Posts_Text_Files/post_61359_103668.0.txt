@@ -1,1 +1,0 @@
-Importing static CSV data into a Google spreadsheet can be as easy as doing File > Import > Upload. However, when you have a link to a dynamic CSV file that is being regularly updated, and want to import it into your own Google Spreadsheet to edit the data, it's not as simple.

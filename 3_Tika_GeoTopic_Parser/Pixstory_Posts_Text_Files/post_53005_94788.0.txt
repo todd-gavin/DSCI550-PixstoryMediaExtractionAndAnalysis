@@ -1,5 +1,0 @@
-Name reetu
- father name Ramakant Verma
- age 13
- gender female
- NGO Chintan

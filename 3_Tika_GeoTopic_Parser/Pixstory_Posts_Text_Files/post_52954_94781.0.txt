@@ -1,5 +1,0 @@
-Name Alisha 
-age 10
-Father  Shanu
-Gender Female 
-N G O Chintan

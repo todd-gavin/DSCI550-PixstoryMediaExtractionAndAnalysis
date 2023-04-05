@@ -1,8 +1,0 @@
-Multiple vulnerabilities in Mozilla products
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0242
-
-Multiple vulnerabilities in Apple iTunes for Windows
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0243
-
-Multiple vulnerabilities in Wordpress
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0244

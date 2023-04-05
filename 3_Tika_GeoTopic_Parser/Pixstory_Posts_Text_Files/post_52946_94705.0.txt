@@ -1,5 +1,0 @@
-Name Ishika
- father name Subhash
-age 9
- gender female
- NGO Chintan

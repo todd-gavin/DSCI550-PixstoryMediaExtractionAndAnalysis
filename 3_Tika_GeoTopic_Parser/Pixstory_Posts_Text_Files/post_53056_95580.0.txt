@@ -1,6 +1,0 @@
-Name: Priya
-Father: Lt. Dheeraj
-Age: 14
-Class: VIII
-Sex: Female
-Sihani A

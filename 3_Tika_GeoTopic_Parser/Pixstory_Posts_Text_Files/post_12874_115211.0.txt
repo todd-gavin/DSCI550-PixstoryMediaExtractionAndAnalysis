@@ -1,7 +1,0 @@
-CERT-In has published Vulnerability Notes on its website (11.07.2022) 
-
-Multiple Vulnerabilities in Apache HTTP Server
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0293
-
-Multiple Vulnerabilities in Microsoft Edge
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0292

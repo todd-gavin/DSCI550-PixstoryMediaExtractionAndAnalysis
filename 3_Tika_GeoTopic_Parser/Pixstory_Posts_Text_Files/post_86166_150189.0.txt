@@ -1,3 +1,0 @@
-IRCTC passengers can track live train status and journey details on WhatsApp.
-WhatsApp chatbot helps in tracking all the train journey details. 
-Indian Railway passengers can also order food online through WhatsApp. 

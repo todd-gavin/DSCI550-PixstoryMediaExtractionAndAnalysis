@@ -1,1 +1,0 @@
-HC tells GMSH 16 to provide treatment to a 5 month pregnant woman staying in Kansal.

@@ -1,6 +1,0 @@
-Name : Krishna
-Father Name  : Latoori Lal
-Age : 13
-Sex : Male
-Class : VIII 
-Chintan

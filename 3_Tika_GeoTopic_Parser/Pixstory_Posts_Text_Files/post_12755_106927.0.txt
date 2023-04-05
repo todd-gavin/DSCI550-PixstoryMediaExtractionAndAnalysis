@@ -1,7 +1,0 @@
-Multiple Vulnerabilities in Android OS
-
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0263
-
-Multiple Vulnerabilities in Drupal
-
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0264

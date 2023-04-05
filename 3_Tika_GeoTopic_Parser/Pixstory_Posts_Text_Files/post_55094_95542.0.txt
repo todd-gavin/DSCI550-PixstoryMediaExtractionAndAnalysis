@@ -1,5 +1,0 @@
-Name  Aarif
-Age 11
-Father Aarsh
-Gender Male
-NGO chintan

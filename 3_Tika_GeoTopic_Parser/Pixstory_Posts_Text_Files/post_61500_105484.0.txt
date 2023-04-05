@@ -1,7 +1,0 @@
-Instructions to be followed to copy text from photo.
-1. Install Google lens app
-2. Open Google lens
-3. Select the photo from which you want to        copy the text 
-4. Select the text 
-5. Select the option 'copy'
-Tadaaa!!!! Your text from the photo is copied. ☺️

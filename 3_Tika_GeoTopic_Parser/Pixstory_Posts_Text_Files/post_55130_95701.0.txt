@@ -1,6 +1,0 @@
-Name Ayan
-Father Name Mohad Shehzed
-Age 9
-Class V
-Sex M
-Chintan

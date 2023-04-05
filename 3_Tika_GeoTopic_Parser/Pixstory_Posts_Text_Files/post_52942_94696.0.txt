@@ -1,5 +1,0 @@
-Name Chandni
- father name  Patna 
-age 12
- gender female 
-NGO Chintan

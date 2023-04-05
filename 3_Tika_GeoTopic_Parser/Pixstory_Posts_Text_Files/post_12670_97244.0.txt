@@ -1,4 +1,0 @@
-CERT-In issues directions relating to information security practices, procedure, prevention, response and reporting of cyber incidents for Safe & Trusted Internet.
-
-https://www.cert-in.org.in/Directions70B.jsp
-https://www.pib.gov.in/PressReleasePage.aspx?PRID=1820904

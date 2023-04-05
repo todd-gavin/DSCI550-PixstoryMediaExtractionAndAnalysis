@@ -1,6 +1,0 @@
-Name Ikra
-Father Name Salauddin
-Age 12
-Sex F
-Class VIII
-Chintan

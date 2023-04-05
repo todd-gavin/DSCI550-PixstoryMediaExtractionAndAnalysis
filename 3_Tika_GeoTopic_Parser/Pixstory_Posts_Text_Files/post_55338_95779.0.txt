@@ -1,6 +1,0 @@
-Name-Sadaf
-Father'sName-Mohd.  Imtiyaj
-Age-11
-Sex-Female
-Class-VII
-Chintan

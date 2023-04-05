@@ -1,6 +1,0 @@
-Name  Simran 
-father Samajdeen
-Age-13
-Sex female
-
- NGO Chintan

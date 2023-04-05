@@ -1,7 +1,0 @@
-The black hole at the centre of the Perseus galaxy cluster has been linked to sound since 2003. NASA TV reported that this is because astronomers discovered that the black hole's pressure waves generated ripples in the hot gas in the cluster, which could be translated into a note - one that humans can't hear because it's 57 octaves below middle C. 
-
-This black hole sound machine now has more notes thanks to a new sonification. This year's NASA Black Hole Week will feature a new sonification - or the translation of astronomical data into sound. 
-
-Because it revisits the real sound waves discovered in data from NASA's Chandra X-ray Observatory, this sonification is unlike any other done before (1, 2, 3, 4).
-
-In this new sonification of Perseus, the sound waves astronomers previously identified were extracted and made audible for the first time. The sound waves were extracted in radial directions, that is, outwards from the center. The signals were then resynthesized into the range of human hearing by scaling them upward by 57 and 58 octaves above their true pitch. Another way to put this is that they are being heard 144 quadrillion and 288 quadrillion times higher than their original frequency.

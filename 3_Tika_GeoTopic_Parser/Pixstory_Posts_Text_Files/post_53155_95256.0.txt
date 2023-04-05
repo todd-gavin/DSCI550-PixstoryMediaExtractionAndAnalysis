@@ -1,6 +1,0 @@
-Name _ Kritika
-Father  name _ Mitra sen
-Age _ 12
-Sex _ Female
-Class _ VII
-Chintan

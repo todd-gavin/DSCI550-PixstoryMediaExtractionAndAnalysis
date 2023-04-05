@@ -1,6 +1,0 @@
-Name : dilnawa
-Father : sanwar
-Age : 11
-Class : v
-Sex : male
-Sihani a

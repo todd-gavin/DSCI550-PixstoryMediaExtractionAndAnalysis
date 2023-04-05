@@ -1,5 +1,0 @@
-Name Sandeep
- father name shravan Kumar Gupta
- age 8
-gender male 
-NGO chintan

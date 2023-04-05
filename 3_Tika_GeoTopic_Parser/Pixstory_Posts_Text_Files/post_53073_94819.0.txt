@@ -1,5 +1,0 @@
-Name Sandeep
- father name Sarvan Gupta
- age 8
- gender male
- NGO Chintan

@@ -1,6 +1,0 @@
-Name Sabikul
-Fathers Name Wajjuddin
-Class-1
-Sex-male
-Age 7
-Sihani old

@@ -1,6 +1,0 @@
-Name-Nasreen
-Father's Name-Nasir
-Age-9
-Sex-Female
-Class-IV
-Chintan

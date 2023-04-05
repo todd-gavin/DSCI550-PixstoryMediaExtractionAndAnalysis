@@ -1,5 +1,0 @@
-Name mamta
-Father name rajesh mahto
-Age 11
-Gender female
-N.G.O chintan

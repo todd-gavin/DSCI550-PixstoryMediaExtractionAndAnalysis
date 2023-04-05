@@ -1,6 +1,0 @@
-Name-Ijrail
-Father's Name-Niyaz Ahmed
-Age-14
-Sex-Male
-Class-VII
-Chintan

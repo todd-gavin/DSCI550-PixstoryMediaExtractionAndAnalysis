@@ -1,6 +1,0 @@
-Name_zainul
-Father Name_sagar
-Age_ 11
-Sex _ male 
-Class_V
-Chintan

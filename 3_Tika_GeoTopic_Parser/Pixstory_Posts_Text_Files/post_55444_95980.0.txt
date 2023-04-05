@@ -1,6 +1,0 @@
-Name _ shumaila parveen
-Father Name _ Ansoor Alam 
-Age _10 
-Sex female
-Class__V
-Chintan

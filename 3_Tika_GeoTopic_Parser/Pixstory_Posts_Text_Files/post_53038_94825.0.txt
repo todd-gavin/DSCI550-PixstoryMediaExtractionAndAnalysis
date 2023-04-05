@@ -1,5 +1,0 @@
-Name Sandhya 
-father name Sunil Kumar
- age 9
- gender female
- ngo chintan

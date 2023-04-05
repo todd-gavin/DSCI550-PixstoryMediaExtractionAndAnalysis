@@ -1,5 +1,0 @@
-Name Rupesh
- father name Mahendra Yadav
- age 11 
-gender male
- NGO Chintan

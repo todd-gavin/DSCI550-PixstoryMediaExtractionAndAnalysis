@@ -1,5 +1,0 @@
-Name - sunny 
-Age - 11
-Father name - Anil
-Gender - Male
-NGO Chintan

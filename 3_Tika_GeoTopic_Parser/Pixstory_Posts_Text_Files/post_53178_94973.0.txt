@@ -1,5 +1,0 @@
-Name  teena
-age  10
-Father Hariram
-Gender  female
-Ngo chintan

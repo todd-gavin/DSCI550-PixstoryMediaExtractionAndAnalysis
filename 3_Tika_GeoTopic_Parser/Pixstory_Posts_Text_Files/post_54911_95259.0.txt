@@ -1,6 +1,0 @@
-Name Adarsh
-Father's name  Rohit
-Age 9
-Class lV
-Gender   Male
-Chintan

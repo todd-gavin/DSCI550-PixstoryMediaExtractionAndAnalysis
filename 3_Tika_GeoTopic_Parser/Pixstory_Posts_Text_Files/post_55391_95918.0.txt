@@ -1,6 +1,0 @@
-Name : tanishka
-Father : brijmohan
-Class : v
-Age : 11
-Sex : female
-Sihani old

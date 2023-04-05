@@ -1,9 +1,0 @@
-Background
-The impact of a comprehensive therapeutic patient education (TPE) on the prognosis of diabetic foot ulcer (DFU) has been never evaluated in the literature. Aim of the study was to evaluate whether TPE is a predictor of the outcomes of DFU in persons with type 2 diabetes.
-Methods
-We evaluated 583 consecutive people with a recent and single DFU. They were treated and followed-up for 42.8±23.3 months. Patients were divided into two groups. The TPE group included subjects who had been receiving regular sessions of a comprehensive TPE, including a specific foot care education (FCE), for at least twelve months before DFU occurred (n=129). The NO TPE group included the remaining subjects (n=454). All the 583 patients received intensive FCE during the treatment period.
-Results
-A significant higher percentage of healed DFU (96.0 vs 74.9%; p<0.0001) and a lower percentage of major amputations (0.8 vs 4.4%; p=0.0511), minor amputations (1.6 vs 12.3%; p=0.0003), DFU persistence (1.6 vs 8.4%; p=0.0069) and deaths (1.6 vs 21.4%; p<0.0001) was observed in TPE than in NO TPE group. Among 464 patients with healed ulcers, the proportion of subjects with re-ulceration was greater in NO TPE than in TPE group (48.8% vs 6.5%; p<0.0001). Multivariate analysis showed that TPE can predict healing (OR: 4.202; CI95%:1.604-11.004; p=0.0035) and may significantly reduce DFU recurrence (OR: 0.093; CI95%:0.043-0.201; p<0.0001) and mortality (OR: 0.096; CI95%:0.022-0.410; p=0.0016).
-Conclusions
-A comprehensive TPE may have a positive impact on wound healing, ulcer recurrence and mortality in people with DFU.
-Sources - https://www.sciencedirect.com/science/article/abs/pii/S1499267122002441

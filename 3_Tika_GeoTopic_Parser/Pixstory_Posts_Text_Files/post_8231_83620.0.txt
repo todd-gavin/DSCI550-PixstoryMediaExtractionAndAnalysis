@@ -1,7 +1,0 @@
-Welcome to The Ringer’s NBA Odds Machine for the 2021-22 season. Based on team strength as measured by point differential—a historically strong predictor of future success—with adjustments for individual wrinkles like injuries and schedules, the Odds Machine includes four main features: postseason odds (including each team’s likelihood of making the playoffs and winning the title), odds for reaching the play-in tournament, the most likely final standings for each conference,
-and lottery odds (for the top pick and a top-five pick). The Odds Machine will update every day until a champion is crowned, so check back throughout the coming months as the league’s best teams battle for a title.
-
-We’re simulating the rest of the regular season—and postseason—every day. This chart shows the average win total for every team, as well as each team’s likelihood of qualifying for the playoffs and winning the 2021-22 title.
-
-Read more
-https://www.theringer.com/nba/22948049/nba-playoff-lottery-odds-probability-model

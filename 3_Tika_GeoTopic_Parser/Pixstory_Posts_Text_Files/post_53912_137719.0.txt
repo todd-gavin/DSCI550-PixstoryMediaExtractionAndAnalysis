@@ -1,9 +1,0 @@
-If you’ve ever had a urinary tract infection (UTI) before, you know what a pain it can be. Not just because of the physical pains it causes, but because it can also be such a pain to go to the doctor, provide a urine sample, and wait for your results.
-UTIs are extremely common, with nearly half of women getting one at some point in their lifetime. In order to test for a UTI, a urine sample needs to be sent to a hospital microbiology lab.
-There, they will look for bacteria that cause infections and check if these bacteria are resistant to antibiotics. This is typically done by using a technique called agar plating. A small amount of urine is put on to a small round dish filled with a nutrient jelly called agar, which is kept warm overnight to allow any bacteria to grow.
-This common technique has been around for nearly 140 years and remains the clinical standard in many hospitals. But in an age when we can instantly test for a COVID-19 infection, measure blood glucose with an electronic reader, and wear wrist watches that track our heart rates, why do we still use this old method that takes days to accurately diagnose a UTI?
-It’s actually pretty clever
-If an infection is suspected, it’s important to know what type of bacteria (if any) are present, how many are in your urine, and which antibiotic those bacteria can be treated with.
-But urine samples can also contain a lot of other stuff – such as urea and salts, and different levels of acidity – that might affect the detection of bacteria. Spreading the urine on agar removes anything that might interfere with bacterial growth.
-This technique also allows single cells in the sample to form blobs (called colonies) which are easy to count. The shape, colour, size and even smell of colonies can be used to indicate which types of bacteria are present. 
-Read more: https://theconversation.com/utis-are-still-diagnosed-using-a-140-year-old-method-heres-why-188955

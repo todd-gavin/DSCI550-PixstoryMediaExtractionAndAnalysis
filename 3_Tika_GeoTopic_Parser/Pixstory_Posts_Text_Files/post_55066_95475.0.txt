@@ -1,6 +1,0 @@
-Name Sofiya
-Father name Shahidur Ali
-Age 11
-Class V
-Sex Female
-Chintan

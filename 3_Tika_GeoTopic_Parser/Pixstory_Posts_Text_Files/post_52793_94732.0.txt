@@ -1,5 +1,0 @@
-Name :- Vanshika
-Age :- 8
-Father :- Raj kumar
-Gender :- Female
-N.G.O :- Chintan

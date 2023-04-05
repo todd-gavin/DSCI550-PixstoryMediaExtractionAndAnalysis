@@ -1,5 +1,0 @@
-Multiple Vulnerabilities in Google Chrome	
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0274
-
-Remote Code Execution Vulnerability in OpenSSL	
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0275

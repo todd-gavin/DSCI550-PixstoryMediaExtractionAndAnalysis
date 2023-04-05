@@ -1,6 +1,0 @@
-Name Nasrin
-Father name Sahid Ali
-Age 10
-Class v
-Sex Female
-Chintan

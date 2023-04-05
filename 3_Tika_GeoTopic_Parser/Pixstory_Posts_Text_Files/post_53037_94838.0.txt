@@ -1,5 +1,0 @@
-Name Ishan 
-father name imran
- age 10 
-gender male 
-ngo chintan

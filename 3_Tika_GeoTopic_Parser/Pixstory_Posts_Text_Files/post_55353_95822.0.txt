@@ -1,6 +1,0 @@
-Name.Sandeep
-Father Name.Babblu
-Age..12
-Sex..Male
-Class..7th
-CHINTAN

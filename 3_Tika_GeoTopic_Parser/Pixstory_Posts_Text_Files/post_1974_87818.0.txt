@@ -1,7 +1,0 @@
-Meta, the parent company of Facebook, stated that they removed a “deepfake” video of Ukrainian Volodymyr Zelenskyy telling his soldiers to lay down their weapons. The Ukrainian president addressed the deep fake in a subsequent video, telling viewers, “If I can offer someone to lay down their arms, it’s the Russian military.”
-
-Deepfake technology is software that utilizes machine learning to realistically project a person's face onto an actor's face, making it appear as though the person is performing the activity the model is performing. Many experts have warned about the risks of governments and other bad actors using deepfake technology to foment division and propagate disinformation. While the best deepfakes can be difficult to detect with the naked eye, almost all deepfakes can be detected using algorithms that identify abnormalities in the video. 
-
-Unfortunately, because many deepfakes are so good, they can achieve their goal by spreading for a short period of time - even if they are subsequently revealed to be fake. If that sounds unbelievable, consider this: we already see this with manipulated images that are spread online, with the harm done before they are finally revealed to be fake.
-
-What are your thoughts? Have you been more vigilant about what you share online?

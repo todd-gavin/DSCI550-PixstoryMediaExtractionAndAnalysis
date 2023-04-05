@@ -1,4 +1,0 @@
-CERT-In has published a current activity on its website (11.07.2022) 
-
-Threat actors exploiting Windows LSA Spoofing vulnerability   
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBADV01&CACODE=CICA-2022-3069

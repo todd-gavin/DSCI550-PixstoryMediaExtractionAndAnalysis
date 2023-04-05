@@ -1,7 +1,0 @@
-The H&M Group has established a new partnership with Google Cloud that will see the retailer utilise the platform’s data analytics capabilities to enhance customer experience and supply chain enablement.
-
-The duo will be collaborating on the development of an “enterprise data backbone”, which will include a core data platform and advanced artificial intelligence (AI) and machine learning (ML) capabilities.
-
-“H&M Group has a long history of innovation across all our brands and always wants to build meaningful relationships with our customers,” said the group’s chief technology officer, Alan Boehme, in a release.
-
-Boehme continued: “We are further accelerating digitalisation as we believe in sustainable growth powered by advanced analytics and tech. Therefore, I’m happy to announce we’ve found a provider who matches our needs.”

@@ -1,9 +1,0 @@
-As per NASA TV, Asteroid Bennu’s boulder-covered surface gives it protection against small meteoroid impacts, according to observations of craters by NASA’s OSIRIS-REx (Origins, Spectral Interpretation, Resource Identification, Security-Regolith Explorer) spacecraft.
-
-“These observations give new insight into how asteroids like Bennu respond to energetic impacts,” said Edward (Beau) Bierhaus of Lockheed Martin Space, Littleton, Colorado, lead author of a paper published in this month’s issue of Nature Geoscience.
-
-Bennu is a “rubble-pile” asteroid, meaning that it formed from the debris of a much larger asteroid that was destroyed by an ancient impact. Fragments from the collision coalesced under their own weak gravity to form Bennu.
-
-The team used unprecedented, high-resolution global data sets to examine craters on Bennu: images from the OSIRIS-REx Camera Suite and surface-height data (topography) derived from the OSIRIS-REx Laser Altimeter, a laser-ranging (lidar) instrument on the spacecraft.
-
-“Measuring craters and their population on Bennu was exceptionally exciting,” said David Trang of the University of Hawaii at Mānoa, Honolulu, a co-author of the paper. “At Bennu, we discovered something unique to small and rocky bodies, which expanded our knowledge of impacts.”

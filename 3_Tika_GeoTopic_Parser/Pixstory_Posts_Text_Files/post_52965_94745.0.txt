@@ -1,5 +1,0 @@
-Name Umang
-Father name Uday bhan
-Age 10
-Gender male
-N.G.O chintan

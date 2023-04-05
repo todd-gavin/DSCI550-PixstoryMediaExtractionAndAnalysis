@@ -1,5 +1,0 @@
-Name  wahid
- father name  sarfara 
-Age.  10
-gender male 
-NGO chintan

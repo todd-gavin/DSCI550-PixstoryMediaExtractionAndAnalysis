@@ -1,5 +1,0 @@
-Name liba  
-Age 12
-Father Vakil
-Gender  Female
-N G O Chintan

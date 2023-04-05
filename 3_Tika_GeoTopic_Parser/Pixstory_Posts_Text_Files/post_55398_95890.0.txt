@@ -1,5 +1,0 @@
-Name khushi 
-Father lmran 
-Age 9
-Class 3
-Sex female

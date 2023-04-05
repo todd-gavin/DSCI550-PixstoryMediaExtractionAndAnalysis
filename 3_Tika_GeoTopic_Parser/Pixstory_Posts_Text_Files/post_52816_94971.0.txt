@@ -1,6 +1,0 @@
-Name _ Anshra
-Father Name _yameen
-Age _11
-Sex_ Female
-Class_VI
-Chintan

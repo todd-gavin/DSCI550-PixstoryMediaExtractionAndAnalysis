@@ -1,1 +1,0 @@
-A chess board is made of 8x8 square grid, with 2 different set of colours. It is played by 2 players, having a pair of 2 rooks, 2 bishops, 2 knights, 8 pawns and 1 king and queen each, all of which move in their own unique way. Player who defeats the other player's king is declared the winner.

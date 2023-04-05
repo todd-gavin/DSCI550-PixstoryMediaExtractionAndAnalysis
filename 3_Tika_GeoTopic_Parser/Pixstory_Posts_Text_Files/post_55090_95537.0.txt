@@ -1,6 +1,0 @@
-Name Ajay
-Father name Rakesh
-Age 13
-Class Vll
-Sex Male
-Chintan

@@ -1,9 +1,0 @@
-Marcos Pazos-Couselo Francisco Gude 
-
-Abstract 
-
-Aims 
-
-This study aimed to determine the effect of aging on glucose profiles in a population without diabetes. Methods: We investigated the evolution of glucose profiles in an adult population without diabetes using continuous glucose monitoring (CGM) in two periods separated by 5 years. Anthropometrics, laboratory tests (HbA1c, fasting blood glucose) and CGM data (mean glycemia level, coefficient of variation, time in range) were measured in both periods to study the change in values over time. Results: 125 participants (68% women) mean age 43.1±12.4 years and classified as normoglycemic at baseline were included. Of the total population 15.2% had worsened glycemic status after 5 years, age and baseline glucose values (HbA1c and percentage of values above 175 mg/dL) were the variables related with this change. Related to CGM, we found that after 5 years there was a decrease in the percentage of values between 70-99 mg/dl (45.0% to 38.7%, p=0.002) and an increase in the 100-139 mg/dL range (52.9% to 57.5% p=0.016). Conclusions: Our results indicate that in an adult population without diabetes there are changes in glucose profiles with aging highlighting the reduction of blood glucose values below 100 mg/dL. 
-
-Sources - https://www.sciencedirect.com/science/article/abs/pii/S0168822722007434

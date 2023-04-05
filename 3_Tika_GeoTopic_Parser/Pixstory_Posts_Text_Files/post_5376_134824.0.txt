@@ -1,6 +1,0 @@
-This is line 1
-This is line 2
-InsertedLink
-This is line 3
-https://developer.apple.com/documentation/sign_in_with_apple/generate_and_validate_tokens
-This is line 4

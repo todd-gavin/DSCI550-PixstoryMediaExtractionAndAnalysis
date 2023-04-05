@@ -1,5 +1,0 @@
-Name :- Reshma
-Age :- 8
-Father name :- Malik
-Gender :- Female
-N.G.O :- Chintan

@@ -1,9 +1,0 @@
-Nasa controllers will purposefully crash their $330 million Dart robot spacecraft into an asteroid in a few weeks. The Guardian reported that when the half-ton probe collides with Dimorphos, its target, it will be travelling at a speed of more than four miles per second, and it will be annihilated. 
-
-The mission's simple goal is to teach space engineers how to divert asteroids in the event that one is ever detected headed directly for Earth. They claim that critical information about how well spacecraft can defend Earth from asteroid armageddon will be revealed by observations of Dart's effects on Dimorphos's orbit.
-
-“We know asteroids have hit us in the past,” said Professor Alan Fitzsimmons, an astronomer at Queen’s University Belfast. “These impacts are a natural process and they are going to happen in the future. We would like to stop the worst of them.
-
-“The problem is that we have never tested the technology which will be needed to do that. That is the purpose of Dart,” said Fitzsimmons, a member of the science team for the Double Asteroid Redirection Test (Dart) mission. 
-
-By carefully examining the asteroid's path after the collision, scientists hope to gain a better understanding of how similar collisions could be used to deflect Earth-bound asteroids and comets. The probe, which was launched last November, is scheduled to strike its target in the early hours of September 27 BST.

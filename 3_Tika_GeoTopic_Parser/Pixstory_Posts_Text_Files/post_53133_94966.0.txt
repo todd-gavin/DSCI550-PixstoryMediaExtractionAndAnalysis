@@ -1,6 +1,0 @@
-Name. Chahat
-Age. 12
-Father. Ashraf
-Gender. Female
-Class  7
-N.g.o. Chintan

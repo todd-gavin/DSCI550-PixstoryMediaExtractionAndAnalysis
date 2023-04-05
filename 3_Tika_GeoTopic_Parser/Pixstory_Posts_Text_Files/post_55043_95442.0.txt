@@ -1,5 +1,0 @@
-Name ananya
-Age 11
-Father ramchandr
-Gender female
-Ngo chintan

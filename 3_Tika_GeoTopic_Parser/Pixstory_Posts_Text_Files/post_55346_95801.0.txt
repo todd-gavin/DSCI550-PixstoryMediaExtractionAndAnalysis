@@ -1,5 +1,0 @@
-Name pushpender
-Age 10
-Father anand
-Gender male
-Nge chintan

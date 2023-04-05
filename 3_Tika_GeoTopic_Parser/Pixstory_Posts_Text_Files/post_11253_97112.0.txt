@@ -1,9 +1,0 @@
-Smallpox was eradicated globally in the 1980s via intradermal vaccination with vaccinia virus. According to Evgeniya V. Shmeleva, Brian J. Ferguson, and Geoffrey L. Smith of the University of Cambridge, the rise in skin bacteria may boost the immunological response.
-
-Vaccine with smallpox required repeated skin punctures, which may have brought local germs into the vaccination site. No one knows if the skin microbiota affects the efficiency of the smallpox vaccine. Scientists studied the immunological response to smallpox immunisation in both germ-free and normal mice, some of which were given antibiotics. The researchers inoculated the mice with vaccinia virus and then evaluated their immunological responses.
-
-An increase in skin microbiota, bigger lesions, and antibody levels following intradermal vaccination of non-germ-free mice suggests an increased skin-based inflammatory response in the presence of bacteria. Infection-free or antibiotic-treated animals exhibited smaller lesions and less skin inflammation. However, all groups showed identical memory T cell counts and resistance to re-infection. Because the study only examined the effects of vaccinia virus vaccination on mice, it cannot be generalised to other vaccines or to human immunisation.
-
-It has ramifications for additional vaccines based on infectious poxviruses or other viral vectors administered through cutaneous immunisation, according to the scientists.
-
-They add: "We found that cutaneous immunisation with smallpox vaccine increased local microorganisms, enlarged vaccination lesions, and influenced immune response. Manipulation of commensal skin microbiota may improve the efficacy of intradermal vaccines."

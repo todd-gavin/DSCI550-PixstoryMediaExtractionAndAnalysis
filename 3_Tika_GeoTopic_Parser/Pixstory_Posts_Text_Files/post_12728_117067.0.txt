@@ -1,3 +1,0 @@
-Multiple Vulnerabilities in Adobe Acrobat and Reader	
-
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0297

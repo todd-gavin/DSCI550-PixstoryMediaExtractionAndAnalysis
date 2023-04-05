@@ -1,6 +1,0 @@
-Name Sahina
-Fathers Name 
-Class-1
-Sex-female 
-Age 6
-Sihani old

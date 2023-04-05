@@ -1,6 +1,0 @@
-Name _ Mahbooba kgatun
-Father name _ Dhoni mohd
-Age _ 12
-Gender _ Male
-Class_ VII
-Chintan

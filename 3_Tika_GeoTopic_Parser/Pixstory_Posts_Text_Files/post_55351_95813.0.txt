@@ -1,6 +1,0 @@
-Name-Aniket
-Father's Name-Rajeev
-Age-9
-Sex-Male
-Class-IV
-Chintan

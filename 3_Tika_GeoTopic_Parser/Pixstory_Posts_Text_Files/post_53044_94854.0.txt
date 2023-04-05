@@ -1,5 +1,0 @@
-Name -sahib
-Father-sotu
-Age-6
-Sex-female
-Ngo-chintan

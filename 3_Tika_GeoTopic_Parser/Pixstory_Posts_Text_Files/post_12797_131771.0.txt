@@ -1,7 +1,0 @@
-Remote Code Execution vulnerability in GitLab
-
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0335
-
-Privilage Escalation Vulnerability in VMware tools
-
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0336

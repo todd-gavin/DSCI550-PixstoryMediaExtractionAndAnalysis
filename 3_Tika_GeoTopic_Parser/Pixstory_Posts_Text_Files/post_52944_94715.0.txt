@@ -1,5 +1,0 @@
-Name shweta
-Father name pale sharma
-Age 10
-Gender female
-N.G.O chintan

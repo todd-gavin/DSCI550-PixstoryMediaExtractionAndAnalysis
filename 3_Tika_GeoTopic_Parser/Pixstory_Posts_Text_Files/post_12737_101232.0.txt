@@ -1,6 +1,0 @@
-Multiple vulnerabilities in Apple iOS and iPadOS 
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0236
-
-
-Multiple vulnerabilities in Apple watch 
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0235

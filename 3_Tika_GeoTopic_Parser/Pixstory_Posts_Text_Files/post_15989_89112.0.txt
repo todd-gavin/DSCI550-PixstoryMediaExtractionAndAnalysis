@@ -1,7 +1,0 @@
-Zhi Lu J.-Y.Peng 
-
-Abstract 
-
-Dioscin presents extents of pharmacological activities on several diseases, but its effect and mechanism on diabetes cognitive dysfunction (DCD) remains unclear. Herein, we conducted a series of pharmacological evaluation assays of purinergic receptor P2X7 (P2X7R) with dioscin. We uncovered that dioscin presented a clearly protective effect on diabetes cognitive dysfunction via a methylglyoxal-treated PC12 cell model and streptozocin (STZ)-induced rat models. Additionally, it found that P2X7R and NLRP3 inflammasome signals were activated in diabetes cognitive dysfunction via in vivo and in vitro detection. Moreover, it was demonstrated that P2X7R regulated NLRP3 inflammasome signals in methylglyoxal-treated PC12 cells. Meanwhile, it was showed that dioscin-induced anti-diabetes cognitive dysfunction effect was accompanied with an inhibition of P2X7R/NLRP3 signal. A deeper mechanical study indicated that an overexpression of P2X7R further enhanced the protective effect of dioscin. Whilst, an inhibition of P2X7R abolished the protective effect of dioscin. These results suggested that dioscin protected type 2 diabetes cognitive dysfunction through, at least partially, regulating the P2X7R/NLRP3 signal pathway. Our findings further indicate the great value of dioscin on preventing type 2 diabetes cognitive dysfunction. 
-
-Sources - https://www.sciencedirect.com/science/article/pii/S1567576921009504

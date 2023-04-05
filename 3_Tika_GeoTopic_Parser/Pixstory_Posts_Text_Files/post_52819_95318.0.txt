@@ -1,6 +1,0 @@
-Name-Mantasha
-Father Name-Mohd. Shamim
-age-9
-Sex-Female
-Class-IV
-Chintan

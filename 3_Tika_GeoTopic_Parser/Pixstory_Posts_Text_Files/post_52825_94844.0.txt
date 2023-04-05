@@ -1,5 +1,0 @@
-Name divyanjali 
-father name Raju Kumar
-Age   9  
-gender female 
-N.Go  Chintan

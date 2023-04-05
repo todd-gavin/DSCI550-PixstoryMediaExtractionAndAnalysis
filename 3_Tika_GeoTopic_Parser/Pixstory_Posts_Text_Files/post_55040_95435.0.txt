@@ -1,6 +1,0 @@
-Name Jahangir Alam
-Father name Nazir
-Age 11
-Class Vl
-Sex Male
-Chintan

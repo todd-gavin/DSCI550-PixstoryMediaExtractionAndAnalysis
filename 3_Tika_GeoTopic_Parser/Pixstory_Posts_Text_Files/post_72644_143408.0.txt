@@ -1,2 +1,0 @@
-Whatsapp is working on a new feature that will let us to conduct polls in the App. According to Wabetainfo, the website that tracks all Whatsapp related update. Whatsapp user will be able to add upto 12 options in the polls but this value can be change in future. This innovative feature will allow participants to share polls with other members of the group. The poll option will appear in the chat action sheet wherein we find all other media sharing option.
-The new feature will show up for Whatsapp beta on desktop and iOS in near feature.

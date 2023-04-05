@@ -1,4 +1,0 @@
-Name Happy 
-Age 8 
-Sex male
-Father name Abhishek

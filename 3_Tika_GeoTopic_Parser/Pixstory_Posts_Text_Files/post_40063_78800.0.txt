@@ -1,6 +1,0 @@
-According to crypto data firm Chainalysis, around 20% of Bitcoin has been lost or is stuck in wallets that can't be accessed. Today that equates to 3.76 million BTC (worth about $190 billion).
-
-If you're wondering how that's possible, there are a few ways. First, about 1.1 million BTC is held by the top coin's anonymous creator, Satoshi Nakamoto, according to Decrypt. 
-Sadly, some people passed away without sharing access to their Bitcoin, which accounts for another chunk of out-of-circulation coins.
-Another culprit? Lost keys. Crypto keys are like a bank account PIN, and you need them to access or trade your coins. Unfortunately, there's no handy "forgot password" function. So if you lose your keys, you're unlikely to see those coins again.
-Hardware crypto wallets are a secure way to store your assets offline, as they're difficult to hack. But if you lose the wallet, the password, or the recovery phrase, it's bye-bye crypto. And there are several stories of people losing their wallets. In fact, one man in the U.K. believes his hard drive containing 7,500 BTC (about $380 million) is at his local garbage dump site and has been trying to get permission to search there for years.

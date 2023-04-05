@@ -1,5 +1,0 @@
-Name sahin
- father name  Javed 
-age. 10 
-gender female 
-NGO Chintan

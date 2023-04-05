@@ -1,6 +1,0 @@
-Name Rabbani
-Father name Ajmudin
-Age 10
-Class V
-Sex Male
-Chintan

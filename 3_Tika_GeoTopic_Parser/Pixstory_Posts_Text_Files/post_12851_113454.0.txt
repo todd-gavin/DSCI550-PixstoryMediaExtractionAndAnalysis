@@ -1,5 +1,0 @@
-Data Validation Vulnerability in MiVoice Connect
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0286
-
-Multiple vulnerabilities in Hillrom Medical Device Management 
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0287

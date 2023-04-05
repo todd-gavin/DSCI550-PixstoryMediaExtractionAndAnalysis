@@ -1,5 +1,0 @@
-Name.Ronak
-Father.Ramsharye
-Age.13
-Gender. Female
-N.g.o-Chintan

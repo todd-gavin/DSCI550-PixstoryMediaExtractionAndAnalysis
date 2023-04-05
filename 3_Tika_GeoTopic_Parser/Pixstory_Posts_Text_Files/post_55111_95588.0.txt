@@ -1,4 +1,0 @@
-Name Rijwan
-Age 11
-Gender male
-Father Hasibul Rehman

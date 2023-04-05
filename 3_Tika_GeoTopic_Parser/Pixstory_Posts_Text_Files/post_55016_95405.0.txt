@@ -1,5 +1,0 @@
-Name Bandana
-Age 12
-Father tulsiram
-Gender female
-Ngo chintan

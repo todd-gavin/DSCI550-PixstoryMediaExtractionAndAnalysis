@@ -1,5 +1,0 @@
-Name Ajmile
-Age  12
-Father name   Moinudul
-Gender  Male
-NGO Chintan

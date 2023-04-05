@@ -1,5 +1,0 @@
-Name :- Pooja
-Age :- 8
-Father Name :- Naresh
-Gender :- Female
-N.G.O :- Chintan

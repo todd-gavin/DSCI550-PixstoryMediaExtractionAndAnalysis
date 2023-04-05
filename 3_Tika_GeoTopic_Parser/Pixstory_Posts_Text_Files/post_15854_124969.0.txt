@@ -1,5 +1,0 @@
-Abstract 
-
-Type 2 diabetes (T2D) is characterized by hyperglycemia and insulin resistance. Cocoa may slow T2D development and progression. This study employed male and female BTBR.Cg-Lepob/ob/WiscJ (ob/ob) and wild type (WT) controls to assess the potential for cocoa to ameliorate progressive T2D and compare responses between sexes. Mice received diet without (WT, ob/ob) or with cocoa extract (ob/ob + c) for 10 weeks. Acute cocoa reduced fasting hyperglycemia in females, but not males, after 2 weeks. Chronic cocoa supplementation (6–10 weeks) ameliorated hyperinsulinemia in males and worsened hyperlipidemia and hyperinsulinemia in females, yet also preserved and enhanced beta cell survival in females. The underlying mechanisms of these differences warrant further study. If sex differences are apparent in subsequent preclinical studies, clinical studies will be warranted to establish whether these differences are relevant in humans. Sex differences may need to be considered when designing human dietary interventions for T2D. 
-
-Sources - https://www.sciencedirect.com/science/article/abs/pii/S0006291X22011317

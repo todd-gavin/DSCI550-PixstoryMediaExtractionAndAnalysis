@@ -1,5 +1,0 @@
-Name :- Anmol
-Age :- 8
-Father :- Akhilesh
-Gender :- Female 
-N.G.O :- Chintan

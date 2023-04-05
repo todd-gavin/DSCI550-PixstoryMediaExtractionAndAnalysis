@@ -1,6 +1,0 @@
-CERT-In has published an Advisory and a Vulnerability Note on its website (27.09.2022)
-Responding to Ransomware Attacks
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES02&VLCODE=CIAD-2022-0023
-    
-Multiple Vulnerabilities in WhatsApp
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0370

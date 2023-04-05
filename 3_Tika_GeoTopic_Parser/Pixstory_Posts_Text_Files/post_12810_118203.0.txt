@@ -1,3 +1,0 @@
-Multiple Vulnerabilities in Oracle Products
-
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES02&VLCODE=CIAD-2022-0020

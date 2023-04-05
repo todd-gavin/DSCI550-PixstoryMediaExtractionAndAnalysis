@@ -1,5 +1,0 @@
-Name kayant
- father name MD Shahid 
-age 8 
-gender female 
-NGO children

@@ -1,5 +1,0 @@
-Name Kajal
- father name Sanjay
- age 10
- gender female
- NGO Chintan

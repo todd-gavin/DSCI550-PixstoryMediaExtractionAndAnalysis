@@ -1,7 +1,0 @@
-The Centers for Disease Control and Prevention (CDC) updated its monitoring of COVID-19's impact on our communities on February 25, 2022. The COVID-19 pandemic has entered a new phase due to the widespread availability of vaccines and testing, advances in treatment, and increased levels of immunity in the population as a result of vaccination or previous infection. While we cannot prevent all COVID-19 cases, we can continue to limit the spread of the virus and protect those who are most vulnerable to severe illness.
-
-Currently, 14 counties, districts, or territories have a high COVID-19 Community Level, 175 counties have a medium Community Level, and 3,035 counties have a low Community Level (94.14 percent). This corresponds to a very slight (0.19%) decrease in the number of high-level counties, a slight (+1.55%) increase in the number of medium-level counties, and a corresponding (1.36%) decrease in the number of low-level counties. This week, 22 (39.28 percent) of the 56 jurisdictions had no high- or medium-level counties.
-
-The current 7-day moving average of daily new cases (31,391) as of April 13, 2022 increased 19.1 percent when compared to the previous 7-day moving average (26,357). As of April 13, 2022, there had been 80,341,159 COVID-19 cases reported in the United States.
-
-https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.htm

@@ -1,1 +1,0 @@
-If the iOS popup "Diawi would like to install…" did not appear, check that you don't already have the same app installed from the AppStore.If an app with the same bundle identifier is already installed on the device from the AppStore, nothing will happen.Delete the app installed from the AppStore to be able to install this one.

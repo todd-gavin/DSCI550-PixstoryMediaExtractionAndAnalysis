@@ -1,5 +1,0 @@
-Name  Parbhat
-Age 10
-Father L t Vinod
-Gender Male
-NGO Chintan

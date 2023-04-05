@@ -1,5 +1,0 @@
-Name suraj 
-Father mohan  
-Calss 5
-Age 12
-Sex male

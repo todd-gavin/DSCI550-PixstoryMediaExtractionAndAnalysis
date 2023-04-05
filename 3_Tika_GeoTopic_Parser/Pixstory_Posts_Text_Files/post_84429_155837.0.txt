@@ -1,7 +1,0 @@
-Squash is a racket and ball sport played within a 4-wall court, you might just assume it is just indoor tennis, but i assure you it's not. 
-One major difference between Tennis and Squash is that unlike the tennis racket, a squash racket is broader at the vertical axis giving an unsymmetrical surface area. 
-Another major difference is the ball used: Unlike a Tennis ball, a squash ball is significantly smaller, made of only 2 pieces of rubber glued together, hardly giving any bounce at all that challenges the players. 
-Should you be interested in Squash, I highly recommend these YouTube channels:
-~ SquashTV
-~ SquashSkills
-~ India Squash

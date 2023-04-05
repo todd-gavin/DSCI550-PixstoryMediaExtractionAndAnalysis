@@ -1,5 +1,0 @@
-Name Ashimh
-Father name md salim
-Age 10
-Gender female
-N.G.O chintan

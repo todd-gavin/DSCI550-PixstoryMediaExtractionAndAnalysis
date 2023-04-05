@@ -1,5 +1,0 @@
-Some stadiums draw energy from photovoltaic panels, stadiums also use Absorption Chillers, these chillers use energy from water which is superheated by solar panels, to chill a separate circuit of water.
-This cooled water is then pumped through heat exchange pipes which cools air. These cooled air is then blown by solar powered fans from in front of the stands and also from grills beneath the seats. 
-Behind the seats is another set of grills which sucks the air back in to the air conditioning system where it is filtered and cleaned from dust and then cooled down again before being sent back into the stadium.
-
-Along with all this Qatar has also invested a hefty amount of money to research about Fluid Dynamics. With the help of this research, the angle and speed of the air has been very precisely calibrated to maximise cooling and minimise discomfort for the spectators.

@@ -1,4 +1,0 @@
-Name Kanhaiya 
-father name Vinod Kumar
-  gender male
-NGO Chintan

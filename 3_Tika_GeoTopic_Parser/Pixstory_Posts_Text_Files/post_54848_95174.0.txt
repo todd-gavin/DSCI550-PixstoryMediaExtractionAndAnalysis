@@ -1,5 +1,0 @@
-Name
- father name  Amit 
-Age 7
- gender female 
-NGO Chintan

@@ -1,6 +1,0 @@
-Name : poonam
-Father : mahendra singh
-Age : 11
-Class : vii
-Sex : female
-Sihani a

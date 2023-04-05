@@ -1,5 +1,0 @@
-Name Alfa
-Age 12
-Father Name Mohhmad
-Gendar Female
-NGO Chintan

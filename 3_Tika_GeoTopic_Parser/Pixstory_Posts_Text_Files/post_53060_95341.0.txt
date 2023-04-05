@@ -1,6 +1,0 @@
-Name-priyanka 
-Father-Late-Rakesh 
-Age-8
-Class-1
-Sex-Female
-Chintan

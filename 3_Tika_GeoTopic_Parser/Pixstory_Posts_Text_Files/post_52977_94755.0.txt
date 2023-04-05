@@ -1,5 +1,0 @@
-Name tiger 
-father name rafiqur Rahman
- age  10
- gender female
- NGO Chintan

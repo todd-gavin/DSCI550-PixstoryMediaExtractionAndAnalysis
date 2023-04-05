@@ -1,6 +1,0 @@
-Name Anushka
-Father name Rakesh kumar
-Age 8
-Class lll
-Sex Female
-Chintan

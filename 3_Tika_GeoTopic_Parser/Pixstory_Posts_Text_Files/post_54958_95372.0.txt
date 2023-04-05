@@ -1,5 +1,0 @@
-NAME NIKHIL kumar 
-Age 13
-Gender Male
-Father name Ramvivak 
-NGO Chintan

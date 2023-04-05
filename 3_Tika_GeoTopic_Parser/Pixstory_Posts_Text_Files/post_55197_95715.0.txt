@@ -1,6 +1,0 @@
-Name Abdul Saad
-Father name Abdul Shakir
-Age 8
-Class 4
-Sex M
-Chintan

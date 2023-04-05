@@ -1,5 +1,0 @@
-Name-kulsum
-age 11
-Father mo llyas
-Gender female
-ngo chintan

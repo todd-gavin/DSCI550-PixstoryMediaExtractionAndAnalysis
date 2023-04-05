@@ -1,5 +1,0 @@
-Name :-Rasiya
-Age :- 8
-Father Name :-Rakibul
-Gender :-  Female
-N.G.O :- Chintan

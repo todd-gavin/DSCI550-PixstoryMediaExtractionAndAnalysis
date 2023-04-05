@@ -1,5 +1,0 @@
-Denial of Service Vulnerability in Mitsubishi Electric MELSEC Q and L Series CPU Modules
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0277
-
-Multiple Vulnerabilities in Siemens Products
-https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2022-0278

@@ -1,1 +1,0 @@
-The invite contains the details of the participating artists and the venue alongwith other relevant details.

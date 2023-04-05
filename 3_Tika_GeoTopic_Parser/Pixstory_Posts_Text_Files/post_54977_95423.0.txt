@@ -1,6 +1,0 @@
-Name  sahiba
-Fathers  saidul
-AGE 12
-ClassVII
-Females 
-Chintan
