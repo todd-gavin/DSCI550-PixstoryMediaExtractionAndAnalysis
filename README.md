@@ -20,7 +20,7 @@ Collaborators: Todd Gavin, Daniil Abruzzesse, Jai Agrawal, Tania Dawood
 
 2. Let up a local host for your downloaded photos: 
 - Set up a local host on your computer to access a list of image urls by navigating to the 95k_Images directory and running "python -mhttp.server 8888"
-- For Macs: Locate and record IP address for en0 by running "iconfig" in terminal. You can now access your local port of images here: 'http://<IP Address>:8888'
+- For Macs: Locate and record IP address for en0 by running "iconfig" in terminal. You can now access your local port of images here: 'http://10.25.179.208:8888' where 10.25.179.208 is the IP address for en0 (replace with your actual IP address).
 
 3. Image caption generation:
 - Download docker desktop app
