@@ -10,9 +10,9 @@ Collaborators: Todd Gavin, Daniil Abruzzesse, Jai Agrawal, Tania Dawood
 
 
 
-## Image Analysis 
+# Image Analysis 
 
-# Instructions for how to execute the code:
+## Instructions for how to execute the code:
 
 1. Download the 80,000 images from the data set. 
 - Open file "image_downloadv1.ipynb" and run the code from top to bottom. 80,000+ images will begin to download in the 95k_Images folder. 
