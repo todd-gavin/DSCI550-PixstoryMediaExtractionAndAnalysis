@@ -33,6 +33,8 @@ Collaborators: Todd Gavin, Daniil Abruzzesse, Jai Agrawal, Tania Dawood
  - Run the following on the Tika Image Dockers folder: "docker run -it -p 8764:8764 uscdatascience/inception-rest-tika"
  - Open "object_recognition_image_analysis.ipynb" and run code from top to bottom. This code will output a JSON file of images and their respective list of detected objects. Note that this will also take roughly 20-30 hours to run. Each time 100 JSON objects are generated they are added to the JSON file, so you can pick up where you left off if the program terminates.
   
+5. Turn JSON files into DFs and merge into one DF that contains image URLs, image captions, and image detected objects
+  
 
 
 
