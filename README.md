@@ -12,6 +12,17 @@ Collaborators: Todd Gavin, Daniil Abruzzesse, Jai Agrawal, Tania Dawood
 
 # Image Analysis 
 
+## Instructions for installing dependencies:
+
+1. Install the docker desktop app
+2. pip install tensorflow
+3. git clone https://github.com/tensorflow/models.git
+4. export PYTHONPATH="$PYTHONPATH:`pwd`:`pwd`/slim"
+5. python -c 'import tensorflow, numpy, dataset; print("OK")'
+6. git clone https://github.com/USCDataScience/tika-dockers.git && cd tika-dockers
+7. docker build -f InceptionRestDockerfile -t uscdatascience/inception-rest-tika 
+
+
 ## Instructions for how to execute the code:
 
 1. Download the 80,000 images from the data set. 
@@ -23,7 +34,6 @@ Collaborators: Todd Gavin, Daniil Abruzzesse, Jai Agrawal, Tania Dawood
 - For Macs: Locate and record IP address for en0 by running "iconfig" in terminal. You can now access your local port of images here: 'http://10.25.179.208:8888' where 10.25.179.208 is the IP address for en0 (replace with your actual IP address).
 
 3. Image caption generation:
-- Download docker desktop app
 - Run the following on the Tika Image Dockers folder: "docker run -it -p 8764:8764 uscdatascience/im2txt-rest-tika"
 - Open "captions_image_analysis.ipynb" and run code from top to bottom. This code will output a JSON file of images and their respective captions. Note that this will take roughly 20-30 hours to run, however the the code is written such each that every time 100 JSON objects are generated they are added to the JSON file, so you can pick up where you left off if the program terminates.
   
