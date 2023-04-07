@@ -1,1 +1,0 @@
- include using namespace std int main int first number second number product cout Enter two integers cin first number second number sum of two numbers in stored in variable productOfTwoNumbers sum first number second number prints product cout first number second number product return 

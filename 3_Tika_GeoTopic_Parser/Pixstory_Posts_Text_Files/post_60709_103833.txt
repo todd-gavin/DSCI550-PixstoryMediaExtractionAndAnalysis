@@ -1,1 +1,0 @@
-We use charts for data visualization but different charts are used for different type of data These are some examples for better understanding 

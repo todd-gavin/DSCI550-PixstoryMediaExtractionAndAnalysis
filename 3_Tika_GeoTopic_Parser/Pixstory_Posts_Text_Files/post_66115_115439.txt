@@ -1,1 +1,0 @@
-You can use AutoSum to quickly sum a column or row or numbers Select a cell next to the numbers you want to sum click AutoSum on the Home tab press Enter in Windows or Return in Mac 

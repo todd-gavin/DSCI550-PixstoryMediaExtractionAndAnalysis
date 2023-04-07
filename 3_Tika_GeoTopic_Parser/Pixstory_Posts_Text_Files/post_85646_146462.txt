@@ -1,1 +1,0 @@
-Something I found very difficult to do on excel was select all cells simultaneously The task becomes especially tedious when you have a very large sheet on excel The above command was taught by my teacher and it has just made all my work so easy 

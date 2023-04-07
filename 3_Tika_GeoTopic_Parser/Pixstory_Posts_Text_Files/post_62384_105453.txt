@@ -1,1 +1,0 @@
- Select the whole columns you want to delete Now use the shortcut i e Alt H D C to delte the selected columns Now instead of doing this work individually for each column use this shortcut 

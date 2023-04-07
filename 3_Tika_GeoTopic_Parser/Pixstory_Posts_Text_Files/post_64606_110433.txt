@@ -1,0 +1,1 @@
+So in this post i will explain you how to print some text to your program using c coding language In any compiler like turbo c or any write this code and you will see the text will be printed include using namespace std int main cout Hello Compiler I am C cout endl return 

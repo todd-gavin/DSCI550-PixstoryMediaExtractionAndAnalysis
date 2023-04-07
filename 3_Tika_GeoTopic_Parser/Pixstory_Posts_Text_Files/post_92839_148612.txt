@@ -1,1 +1,0 @@
-Python code for factorial of a number 
