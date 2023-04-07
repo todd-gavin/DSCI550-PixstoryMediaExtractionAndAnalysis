@@ -19,6 +19,7 @@ Collaborators: Todd Gavin, Daniil Abruzzesse, Jai Agrawal, Tania Dawood
 1. Download the 80,000 images from the data set. 
     - Open file `image_downloadv1.ipynb` and run the code from top to bottom. 80,000+ images will begin to download in the 95k_Images folder. 
     - Use `ls -1 | wc -l` in 95k_Images to view download progress.
+    - Note: We downloaded 80,581 images out of a total of 80,585 images. This is because 4 images returned errors when downloading due to their link being broken.  
 2. Set up a local host for your downloaded photos: 
     - Set up a local host on your computer to access a list of image urls by navigating to the 95k_Images directory and running `python -mhttp.server 8888`
     - For Macs: Locate and record IP address for en0 by running `iconfig` in terminal. You can now access your local port of images here: `http://10.25.179.208:8888` where `10.25.179.208` is the IP address for en0 (replace with your actual IP address).
@@ -35,12 +36,12 @@ Collaborators: Todd Gavin, Daniil Abruzzesse, Jai Agrawal, Tania Dawood
 1. `pip install langdetect`
 2. `pip install Tika`
 Insights: 
-- Language detection found that English was the most prevalent language and Telugu the least prevalent. This analysis also found differences between Tika and Google Lang Detect in identifying the languages.
+Language detection found that English was the most prevalent language and Telugu the least prevalent. This analysis also found differences between Tika and Google Lang Detect in identifying the languages.
 
 ## Run Tika Language Translations
 1. You need to make sure you have tika and get the docker image running with this command:
-    - `IMAGE=tgowda/rtg-model:500toEng-v1`
-    - `docker run --rm -i -p 6060:6060 $IMAGE`
+- `IMAGE=tgowda/rtg-model:500toEng-v1`
+- `docker run --rm -i -p 6060:6060 $IMAGE`
 2. You’ll also need to pip install tika and emoji.
 3. Please make sure you have Java1.8 or higher intsalled on the environment you are using to run the notebook
 
