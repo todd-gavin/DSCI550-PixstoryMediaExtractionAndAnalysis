@@ -4,6 +4,8 @@ Collaborators: Todd Gavin, Daniil Abruzzesse, Jai Agrawal, Tania Dawood
 
 #### For information on how to install the neccessary dependencies and softwares, please refer to the `.md` file titled `Software_Installation_Instructions.md`.
 
+#### The completed EXTRACT dataset (Master_Pixstory_Dataset_Complete.tsv) can be found inside the repository with path: `/DSCI550-PixstoryMediaExtractionAndAnalysis/Datasets/Master_Pixstory_Dataset_Complete.tsv`
+
 ## Run Apache Tika Image Analysis - Caption Generation and Object Recognition
 
 ### Instructions for installing dependencies:
@@ -33,17 +35,27 @@ Collaborators: Todd Gavin, Daniil Abruzzesse, Jai Agrawal, Tania Dawood
 5. Turn JSON files into DFs and merge into one DF that contains image URLs, image captions, and image detected objects
  
 ## Run Tika and Google Language Detect
-1. `pip install langdetect`
-2. `pip install Tika`
-Insights: 
-Language detection found that English was the most prevalent language and Telugu the least prevalent. This analysis also found differences between Tika and Google Lang Detect in identifying the languages.
+1. Kill all java processes and kill tika server is already running (refer to Errors section fo ReadMe)
+-  killall java
+2. On the Jupyter Notebook:
+- pip install langdetect
+- pip install Tika 
+- Run the notebook TikaGoogleLangDetect.ipynb in directory 1_Language Identification, to generate the language codes 
 
 ## Run Tika Language Translations
-1. You need to make sure you have tika and get the docker image running with this command:
-- `IMAGE=tgowda/rtg-model:500toEng-v1`
-- `docker run --rm -i -p 6060:6060 $IMAGE`
-2. You’ll also need to pip install tika and emoji.
+### Instructions for installing dependencies:
+1. Kill all java processes and kill tika server is already running (refer to Errors section fo ReadMe)
+- killall java
+2. Install the docker desktop app
+3. pip install Tika 
+4. You need to make sure you have tika installed and get the docker image running with this command in the terminal:
+    - `IMAGE=tgowda/rtg-model:500toEng-v1`
+    - `docker run --rm -i -p 6060:6060 $IMAGE`
+
+1. Import Tika 
+2. Pip install and emoji.
 3. Please make sure you have Java1.8 or higher intsalled on the environment you are using to run the notebook
+4. Run the notebook RTG_Text_Translations.ipynb in directory 2_English Translation with RTG, to generate the English translations
 
 ## Run Apache Tika GeoTopic Parser End-to-End
 1. Kill all java processes and kill tika server is already running (refer to Errors section fo ReadMe)
@@ -88,16 +100,20 @@ There are a few significant correlations between Interest and GeoTopic Name (loc
 - However, the Geotopic "Russian Federation", shows a high amount if Interest clustering for topics surrounfing the Russia-Ukraine War such as war, ukraine war, ukraine, us government, vladimir putin, etc.
 
 ## 2. What is the most prevalent language in the posts, and least prevalent? 
+- Language detection found that English was the most prevalent language and Telugu the least prevalent. This analysis also found differences between Tika and Google Lang Detect in identifying the languages.
+/1_Language Identification/LangVisualizations.ipynb/
 
 ## 3. Is there a correlation between post language and identified mentioned locations? 
 
-Note: Visualizations can be found in `/6_Report Questions/q3_figures/`
+- Note: Visualizations can be found in `/6_Report Questions/q3_figures/`
 
-In the figures "tikaLanguageVsLocationHeatMap.png" and "googleLanguageVsLocationHeatMap", we can see that a majority of the clustering is for language code en (english). The largest clusetrings though is for the GeoTopics of "British Indian Ocean Territory", "Delhi", "Manchester", and "Islamic Republic of Afghanistan". Behind the language code en (english), the second highest language code is it (italian), with ofcourse the GeoTopic "Town of Italy" (and other related GeoTopics) have the highest clustering.
+- In the figures "tikaLanguageVsLocationHeatMap.png" and "googleLanguageVsLocationHeatMap", we can see that a majority of the clustering is for language code en (english). The largest clusetrings though is for the GeoTopics of "British Indian Ocean Territory", "Delhi", "Manchester", and "Islamic Republic of Afghanistan". Behind the language code en (english), the second highest language code is it (italian), with ofcourse the GeoTopic "Town of Italy" (and other related GeoTopics) have the highest clustering.
 
 ## 4. Are  there  correlations  between  the  sporting  events,  or  the  entertainment  events  with locations?  
+- We noticed that Australian events were some of the most talked about sporting and entertainment events and one of the most posted from locations was also within Australia.
 
 ## 5. Do the Detoxify scores and associated GLAAD and ADL or sarcasm flags line up? Is there any relationship between the flags and the identified Detoxify scores?
+- We findings showed that there is not much correlation between hate speech, sarcasm flags and detoxify scores as shown in Figure 7 which can be found in /6_Report Questions/q5_figures.
 
 ## 6. Do the image captions accurately represent the image? 
 - Findings: image caption generation is relatively inconsistent; there are many instances of a proper description but many that entirely missrepresent what is shown in the image. 
@@ -106,5 +122,7 @@ In the figures "tikaLanguageVsLocationHeatMap.png" and "googleLanguageVsLocation
 - Findings: on average, the identified objects present captured 26.8 percent of the narratives and 23.5 percent of the generated captions. This indicates that the identified objects presen in the image, on average, are not strongly related to what was described in the original post or the generated caption.
 
 ## 8. Are  there  any  age,  or  gender  specific  trends  you  see  in  the  text  captions  or  identified objects in the image media?
+- Overall, for image captions, we noticed the trend that the mean age is somewhere between 25-26 and the general gender distribution is skewed towards men (~60%) while females are around 24-26%. The demographics did not change much for specific objects, as the mean age remained around 25-26, and the gender distribution is similar.
 
 ## 9. What are your thoughts about the ML and Deep Learning software like RTG, GeoTopicParser, Detoxify, LangDetect, Tika Image Captioning, etc. – what was easy about using it? What wasn’t?`
+- The analysis encountered several issues including difficulty establishing a connection to Tika server, setting up image links for Tika Image Captioning, and configuring GeoTopic Parser. Tika Image Captioning produced inconsistent results, while GeoTopic Parser was reliable once set up. Detoxify was easy to use but its effectiveness requires further analysis.
