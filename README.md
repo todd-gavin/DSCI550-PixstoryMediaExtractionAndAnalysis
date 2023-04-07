@@ -34,6 +34,8 @@ Collaborators: Todd Gavin, Daniil Abruzzesse, Jai Agrawal, Tania Dawood
 ## Run Tika and Google Language Detect
 1. `pip install langdetect`
 2. `pip install Tika`
+Insights: 
+Language detection found that English was the most prevalent language and Telugu the least prevalent. This analysis also found differences between Tika and Google Lang Detect in identifying the languages.
 
 ## Run Tika Language Translations
 1. You need to make sure you have tika and get the docker image running with this command:
