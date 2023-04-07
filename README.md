@@ -34,7 +34,12 @@ Collaborators: Todd Gavin, Daniil Abruzzesse, Jai Agrawal, Tania Dawood
   
 5. Turn JSON files into DFs and merge into one DF that contains image URLs, image captions, and image detected objects
   
+# Translations
 
-
+1. You need to make sure you have tika and get the docker image running with this command:
+IMAGE=tgowda/rtg-model:500toEng-v1
+docker run --rm -i -p 6060:6060 $IMAGE
+2. You’ll also need to pip install tika and emoji. I accidentally installed / imported requests too but didn’t end up using it
+3. Please make sure you have Java1.8 or higher intsalled on the environment you are using to run the notebook
 
 
