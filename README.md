@@ -79,21 +79,21 @@ Overall, for all GeoTopic Names, narratives with associating user ages between 1
 
 ### Gender and Location
 There are a few significant correlations between Gender and GeoTopic Name (location). To determine these correlations, I created a heatmap that shows the GeoTopic Name along the X-axis and the Gender along the Y-Axis. 
-    - As we can see from figure "genderVsLocationHeatMap.png", the GeoTopic name of "British Indian Ocean Territory" has the greatest number of associaitng user narratives for males over females.
-    - The "Islamic Republic of Afghanistan" is the only GeoTopic with more females than males.
+- As we can see from figure "genderVsLocationHeatMap.png", the GeoTopic name of "British Indian Ocean Territory" has the greatest number of associaitng user narratives for males over females.
+- The "Islamic Republic of Afghanistan" is the only GeoTopic with more females than males.
 
 ### Interests and Location
 There are a few significant correlations between Interest and GeoTopic Name (location). To determine these correlations, I created a heatmap that shows the GeoTopic Name along the X-axis and the Interests along the Y-Axis. 
-    - As we can see from figure "interestsVsLocationHeatMap.png", the GeoTopic name of "British Indian Ocean Territory" has the greatest greatest clustering for multiple interests such as health, politics, and sports.
-    - However, the Geotopic "Russian Federation", shows a high amount if Interest clustering for topics surrounfing the Russia-Ukraine War such as war, ukraine war, ukraine, us government, vladimir putin, etc.
+- As we can see from figure "interestsVsLocationHeatMap.png", the GeoTopic name of "British Indian Ocean Territory" has the greatest greatest clustering for multiple interests such as health, politics, and sports.
+- However, the Geotopic "Russian Federation", shows a high amount if Interest clustering for topics surrounfing the Russia-Ukraine War such as war, ukraine war, ukraine, us government, vladimir putin, etc.
 
 2. What is the most prevalent language in the posts, and least prevalent? 
 
-Note: Visualizations can be found in `/6_Report Questions/31_figures/`
+3. Is there a correlation between post language and identified mentioned locations? 
+
+Note: Visualizations can be found in `/6_Report Questions/q3_figures/`
 
 In the figures "tikaLanguageVsLocationHeatMap.png" and "googleLanguageVsLocationHeatMap", we can see that a majority of the clustering is for language code en (english). The largest clusetrings though is for the GeoTopics of "British Indian Ocean Territory", "Delhi", "Manchester", and "Islamic Republic of Afghanistan". Behind the language code en (english), the second highest language code is it (italian), with ofcourse the GeoTopic "Town of Italy" (and other related GeoTopics) have the highest clustering.
-
-3. Is there a correlation between post language and identified mentioned locations? 
 
 4. Are  there  correlations  between  the  sporting  events,  or  the  entertainment  events  with locations?  
 
