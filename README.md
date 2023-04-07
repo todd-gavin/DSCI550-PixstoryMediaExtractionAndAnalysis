@@ -34,23 +34,22 @@ Collaborators: Todd Gavin, Daniil Abruzzesse, Jai Agrawal, Tania Dawood
  
 ## Run Tika and Google Language Detect
 1. Kill all java processes and kill tika server is already running (refer to Errors section fo ReadMe)
-* killall java
-On the Jupyter Notebook:
-1. pip install langdetect
-2. pip install Tika 
-3. Run the notebook TikaGoogleLangDetect.ipynb in directory 1_Language Identification, to generate the language codes 
+-  killall java
+2. On the Jupyter Notebook:
+- pip install langdetect
+- pip install Tika 
+- Run the notebook TikaGoogleLangDetect.ipynb in directory 1_Language Identification, to generate the language codes 
 
 ## Run Tika Language Translations
 ### Instructions for installing dependencies:
 1. Kill all java processes and kill tika server is already running (refer to Errors section fo ReadMe)
-* killall java
+- killall java
 2. Install the docker desktop app
 3. pip install Tika 
 4. You need to make sure you have tika installed and get the docker image running with this command in the terminal:
     - `IMAGE=tgowda/rtg-model:500toEng-v1`
     - `docker run --rm -i -p 6060:6060 $IMAGE`
 
-On the Jupyter Notebook:
 1. Import Tika 
 2. Pip install and emoji.
 3. Please make sure you have Java1.8 or higher intsalled on the environment you are using to run the notebook
