@@ -31,22 +31,18 @@ Collaborators: Todd Gavin, Daniil Abruzzesse, Jai Agrawal, Tania Dawood
 
 ### Instructions for how to execute the code:
 1. Download the 80,000 images from the data set. 
-- Open file `image_downloadv1.ipynb` and run the code from top to bottom. 80,000+ images will begin to download in the 95k_Images folder. 
-- Use `ls -1 | wc -l` in 95k_Images to view download progress.
-
+    - Open file `image_downloadv1.ipynb` and run the code from top to bottom. 80,000+ images will begin to download in the 95k_Images folder. 
+    - Use `ls -1 | wc -l` in 95k_Images to view download progress.
 2. Set up a local host for your downloaded photos: 
-- Set up a local host on your computer to access a list of image urls by navigating to the 95k_Images directory and running `python -mhttp.server 8888`
-- For Macs: Locate and record IP address for en0 by running `iconfig` in terminal. You can now access your local port of images here: `http://10.25.179.208:8888` where `10.25.179.208` is the IP address for en0 (replace with your actual IP address).
-
+    - Set up a local host on your computer to access a list of image urls by navigating to the 95k_Images directory and running `python -mhttp.server 8888`
+    - For Macs: Locate and record IP address for en0 by running `iconfig` in terminal. You can now access your local port of images here: `http://10.25.179.208:8888` where `10.25.179.208` is the IP address for en0 (replace with your actual IP address).
 3. Image caption generation:
-- Run the following on the Tika Image Dockers folder: `docker run -it -p 8764:8764 uscdatascience/im2txt-rest-tika`
-- Open `captions_image_analysis.ipynb` and run code from top to bottom. This code will output a JSON file of images and their respective captions. Note that this will take roughly 20-30 hours to run, however the the code is written such each that every time 100 JSON objects are generated they are added to the JSON file, so you can pick up where you left off if the program terminates.
-  
+    - Run the following on the Tika Image Dockers folder: `docker run -it -p 8764:8764 uscdatascience/im2txt-rest-tika`
+    - Open `captions_image_analysis.ipynb` and run code from top to bottom. This code will output a JSON file of images and their respective captions. Note that this will take roughly 20-30 hours to run, however the the code is written such each that every time 100 JSON objects are generated they are added to the JSON file, so you can pick up where you left off if the program terminates.
 4. Image objects detected generation:
-- Go to Docker Desktop and kill the container
-- Run the following on the Tika Image Dockers folder: `docker run -it -p 8764:8764 uscdatascience/inception-rest-tika`
-- Open `object_recognition_image_analysis.ipynb` and run code from top to bottom. This code will output a JSON file of images and their respective list of detected objects. Note that this will also take roughly 20-30 hours to run. Each time 100 JSON objects are generated they are added to the JSON file, so you can pick up where you left off if the program terminates.
-  
+    - Go to Docker Desktop and kill the container
+    - Run the following on the Tika Image Dockers folder: `docker run -it -p 8764:8764 uscdatascience/inception-rest-tika`
+    - Open `object_recognition_image_analysis.ipynb` and run code from top to bottom. This code will output a JSON file of images and their respective list of detected objects. Note that this will also take roughly 20-30 hours to run. Each time 100 JSON objects are generated they are added to the JSON file, so you can pick up where you left off if the program terminates.
 5. Turn JSON files into DFs and merge into one DF that contains image URLs, image captions, and image detected objects
  
 ## Run Tika and Google Language Detect
