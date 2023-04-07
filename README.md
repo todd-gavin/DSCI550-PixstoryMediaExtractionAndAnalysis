@@ -74,8 +74,10 @@ Language detection found that English was the most prevalent language and Telugu
 5. Do the Detoxify scores and associated GLAAD and ADL or sarcasm flags line up? Is there any relationship between the flags and the identified Detoxify scores?
 
 6. Do the image captions accurately represent the image? 
+Findings: image caption generation is relatively inconsistent; there are many instances of a proper description but many that entirely missrepresent what is shown in the image. 
 
 7. Are the identified objects present in the image described in the original post and/or the generated caption?
+Findings: on average, the identified objects present captured 26.8 percent of the narratives and 23.5 percent of the generated captions. This indicates that the identified objects presen in the image, on average, are not strongly related to what was described in the original post or the generated caption.
 
 8. Are  there  any  age,  or  gender  specific  trends  you  see  in  the  text  captions  or  identified objects in the image media?
 
