@@ -2,21 +2,7 @@
 
 Collaborators: Todd Gavin, Daniil Abruzzesse, Jai Agrawal, Tania Dawood
 
-#### For infromation on how to install the neccessary dependencies and softwares, please refer to the `.md` file titled `Software_Installation_Instructions.md`.
-
-## Run Apache Tika GeoTopic Parser End-to-End
-1. Kill all java processes and kill tika server is already running (refer to Errors section fo ReadMe)
-    - `killall java`
-    - List current processes: `jps`
-        - Kill all tika processes with: `kill <process number>`
-2. Navigate to directory /3_Tika_GeoTopic_Parser and run command to start lucene server: `lucene-geo-gazetteer -server`
-    - Should see this if working: `INFO: Starting ProtocolHandler ["http-nio-8765"]`
-    - If its not working, re-run command to set up path inside of /lucene-geo-gazetteer/src/main/bin: `export PATH=$PWD:$PATH`
-3. In new terminal window, navigate to directory /3_Tika_GeoTopic_Parser and run command to start geotopic server: `./geotopic-server`
-    - Should see this if working: `INFO  [main] 16:25:04,222 org.apache.tika.server.core.TikaServerProcess Started Apache Tika server ff835cb6-9aa1-4817-ba8d-d035eb174c87 at http://localhost:9998/`
-4. In new terminal window again, navigate to directory /3_Tika_GeoTopic_Parser and run command to test servers: `curl -T polar.geot -H "Content-Type: application/geotopic; filename=polar.geot" http://localhost:9998/rmeta | python -mjson.tool`
-    - Should Get if running correctly: `United States, 39.76, -98.5`
-5. Run `geotopicParser.ipynb` on the 95k text files generated from the dataset.
+#### For information on how to install the neccessary dependencies and softwares, please refer to the `.md` file titled `Software_Installation_Instructions.md`.
 
 ## Run Apache Tika Image Analysis - Caption Generation and Object Recognition
 
@@ -55,6 +41,20 @@ Collaborators: Todd Gavin, Daniil Abruzzesse, Jai Agrawal, Tania Dawood
 - `docker run --rm -i -p 6060:6060 $IMAGE`
 2. You’ll also need to pip install tika and emoji.
 3. Please make sure you have Java1.8 or higher intsalled on the environment you are using to run the notebook
+
+## Run Apache Tika GeoTopic Parser End-to-End
+1. Kill all java processes and kill tika server is already running (refer to Errors section fo ReadMe)
+    - `killall java`
+    - List current processes: `jps`
+        - Kill all tika processes with: `kill <process number>`
+2. Navigate to directory /3_Tika_GeoTopic_Parser and run command to start lucene server: `lucene-geo-gazetteer -server`
+    - Should see this if working: `INFO: Starting ProtocolHandler ["http-nio-8765"]`
+    - If its not working, re-run command to set up path inside of /lucene-geo-gazetteer/src/main/bin: `export PATH=$PWD:$PATH`
+3. In new terminal window, navigate to directory /3_Tika_GeoTopic_Parser and run command to start geotopic server: `./geotopic-server`
+    - Should see this if working: `INFO  [main] 16:25:04,222 org.apache.tika.server.core.TikaServerProcess Started Apache Tika server ff835cb6-9aa1-4817-ba8d-d035eb174c87 at http://localhost:9998/`
+4. In new terminal window again, navigate to directory /3_Tika_GeoTopic_Parser and run command to test servers: `curl -T polar.geot -H "Content-Type: application/geotopic; filename=polar.geot" http://localhost:9998/rmeta | python -mjson.tool`
+    - Should Get if running correctly: `United States, 39.76, -98.5`
+5. Run `geotopicParser.ipynb` on the 95k text files generated from the dataset.
 
 ## Run Detoxify
 1. Make sure Detoxify and it's dependencies are installed
