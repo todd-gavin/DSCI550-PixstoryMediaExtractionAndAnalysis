@@ -190,8 +190,7 @@ https://github.com/pytorch/pytorch/issues/53601#issuecomment-967307449
 
 ## 6. Install Tika Image Dockers and generate captions for your Pixstory images posts 
 - To  access  the  images,  use  the  URL  from  the  post  and give  it  the  URL  prefix 
-“/optimized”,  such  as:  https://image.pixstory.com/optimized/Pixstory-image-
-164416629024955.jpeg  
+“/optimized”,  such  as:  https://image.pixstory.com/optimized/Pixstory-image-164416629024955.jpeg  
 
 1. Download all 95k images associated with the posts 
     - Write a simple python script to do this 
