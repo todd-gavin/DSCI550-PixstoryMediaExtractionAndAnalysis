@@ -10,4 +10,3 @@
 8. Are  there  any  age,  or  gender  specific  trends  you  see  in  the  text  captions  or  identified objects in the image media? `(Jai)`
  
 `Also include your thoughts about the ML and Deep Learning software like RTG, GeoTopicParser, Detoxify, LangDetect, Tika Image Captioning, etc. – what was easy about using it? What wasn’t?`
-^ We all need to write our thoughts on this.
