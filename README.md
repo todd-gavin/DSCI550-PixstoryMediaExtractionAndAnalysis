@@ -33,17 +33,28 @@ Collaborators: Todd Gavin, Daniil Abruzzesse, Jai Agrawal, Tania Dawood
 5. Turn JSON files into DFs and merge into one DF that contains image URLs, image captions, and image detected objects
  
 ## Run Tika and Google Language Detect
-1. `pip install langdetect`
-2. `pip install Tika`
-Insights: 
-Language detection found that English was the most prevalent language and Telugu the least prevalent. This analysis also found differences between Tika and Google Lang Detect in identifying the languages.
+1. Kill all java processes and kill tika server is already running (refer to Errors section fo ReadMe)
+* killall java
+On the Jupyter Notebook:
+1. pip install langdetect
+2. pip install Tika 
+3. Run the notebook TikaGoogleLangDetect.ipynb in directory 1_Language Identification, to generate the language codes 
 
 ## Run Tika Language Translations
-1. You need to make sure you have tika and get the docker image running with this command:
-- `IMAGE=tgowda/rtg-model:500toEng-v1`
-- `docker run --rm -i -p 6060:6060 $IMAGE`
-2. You’ll also need to pip install tika and emoji.
+### Instructions for installing dependencies:
+1. Kill all java processes and kill tika server is already running (refer to Errors section fo ReadMe)
+* killall java
+2. Install the docker desktop app
+3. pip install Tika 
+4. You need to make sure you have tika installed and get the docker image running with this command in the terminal:
+    - `IMAGE=tgowda/rtg-model:500toEng-v1`
+    - `docker run --rm -i -p 6060:6060 $IMAGE`
+
+On the Jupyter Notebook:
+1. Import Tika 
+2. Pip install and emoji.
 3. Please make sure you have Java1.8 or higher intsalled on the environment you are using to run the notebook
+4. Run the notebook RTG_Text_Translations.ipynb in directory 2_English Translation with RTG, to generate the English translations
 
 ## Run Apache Tika GeoTopic Parser End-to-End
 1. Kill all java processes and kill tika server is already running (refer to Errors section fo ReadMe)
