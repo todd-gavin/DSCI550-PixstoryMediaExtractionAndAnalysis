@@ -17,8 +17,8 @@ Collaborators: Todd Gavin, Daniil Abruzzesse, Jai Agrawal, Tania Dawood
 1. Install the docker desktop app
 2. pip install tensorflow
 3. git clone https://github.com/tensorflow/models.git
-4. export PYTHONPATH="$PYTHONPATH:`pwd`:`pwd`/slim"
-5. python -c 'import tensorflow, numpy, dataset; print("OK")'
+4. $ export PYTHONPATH="$PYTHONPATH:`pwd`:`pwd`/slim"
+5. $ python -c 'import tensorflow, numpy, dataset; print("OK")'
 6. git clone https://github.com/USCDataScience/tika-dockers.git && cd tika-dockers
 7. docker build -f InceptionRestDockerfile -t uscdatascience/inception-rest-tika 
 
