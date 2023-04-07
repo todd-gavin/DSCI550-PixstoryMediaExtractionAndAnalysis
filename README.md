@@ -64,16 +64,16 @@ Language detection found that English was the most prevalent language and Telugu
 2. Run the notebook `Detoxification.ipynb` in directory `5_PyTorch Detoxify`, and the scores will generate.
 
 # Report Questions
-1. Are there any age or gender or topic based correlations by location in the posts? 
+## 1. Are there any age or gender or topic based correlations by location in the posts? 
 
 Note: Visualizations can be found in `/6_Report Questions/q1_figures/`
 
 ### Age and Location
 There are a few significant correlations between Age and GeoTopic Name (location). To determine these correlations, I created a heatmap that shows the GeoTopic Name along the X-axis and the Age along the Y-Axis. 
-    - As we can see from figure "ageVsLocationHeatMap.png", the GeoTopic name of "British Indian Ocean Territory" has the greatest clustering of asssoiciating user narratives with ages between 18 and 24. This group also has a signficiant amount of users between the ages of 42 and 47. 
-    - This is logical because Pixstory is a social media that is very popular in India.
-    - The GeoTopic Name "Islamic Republic of Afghanistan" has a cluster of associated user narratives with ages between 21 and 22.
-    - The GeoTopic Name "Manchester" has a cluster of associated user narratives with ages between 21 and 24.
+- As we can see from figure "ageVsLocationHeatMap.png", the GeoTopic name of "British Indian Ocean Territory" has the greatest clustering of asssoiciating user narratives with ages between 18 and 24. This group also has a signficiant amount of users between the ages of 42 and 47. 
+- This is logical because Pixstory is a social media that is very popular in India.
+- The GeoTopic Name "Islamic Republic of Afghanistan" has a cluster of associated user narratives with ages between 21 and 22.
+- The GeoTopic Name "Manchester" has a cluster of associated user narratives with ages between 21 and 24.
 
 Overall, for all GeoTopic Names, narratives with associating user ages between 18 and 26 is the greatest.
 
@@ -87,24 +87,24 @@ There are a few significant correlations between Interest and GeoTopic Name (loc
 - As we can see from figure "interestsVsLocationHeatMap.png", the GeoTopic name of "British Indian Ocean Territory" has the greatest greatest clustering for multiple interests such as health, politics, and sports.
 - However, the Geotopic "Russian Federation", shows a high amount if Interest clustering for topics surrounfing the Russia-Ukraine War such as war, ukraine war, ukraine, us government, vladimir putin, etc.
 
-2. What is the most prevalent language in the posts, and least prevalent? 
+## 2. What is the most prevalent language in the posts, and least prevalent? 
 
-3. Is there a correlation between post language and identified mentioned locations? 
+## 3. Is there a correlation between post language and identified mentioned locations? 
 
 Note: Visualizations can be found in `/6_Report Questions/q3_figures/`
 
 In the figures "tikaLanguageVsLocationHeatMap.png" and "googleLanguageVsLocationHeatMap", we can see that a majority of the clustering is for language code en (english). The largest clusetrings though is for the GeoTopics of "British Indian Ocean Territory", "Delhi", "Manchester", and "Islamic Republic of Afghanistan". Behind the language code en (english), the second highest language code is it (italian), with ofcourse the GeoTopic "Town of Italy" (and other related GeoTopics) have the highest clustering.
 
-4. Are  there  correlations  between  the  sporting  events,  or  the  entertainment  events  with locations?  
+## 4. Are  there  correlations  between  the  sporting  events,  or  the  entertainment  events  with locations?  
 
-5. Do the Detoxify scores and associated GLAAD and ADL or sarcasm flags line up? Is there any relationship between the flags and the identified Detoxify scores?
+## 5. Do the Detoxify scores and associated GLAAD and ADL or sarcasm flags line up? Is there any relationship between the flags and the identified Detoxify scores?
 
-6. Do the image captions accurately represent the image? 
+## 6. Do the image captions accurately represent the image? 
 - Findings: image caption generation is relatively inconsistent; there are many instances of a proper description but many that entirely missrepresent what is shown in the image. 
 
-7. Are the identified objects present in the image described in the original post and/or the generated caption?
+## 7. Are the identified objects present in the image described in the original post and/or the generated caption?
 - Findings: on average, the identified objects present captured 26.8 percent of the narratives and 23.5 percent of the generated captions. This indicates that the identified objects presen in the image, on average, are not strongly related to what was described in the original post or the generated caption.
 
-8. Are  there  any  age,  or  gender  specific  trends  you  see  in  the  text  captions  or  identified objects in the image media?
+## 8. Are  there  any  age,  or  gender  specific  trends  you  see  in  the  text  captions  or  identified objects in the image media?
 
-9. What are your thoughts about the ML and Deep Learning software like RTG, GeoTopicParser, Detoxify, LangDetect, Tika Image Captioning, etc. – what was easy about using it? What wasn’t?`
+## 9. What are your thoughts about the ML and Deep Learning software like RTG, GeoTopicParser, Detoxify, LangDetect, Tika Image Captioning, etc. – what was easy about using it? What wasn’t?`
