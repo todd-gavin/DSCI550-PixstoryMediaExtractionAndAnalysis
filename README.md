@@ -4,6 +4,8 @@ Collaborators: Todd Gavin, Daniil Abruzzesse, Jai Agrawal, Tania Dawood
 
 #### For information on how to install the neccessary dependencies and softwares, please refer to the `.md` file titled `Software_Installation_Instructions.md`.
 
+#### The completed EXTRACT dataset (Master_Pixstory_Dataset_Complete.tsv) can be found inside the repository with path: /DSCI550-PixstoryMediaExtractionAndAnalysis/Datasets/Master_Pixstory_Dataset_Complete.tsv
+
 ## Run Apache Tika Image Analysis - Caption Generation and Object Recognition
 
 ### Instructions for installing dependencies:
