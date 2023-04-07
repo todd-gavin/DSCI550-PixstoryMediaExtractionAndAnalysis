@@ -55,6 +55,10 @@ docker run --rm -i -p 6060:6060 $IMAGE
 2. You’ll also need to pip install tika and emoji.
 3. Please make sure you have Java1.8 or higher intsalled on the environment you are using to run the notebook
 
+# Detoxify
+1. Make sure Detoxify and it's dependencies are installed
+2. Run the notebook "Detoxification.ipynb" in 5_PyTorch Detoxify, and the scores will generate.
+
 # Report Questions
 
  
